@@ -1,8 +1,8 @@
 
 const express = require('express')
-const commodity_route = require('./routes/commodity_routes')
+const commodity_route = require('./functions/routes/commodity_routes')
 //const future_route = require('../routes/futures_routes')
-const commodity = require('./commodity')
+const commodity = require('./functions/commodity')
 
 const cron =require("node-cron")
 
