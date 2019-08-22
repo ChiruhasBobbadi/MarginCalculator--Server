@@ -37,5 +37,6 @@ cron.schedule("04 00 * * *", () => {
 
 
 
+ port = process.env.port||9000;
 
-app.listen(3100)
+app.listen(port)
