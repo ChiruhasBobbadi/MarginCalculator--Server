@@ -5,29 +5,27 @@ const path = require('path')
 
 
 
-// function kite_call(){
-//     kite_json=""
-//     _json=[]
-//     request.get("https://api.kite.trade/margins/commodity", (error, response, body) => {
-//         if(error) {
-//             return console.dir(error);
-//         }
-//         kite_json = (JSON.parse(body));
+function kite_call(){
+    kite_json=""
+    new_json=[]
+    request.get("https://api.kite.trade/margins/commodity", (error, response, body) => {
+        if(error) {
+            return console.dir(error);
+        }
+        kite_json = (JSON.parse(body));
 
-//         kite_json.forEach(element => {
-//             _json.push({co_lower:element.co_lower,co_upper:element.co_upper})
-//         });
-        
-//     });
+        kite_json.forEach(element => {
+            new_json.push({co_lower:element.co_lower,co_upper:element.co_upper})
+        });
+        //console.log(new_json)
+        call(new_json)
+    });
     
-//     return new_json
-// }
+}
 
-function call() {
+function call(json) {
 
     data = []
-
-    json = []
 
     new_json = 0
 
@@ -56,7 +54,7 @@ function call() {
                     
                     temp = json.shift();
                     // convert to json
-                    test.push({ scrip: data[0], lot: data[1], price: data[2], nrml: data[3], mis: data[4],temp})
+                    test.push({ scrip: data[0], lot: data[1], price: data[2], nrml: data[3],co_lower:temp.co_lower,co_upper:temp.co_upper})
 
                     data = []
                    
@@ -68,11 +66,11 @@ function call() {
 
             new_json = JSON.stringify(test)
             
-            fs.writeFile(path.join(__dirname,"../","public","files","commodity.json"), new_json, (err) => {
+            fs.writeFile(path.join(__dirname,"../","functions","files","commodity.json"), new_json, (err) => {
                 if (err)
                     console.log(err)
                 else
-                    console.log("File created")
+                    console.log("Commodity file created")
             })
 
 
@@ -86,4 +84,6 @@ function call() {
 }
 
 
-exports.call = call;
+
+
+exports.call = kite_call;
