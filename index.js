@@ -6,6 +6,8 @@ const commodity = require('./functions/commodity')
 const future = require('./functions/future')
 const cron =require("node-cron")
 
+const helmet  =require('helmet')
+
 
 
 cron.schedule("04 00 * * *", () => {
@@ -26,6 +28,7 @@ cron.schedule("04 00 * * *", () => {
 
    
     
+  app.use(helmet())
 
  app.use(commodity_route)
  app.use(future_route)
@@ -37,6 +40,6 @@ cron.schedule("04 00 * * *", () => {
 
 
 
- port = process.env.port||9000;
+ port = process.env.PORT||9000;
 
 app.listen(port)
