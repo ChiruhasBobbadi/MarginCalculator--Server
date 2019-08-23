@@ -40,6 +40,7 @@ cron.schedule("04 00 * * *", () => {
 
 
 
- port = process.env.PORT||9000;
 
-app.listen(port)
+ app.listen(SERVER_PORT,function(){
+  console.log("Server is listening at port :  ",SERVER_PORT);
+});
