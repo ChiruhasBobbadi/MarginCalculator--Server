@@ -25,8 +25,8 @@ cron.schedule("30 2 * * *", () => {
     
   });
 
-  cron.schedule("26 18 * * *", () => {
-    console.log(`future function is called `);
+  cron.schedule("34 2 * * *", () => {
+    console.log(`Currency function is called `);
      currency.call()
     
   });
