@@ -10,13 +10,13 @@ const helmet  =require('helmet')
 
 
 
-cron.schedule("04 00 * * *", () => {
+cron.schedule("10 7 * * *", () => {
     console.log(` commodity function is called now`);
      commodity.call()
     
   });
 
-  cron.schedule("05 00 * * *", () => {
+  cron.schedule("12 7 * * *", () => {
     console.log(`future function is called `);
      future.call()
     
