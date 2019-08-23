@@ -8,6 +8,7 @@ const cron =require("node-cron")
 
 const helmet  =require('helmet')
 
+var SERVER_PORT = 5000;
 
 
 cron.schedule("30 7 * * *", () => {
