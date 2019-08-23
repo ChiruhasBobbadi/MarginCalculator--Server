@@ -8,7 +8,7 @@ const path = require('path')
 function kite_call(){
     kite_json=""
     new_json=[]
-    request.get("https://api.kite.trade/margins/commodity", (error, response, body) => {
+    request.get("https://api.kite.trade/margins/currency", (error, response, body) => {
         if(error) {
             return console.dir(error);
         }
@@ -33,7 +33,7 @@ function call(json) {
 
     //json = kite_call()
 
-    request('https://zerodha.com/margin-calculator/Commodity/', (error, response, html) => {
+    request('https://zerodha.com/margin-calculator/Currency/', (error, response, html) => {
 
         if (!error && response.statusCode === 200) {
 
@@ -54,7 +54,7 @@ function call(json) {
                     
                     temp = json.shift();
                     // convert to json
-                    test.push({ scrip: data[0], lot: data[1], price: data[2], nrml: data[3],mis :data[4],co_lower:temp.co_lower,co_upper:temp.co_upper})
+                    test.push({ scrip: data[0], expiry: data[1], lot: data[2], price: data[3],nrml :data[4],mis :data[5],co_lower:temp.co_lower,co_upper:temp.co_upper})
 
                     data = []
                    
@@ -66,11 +66,11 @@ function call(json) {
 
             new_json = JSON.stringify(test)
             
-            fs.writeFile(path.join(__dirname,"../","functions","files","commodity.json"), new_json, (err) => {
+            fs.writeFile(path.join(__dirname,"../","functions","files","currency.json"), new_json, (err) => {
                 if (err)
                     console.log(err)
                 else
-                    console.log("Commodity file created")
+                    console.log("Currency file created")
             })
 
 

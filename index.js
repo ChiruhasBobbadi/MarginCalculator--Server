@@ -2,8 +2,10 @@
 const express = require('express')
 const commodity_route = require('./functions/routes/commodity_routes')
 const future_route = require('./functions/routes/futures_routes')
+const currency_route = require('./functions/routes/currency_routes')
 const commodity = require('./functions/commodity')
 const future = require('./functions/future')
+const currency = require('./functions/currency')
 const cron =require("node-cron")
 
 const helmet  =require('helmet')
@@ -22,6 +24,13 @@ cron.schedule("30 2 * * *", () => {
      future.call()
     
   });
+
+  cron.schedule("26 18 * * *", () => {
+    console.log(`future function is called `);
+     currency.call()
+    
+  });
+
   
 
  
@@ -33,7 +42,8 @@ cron.schedule("30 2 * * *", () => {
 
  app.use(commodity_route)
  app.use(future_route)
-       
+
+ app.use(currency_route)
 
  app.use('/',(req,res)=>{
    res.send("Hello")
