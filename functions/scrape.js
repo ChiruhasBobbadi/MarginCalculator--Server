@@ -22,9 +22,7 @@ const cron =require("node-cron")
    
 
 
-   exports.helloWorld = functions.https.onRequest((req, res) => {
-    res.send("Hello from Firebase!");
-});
+
 
 
   // future-route
