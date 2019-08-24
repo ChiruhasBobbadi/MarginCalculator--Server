@@ -44,7 +44,7 @@ function call(json) {
                 const value = $(el).text();
                 const key = $(el).attr("class");
 
-                if (key.trim() !== 'calc' || key.trim() !== 'n' || key.trim()!=='nrml' || key.trim()!=='mis') {
+                if (key.trim() !== 'calc' && key.trim() !== 'n' && key.trim()!=='nrml' && key.trim()!=='mis') {
                
                     data.push(value.trim())
                 }
@@ -53,6 +53,7 @@ function call(json) {
                 if (key.trim() === 'calc') {
                     
                     temp = json.shift();
+                    console.log(data)
                     // convert to json
                     test.push({ scrip: data[0], expiry: data[1], lot: data[2], price: data[3],nrml:temp.nrml,mis:temp.mis,co_lower:temp.co_lower,co_upper:temp.co_upper})
 
@@ -85,6 +86,6 @@ function call(json) {
 
 
 
-
+kite_call()
 
 exports.call = kite_call;
