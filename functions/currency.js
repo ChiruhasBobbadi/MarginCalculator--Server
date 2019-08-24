@@ -15,7 +15,7 @@ function kite_call(){
         kite_json = (JSON.parse(body));
 
         kite_json.forEach(element => {
-            new_json.push({co_lower:element.co_lower,co_upper:element.co_upper})
+            new_json.push({nrml:Math.floor(element.nrml_margin),mis:Math.floor(element.mis_margin),co_lower:element.co_lower,co_upper:element.co_upper})
         });
         //console.log(new_json)
         call(new_json)
@@ -44,7 +44,7 @@ function call(json) {
                 const value = $(el).text();
                 const key = $(el).attr("class");
 
-                if (key.trim() !== 'calc' && key.trim() !== 'n') {
+                if (key.trim() !== 'calc' || key.trim() !== 'n' || key.trim()!=='nrml' || key.trim()!=='mis') {
                
                     data.push(value.trim())
                 }
@@ -54,7 +54,7 @@ function call(json) {
                     
                     temp = json.shift();
                     // convert to json
-                    test.push({ scrip: data[0], expiry: data[1], lot: data[2], price: data[3],nrml :data[4],mis :data[5],co_lower:temp.co_lower,co_upper:temp.co_upper})
+                    test.push({ scrip: data[0], expiry: data[1], lot: data[2], price: data[3],nrml:temp.nrml,mis:temp.mis,co_lower:temp.co_lower,co_upper:temp.co_upper})
 
                     data = []
                    

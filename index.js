@@ -42,7 +42,6 @@ cron.schedule("30 2 * * *", () => {
 
  app.use(commodity_route)
  app.use(future_route)
-
  app.use(currency_route)
 
  app.use('/',(req,res)=>{
