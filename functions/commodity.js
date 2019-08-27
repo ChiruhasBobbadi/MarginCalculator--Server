@@ -85,6 +85,6 @@ function call(json) {
 
 
 
-kite_call()
+
 
 exports.call = kite_call;
