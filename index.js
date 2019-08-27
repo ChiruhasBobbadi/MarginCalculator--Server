@@ -19,13 +19,13 @@ cron.schedule("30 3 * * *", () => {
     
   });
 
-  cron.schedule("32 3 * * *", () => {
+  cron.schedule("50 3 * * *", () => {
     console.log(`future function is called `);
      future.call()
     
   });
 
-  cron.schedule("34 3 * * *", () => {
+  cron.schedule("50 3 * * *", () => {
     console.log(`Currency function is called `);
      currency.call()
     
