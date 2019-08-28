@@ -69,7 +69,7 @@ function call(json){
                 if (err)
                     console.log(err)
                 else
-                    console.log("Future file created")
+                    console.log("Future file created "+new Date())
             })
 
 

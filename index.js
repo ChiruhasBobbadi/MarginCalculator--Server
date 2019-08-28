@@ -13,19 +13,19 @@ const helmet  =require('helmet')
 var SERVER_PORT = 5000;
 
 
-cron.schedule("30 3 * * *", () => {
+cron.schedule("50 3 * * *", () => {
     console.log(` commodity function is called now`);
      commodity.call()
     
   });
 
-  cron.schedule("50 3 * * *", () => {
+  cron.schedule("52 3 * * *", () => {
     console.log(`future function is called `);
      future.call()
     
   });
 
-  cron.schedule("50 3 * * *", () => {
+  cron.schedule("54 3 * * *", () => {
     console.log(`Currency function is called `);
      currency.call()
     

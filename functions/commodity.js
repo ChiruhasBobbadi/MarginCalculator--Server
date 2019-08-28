@@ -69,8 +69,10 @@ function call(json) {
             fs.writeFile(path.join(__dirname,"../","functions","files","commodity.json"), new_json, (err) => {
                 if (err)
                     console.log(err)
-                else
-                    console.log("Commodity file created")
+                else{
+                    console.log("Commodity file created "+new Date())
+                }
+                    
             })
 
 

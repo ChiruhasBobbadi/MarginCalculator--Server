@@ -71,7 +71,7 @@ function call(json) {
                 if (err)
                     console.log(err)
                 else
-                    console.log("Currency file created")
+                    console.log("Currency file created "+new Date())
             })
 
 
@@ -83,7 +83,6 @@ function call(json) {
 
 
 }
-
 
 
 
