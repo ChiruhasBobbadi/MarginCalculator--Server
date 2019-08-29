@@ -13,43 +13,43 @@ const helmet  =require('helmet')
 var SERVER_PORT = 5000;
 
 
-// cron.schedule("50 3 * * *", () => {
-//     console.log(` commodity function is called now`);
-//      commodity.call()
-    
-//   });
-
-//   cron.schedule("52 3 * * *", () => {
-//     console.log(`future function is called `);
-//      future.call()
-    
-//   });
-
-//   cron.schedule("54 3 * * *", () => {
-//     console.log(`Currency function is called `);
-//      currency.call()
-    
-//   });
-
-  
-
-  cron.schedule("5 12 * * *", () => {
+cron.schedule("50 3 * * *", () => {
     console.log(` commodity function is called now`);
      commodity.call()
     
   });
 
-  cron.schedule("7 12 * * *", () => {
+  cron.schedule("52 3 * * *", () => {
     console.log(`future function is called `);
      future.call()
     
   });
 
-  cron.schedule("9 12 * * *", () => {
+  cron.schedule("54 3 * * *", () => {
     console.log(`Currency function is called `);
      currency.call()
     
   });
+
+  
+
+  // cron.schedule("5 12 * * *", () => {
+  //   console.log(` commodity function is called now`);
+  //    commodity.call()
+    
+  // });
+
+  // cron.schedule("7 12 * * *", () => {
+  //   console.log(`future function is called `);
+  //    future.call()
+    
+  // });
+
+  // cron.schedule("9 12 * * *", () => {
+  //   console.log(`Currency function is called `);
+  //    currency.call()
+    
+  // });
 
  
   const app = express()
