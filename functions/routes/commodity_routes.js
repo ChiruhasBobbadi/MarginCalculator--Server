@@ -1,12 +1,12 @@
 
-const e = require('express')
-const path = require('path')
-const router = e.Router()
+const e = require('express');
+const path = require('path');
+const router = e.Router();
 
 router.use("/commodity",(req,res,next)=>{
   
     res.sendFile(path.join(__dirname,"../","files","commodity.json"));
 
-})
+});
 
-module.exports = router
+module.exports = router;

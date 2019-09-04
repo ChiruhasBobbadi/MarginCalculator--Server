@@ -1,13 +1,13 @@
-const request = require('request')
-const cheerio = require('cheerio')
-const fs = require('fs')    
-const path = require('path')
+const request = require('request');
+const cheerio = require('cheerio');
+const fs = require('fs');
+const path = require('path');
 
 
 
 function kite_call(){
-    kite_json=""
-    new_json=[]
+    kite_json="";
+    new_json=[];
     request.get("https://api.kite.trade/margins/currency", (error, response, body) => {
         if(error) {
             return console.dir(error);
@@ -25,11 +25,11 @@ function kite_call(){
 
 function call(json) {
 
-    data = []
+    data = [];
 
-    new_json = 0
+    new_json = 0;
 
-    test = []
+    test = [];
 
     //json = kite_call()
 
@@ -55,21 +55,21 @@ function call(json) {
                     temp = json.shift();
                     //console.log(data)
                     // convert to json
-                    test.push({ scrip: data[0], expiry: data[1], lot: data[2], price: data[3],nrml:temp.nrml,mis:temp.mis,co_lower:temp.co_lower,co_upper:temp.co_upper})
+                    test.push({ scrip: data[0], expiry: data[1], lot: data[2], price: data[3],nrml:temp.nrml,mis:temp.mis,co_lower:temp.co_lower,co_upper:temp.co_upper});
 
                     data = []
                    
                 }
 
 
-            })
+            });
            
 
-            new_json = JSON.stringify(test)
+            new_json = JSON.stringify(test);
             
             fs.writeFile(path.join(__dirname,"../","functions","files","currency.json"), new_json, (err) => {
                 if (err)
-                    console.log(err)
+                    console.log(err);
                 else
                     console.log("Currency file created "+new Date())
             })
