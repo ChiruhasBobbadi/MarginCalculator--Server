@@ -30,6 +30,6 @@ http://ec2-user@ec2-18-222-28-191.us-east-2.compute.amazonaws.com:5000
 
 routes
 
-/commodity
-/futures
+/commodity, 
+/futures, 
 /currency
