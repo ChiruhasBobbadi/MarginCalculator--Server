@@ -12,6 +12,7 @@ function kite_call(){
         if(error) {
             return console.dir(error);
         }
+        body = body.trim();
         kite_json = (JSON.parse(body));
 
         kite_json.forEach(element => {

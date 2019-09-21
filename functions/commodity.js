@@ -4,23 +4,23 @@ const fs = require('fs');
 const path = require('path');
 
 
-
-function kite_call(){
-    kite_json="";
-    new_json=[];
+function kite_call() {
+    kite_json = "";
+    new_json = [];
     request.get("https://api.kite.trade/margins/commodity", (error, response, body) => {
-        if(error) {
+        if (error) {
             return console.dir(error);
         }
+        body = body.trim();
         kite_json = (JSON.parse(body));
 
         kite_json.forEach(element => {
-            new_json.push({co_lower:element.co_lower,co_upper:element.co_upper})
+            new_json.push({co_lower: element.co_lower, co_upper: element.co_upper})
         });
         //console.log(new_json)
         call(new_json)
     });
-    
+
 }
 
 function call(json) {
@@ -45,36 +45,43 @@ function call(json) {
                 const key = $(el).attr("class");
 
                 if (key.trim() !== 'calc' && key.trim() !== 'n') {
-               
+
                     data.push(value.trim())
                 }
 
 
                 if (key.trim() === 'calc') {
-                    
+
                     temp = json.shift();
                     // convert to json
-                    test.push({ scrip: data[0], lot: data[1], price: data[2], nrml: data[3],mis :data[4],co_lower:temp.co_lower,co_upper:temp.co_upper});
+                    test.push({
+                        scrip: data[0],
+                        lot: data[1],
+                        price: data[2],
+                        nrml: data[3],
+                        mis: data[4],
+                        co_lower: temp.co_lower,
+                        co_upper: temp.co_upper
+                    });
 
                     data = []
-                   
+
                 }
 
 
             });
-           
+
 
             new_json = JSON.stringify(test);
-            
-            fs.writeFile(path.join(__dirname,"../","functions","files","commodity.json"), new_json, (err) => {
+
+            fs.writeFile(path.join(__dirname, "../", "functions", "files", "commodity.json"), new_json, (err) => {
                 if (err)
                     console.log(err);
-                else{
-                    console.log("Commodity file created "+new Date())
+                else {
+                    console.log("Commodity file created " + new Date())
                 }
-                    
-            })
 
+            })
 
 
         }
@@ -84,9 +91,6 @@ function call(json) {
 
 
 }
-
-
-
 
 
 exports.call = kite_call;
