@@ -26,11 +26,12 @@ cron.schedule("40 4 * * *", () => {
     
   });
 
-  // cron.schedule("40 3 * * *", () => {
-  //   console.log(`Currency function is called `);
-  //    currency.call()
-  //
-  // });
+  cron.schedule("40 3 * * *", () => {
+    console.log(`Currency function is called `);
+    currency.call()
+
+});
+
   
 
   // cron.schedule("5 12 * * *", () => {
@@ -44,12 +45,12 @@ cron.schedule("40 4 * * *", () => {
   //    future.call()
     
   // });
-
-  cron.schedule("15 14 * * *", () => {
-    console.log(`Currency function is called `);
-     currency.call()
-    
-  });
+  //
+  // cron.schedule("15 14 * * *", () => {
+  //   console.log(`Currency function is called `);
+  //    currency.call()
+  //
+  // });
 
  
   const app = express();
