@@ -10,20 +10,20 @@ const cron =require("node-cron");
 
 const helmet  =require('helmet');
 
-let SERVER_PORT = 5000;
+let SERVER_PORT = 3200;
 
 
 cron.schedule("40 4 * * *", () => {
     console.log(` commodity function is called now`);
      commodity.call()
-    
+
   });
 
 
   cron.schedule("52 3 * * *", () => {
     console.log(`future function is called `);
      future.call()
-    
+
   });
 
   cron.schedule("40 3 * * *", () => {
@@ -32,19 +32,20 @@ cron.schedule("40 4 * * *", () => {
 
 });
 
-  
 
-  // cron.schedule("5 12 * * *", () => {
+
+  // cron.schedule("43 11 * * *", () => {
   //   console.log(` commodity function is called now`);
   //    commodity.call()
-    
+  //
   // });
 
-  // cron.schedule("7 12 * * *", () => {
+  // cron.schedule("47 1 * * *", () => {
   //   console.log(`future function is called `);
   //    future.call()
-    
+  //
   // });
+
   //
   // cron.schedule("15 14 * * *", () => {
   //   console.log(`Currency function is called `);
@@ -69,6 +70,6 @@ cron.schedule("40 4 * * *", () => {
 
 
 
- app.listen(SERVER_PORT,function(){
-  console.log("Server is listening at port :  ",SERVER_PORT);
-});
+ app.listen(SERVER_PORT,function () {
+     console.log("server started on :" + SERVER_PORT);
+ });

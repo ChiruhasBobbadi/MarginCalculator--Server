@@ -11,14 +11,18 @@ function kite_call() {
         if (error) {
             return console.dir(error);
         }
-        body = body.trim();
-        kite_json = (JSON.parse(body));
 
-        kite_json.forEach(element => {
-            new_json.push({co_lower: element.co_lower, co_upper: element.co_upper})
-        });
-        //console.log(new_json)
-        call(new_json)
+
+            body = body.trim();
+            kite_json = (JSON.parse(body));
+
+            kite_json.forEach(element => {
+                new_json.push({co_lower: element.co_lower, co_upper: element.co_upper})
+            });
+            //console.log(new_json)
+            call(new_json)
+
+
     });
 
 }
@@ -52,14 +56,18 @@ function call(json) {
 
                 if (key.trim() === 'calc') {
 
+
+                    if(json.length!==0)
                     temp = json.shift();
                     // convert to json
+
                     test.push({
                         scrip: data[0],
                         lot: data[1],
                         price: data[2],
                         nrml: data[3],
                         mis: data[4],
+
                         co_lower: temp.co_lower,
                         co_upper: temp.co_upper
                     });
@@ -78,7 +86,7 @@ function call(json) {
                 if (err)
                     console.log(err);
                 else {
-                    console.log("Commodity file created " + new Date())
+                    console.log("Commodity file created \n" + new Date())
                 }
 
             })

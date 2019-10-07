@@ -12,14 +12,21 @@ function kite_call(){
         if(error) {
             return console.dir(error);
         }
-        body = body.trim();
-        kite_json = (JSON.parse(body));
 
-        kite_json.forEach(element => {
-            new_json.push({nrml:Math.floor(element.nrml_margin),mis:Math.floor(element.mis_margin),co_lower:element.co_lower,co_upper:element.co_upper})
-        });
-        //console.log(new_json)
-        call(new_json)
+        try{
+            body = body.trim();
+            kite_json = (JSON.parse(body));
+
+            kite_json.forEach(element => {
+                new_json.push({nrml:Math.floor(element.nrml_margin),mis:Math.floor(element.mis_margin),co_lower:element.co_lower,co_upper:element.co_upper})
+            });
+            //console.log(new_json)
+            call(new_json)
+        }
+        catch (e) {
+
+        }
+
     });
     
 }
@@ -72,7 +79,7 @@ function call(json) {
                 if (err)
                     console.log(err);
                 else
-                    console.log("Currency file created "+new Date())
+                    console.log("Currency file created\n"+new Date())
             })
 
 

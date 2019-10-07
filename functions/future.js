@@ -13,14 +13,25 @@ function kite_call(){
         if(error) {
             return console.dir(error);
         }
-        body = body.trim();
-        kite_json = (JSON.parse(body));
+        
 
-        kite_json.forEach(element => {
-            new_json.push({co_lower:element.co_lower,co_upper:element.co_upper,margin:element.margin,mis_multiplier:element.mis_multiplier})
-        });
-        //console.log(new_json)
-        call(new_json)
+            try{
+                body = body.trim();
+                kite_json = (JSON.parse(body));
+
+                kite_json.forEach(element => {
+                    new_json.push({co_lower:element.co_lower,co_upper:element.co_upper,margin:element.margin,mis_multiplier:element.mis_multiplier})
+                });
+                //console.log(new_json)
+                call(new_json)
+            }
+        catch (e) {
+
+        }
+
+
+
+       
     });
     
 }
@@ -70,7 +81,7 @@ function call(json){
                 if (err)
                     console.log(err);
                 else
-                    console.log("Future file created "+new Date())
+                    console.log("Future file created\n"+new Date())
             })
 
 
@@ -91,7 +102,7 @@ function call(json){
 
 
 
-
+kite_call()
 exports.call = kite_call;
 
 
