@@ -23,3 +23,13 @@ This is achieved using node-cron library.
 I enjoyed working on this application because this is my first server application and the thought process is completely a whole new experience.
 
 I also liked the fact not giving up in the middle of the development is a great experience, because there are several moments where I thought of giving up, but I motivated myself and completed the application.
+
+# Link
+
+http://ec2-user@ec2-18-222-28-191.us-east-2.compute.amazonaws.com:5000
+
+routes
+
+/commodity, 
+/futures, 
+/currency
