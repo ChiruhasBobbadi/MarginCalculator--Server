@@ -4,9 +4,8 @@ const fs = require('fs');
 const path = require('path');
 
 
-
-module.exports.commodity= function(){
-    const keys = ['scrip', 'expiry', 'price', 'mwpl', 'lot', 'mis', 'nrml', 'calc'];
+ module.exports.commodity =function (){
+    const keys = ['scrip', 'expiry', 'price', 'lot', 'mwpl', 'mis', 'nrml', 'calc'];
 
     let data = [];
 
@@ -30,25 +29,22 @@ module.exports.commodity= function(){
 
                 const key = keys[cnt];
 
-
-
-
-                if (key !== 'calc' && key !== 'mwpl') {
+                if (key !== 'calc' ) {
 
                     const value = $(el).text();
                     //console.log(key+":"+value);
                     data.push(value.trim());
 
-                } else if (key.trim() === 'calc') {
-
+                } else  {
                     // convert to json
                     test.push({
                         'scrip': data[0],
                         'expiry': data[1],
                         'price': data[2],
                         'lot': data[3],
-                        'mis': data[4],
-                        'nrml': data[5],
+                        'mwpl':data[4],
+                        'mis': data[5],
+                        'nrml': data[6],
 
                     });
 
@@ -76,6 +72,7 @@ module.exports.commodity= function(){
 
 };
 
+ // commodity()
 
 module.exports.equity=function(){
     const keys = ['scrip', 'mis_multiplier', 'nrml_multiplier', 'calc'];
@@ -117,7 +114,7 @@ module.exports.equity=function(){
 
                     // convert to json
                     test.push({
-                        'scrip': data[0],
+                        'tradingsymbol': data[0],
                         'mis_multiplier': data[1],
                         'nrml_multiplier': data[2]
                     });
@@ -146,16 +143,15 @@ module.exports.equity=function(){
 
 };
 
-
 module.exports.futures=function() {
 
-    const keys = ['scrip', 'expiry', 'lot', 'price', 'mis', 'op_mis', 'nrml', 'calc'];
+    const keys = ['scrip', 'lot','mwpl', 'price', 'mis', 'op_mis', 'nrml', 'calc'];
 
     let data = [];
 
     let test = [];
 
-    let cnt = 1;
+    let cnt = 0;
 
     request('https://asthatrade.com/site/nsefo', (error, response, html) => {
 
@@ -179,21 +175,22 @@ module.exports.futures=function() {
 
 
                 cnt = i % 8;
-
-
                 const key = keys[cnt];
-
-
                 if (key !== 'calc') {
 
-                    const value = $(el).text();
+                    let value = $(el).text();
 
-                    if (key === 'mis_multiplier' || key === 'nrml_multiplier')
-                        data.push(value.match(/(\d+)/)[0]);
+
+                     if(key.trim()==='mwpl'){
+                        console.log(value);
+                        data.push(value.trim().split(",").join(""));
+                    }
+
                     else
-                        data.push(value.trim())
+                        data.push(value.trim());
 
-                } else if (key === 'calc') {
+                }
+                else if(key.trim()==='calc')  {
 
                     // convert to json
                     test.push({
@@ -228,6 +225,6 @@ module.exports.futures=function() {
 
     });
 
-}
+};
 
 

@@ -8,7 +8,7 @@ const astha = require('./functions/util/astha/controller');
 
 
 const cron = require("node-cron");
-// const logger = require('morgan');
+ const logger = require('morgan');
 const helmet = require('helmet');
 
 let SERVER_PORT = 5000;
@@ -74,7 +74,7 @@ cron.schedule("25 13 * * *", () => {
 
 const app = express();
 
-// app.use(logger('dev'));
+ app.use(logger('dev'));
 app.use(helmet());
 
 app.use(zerodha);

@@ -1,1 +1,155 @@
-[{"scrip":"GOLD","expiry":"05-Dec-19","price":"38472","lot":"5.25","mis":"10000","nrml":"201978"},{"scrip":"SILVER","expiry":"05-Dec-19","price":"46612","lot":"7.21","mis":"7000","nrml":"100822"},{"scrip":"COPPER","expiry":"29-Nov-19","price":"441.6","lot":"5.25","mis":"5000","nrml":"57960"},{"scrip":"CRUDEOIL","expiry":"19-Nov-19","price":"4050","lot":"11.54","mis":"2500","nrml":"46737"},{"scrip":"ZINC","expiry":"29-Nov-19","price":"190.9","lot":"5.25","mis":"5000","nrml":"50111"},{"scrip":"NICKEL","expiry":"29-Nov-19","price":"1173.8","lot":"8.14","mis":"3000","nrml":"23887"},{"scrip":"LEAD","expiry":"29-Nov-19","price":"156.85","lot":"5.25","mis":"5000","nrml":"41173"},{"scrip":"ALUMINIUM","expiry":"29-Nov-19","price":"133.6","lot":"5.25","mis":"5000","nrml":"35070"},{"scrip":"GOLDM","expiry":"05-Dec-19","price":"38734","lot":"55.25","mis":"1500","nrml":"20237"},{"scrip":"SILVERM","expiry":"29-Nov-19","price":"46617","lot":"7.21","mis":"1000","nrml":"16805"},{"scrip":"CRUDEOILM","expiry":"19-Nov-19","price":"4048","lot":"11.34","mis":"250","nrml":"4590"},{"scrip":"ZINCMINI","expiry":"29-Nov-19","price":"190.85","lot":"5.25","mis":"1000","nrml":"10020"},{"scrip":"LEADMINI","expiry":"29-Nov-19","price":"156.85","lot":"5.25","mis":"1000","nrml":"8235"},{"scrip":"SILVERMIC","expiry":"29-Nov-19","price":"46619","lot":"7.21","mis":"300","nrml":"3361"},{"scrip":"ALUMINI","expiry":"29-Nov-19","price":"133.65","lot":"5.25","mis":"1000","nrml":"7017"},{"scrip":"NATURALGAS","expiry":"25-Nov-19","price":"200.3","lot":"13.21","mis":"3000","nrml":"33075"},{"scrip":"MENTHAOIL","expiry":"29-Nov-19","price":"1247.9","lot":"6.41","mis":"4326","nrml":"28797"}]
+[
+  {
+    "scrip": "GOLD",
+    "expiry": "05-Dec-19",
+    "price": "38472",
+    "lot": "100",
+    "mwpl": "5.25",
+    "mis": "10000",
+    "nrml": "201978"
+  },
+  {
+    "scrip": "SILVER",
+    "expiry": "05-Dec-19",
+    "price": "46612",
+    "lot": "30",
+    "mwpl": "7.21",
+    "mis": "7000",
+    "nrml": "100822"
+  },
+  {
+    "scrip": "COPPER",
+    "expiry": "29-Nov-19",
+    "price": "441.6",
+    "lot": "2500",
+    "mwpl": "5.25",
+    "mis": "5000",
+    "nrml": "57960"
+  },
+  {
+    "scrip": "CRUDEOIL",
+    "expiry": "19-Nov-19",
+    "price": "4050",
+    "lot": "100",
+    "mwpl": "11.54",
+    "mis": "2500",
+    "nrml": "46737"
+  },
+  {
+    "scrip": "ZINC",
+    "expiry": "29-Nov-19",
+    "price": "190.9",
+    "lot": "5000",
+    "mwpl": "5.25",
+    "mis": "5000",
+    "nrml": "50111"
+  },
+  {
+    "scrip": "NICKEL",
+    "expiry": "29-Nov-19",
+    "price": "1173.8",
+    "lot": "250",
+    "mwpl": "8.14",
+    "mis": "3000",
+    "nrml": "23887"
+  },
+  {
+    "scrip": "LEAD",
+    "expiry": "29-Nov-19",
+    "price": "156.85",
+    "lot": "5000",
+    "mwpl": "5.25",
+    "mis": "5000",
+    "nrml": "41173"
+  },
+  {
+    "scrip": "ALUMINIUM",
+    "expiry": "29-Nov-19",
+    "price": "133.6",
+    "lot": "5000",
+    "mwpl": "5.25",
+    "mis": "5000",
+    "nrml": "35070"
+  },
+  {
+    "scrip": "GOLDM",
+    "expiry": "05-Dec-19",
+    "price": "38734",
+    "lot": "10",
+    "mwpl": "55.25",
+    "mis": "1500",
+    "nrml": "20237"
+  },
+  {
+    "scrip": "SILVERM",
+    "expiry": "29-Nov-19",
+    "price": "46617",
+    "lot": "5",
+    "mwpl": "7.21",
+    "mis": "1000",
+    "nrml": "16805"
+  },
+  {
+    "scrip": "CRUDEOILM",
+    "expiry": "19-Nov-19",
+    "price": "4048",
+    "lot": "10",
+    "mwpl": "11.34",
+    "mis": "250",
+    "nrml": "4590"
+  },
+  {
+    "scrip": "ZINCMINI",
+    "expiry": "29-Nov-19",
+    "price": "190.85",
+    "lot": "1000",
+    "mwpl": "5.25",
+    "mis": "1000",
+    "nrml": "10020"
+  },
+  {
+    "scrip": "LEADMINI",
+    "expiry": "29-Nov-19",
+    "price": "156.85",
+    "lot": "1000",
+    "mwpl": "5.25",
+    "mis": "1000",
+    "nrml": "8235"
+  },
+  {
+    "scrip": "SILVERMIC",
+    "expiry": "29-Nov-19",
+    "price": "46619",
+    "lot": "1",
+    "mwpl": "7.21",
+    "mis": "300",
+    "nrml": "3361"
+  },
+  {
+    "scrip": "ALUMINI",
+    "expiry": "29-Nov-19",
+    "price": "133.65",
+    "lot": "1000",
+    "mwpl": "5.25",
+    "mis": "1000",
+    "nrml": "7017"
+  },
+  {
+    "scrip": "NATURALGAS",
+    "expiry": "25-Nov-19",
+    "price": "200.3",
+    "lot": "1250",
+    "mwpl": "13.21",
+    "mis": "3000",
+    "nrml": "33075"
+  },
+  {
+    "scrip": "MENTHAOIL",
+    "expiry": "29-Nov-19",
+    "price": "1247.9",
+    "lot": "360",
+    "mwpl": "6.41",
+    "mis": "4326",
+    "nrml": "28797"
+  }
+]
