@@ -27,7 +27,7 @@ cron.schedule("52 3 * * *", () => {
     console.log(`zerodha future function is called `);
     future.call();
     console.log(`astha future function is called `);
-    asthaFuture.call();
+    astha.futures();
 
 });
 
@@ -40,11 +40,12 @@ cron.schedule("40 3 * * *", () => {
 
 cron.schedule("42 3 * * *", () => {
     console.log(`astha equity function is called `);
-    asthaEquity.call();
+    astha.equity();
 
 });
 
 
+/*
 cron.schedule("23 13 * * *", () => {
     console.log(`zerodha commodity function is called now`);
     commodity.call();
@@ -68,6 +69,7 @@ cron.schedule("25 13 * * *", () => {
     console.log("astha equity is called");
     astha.equity()
 });
+*/
 
 
 const app = express();
