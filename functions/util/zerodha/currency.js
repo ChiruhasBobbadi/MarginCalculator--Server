@@ -75,11 +75,11 @@ function call(json) {
 
             new_json = JSON.stringify(test);
             
-            fs.writeFile(path.join(__dirname,"../","functions","files","currency.json"), new_json, (err) => {
+            fs.writeFile(path.join(__dirname,"../","../","../","functions","files","zerodha","currency.json"), new_json, (err) => {
                 if (err)
                     console.log(err);
                 else
-                    console.log("Currency file created\n"+new Date())
+                    console.log("zerodha Currency file created\n"+new Date())
             })
 
 

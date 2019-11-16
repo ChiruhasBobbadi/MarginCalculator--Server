@@ -8,8 +8,8 @@
     "node": "10.14.1"
   },
   "scripts": {
-    "heroku-postbuild": "npm run build",
-    "start": "node index.js"
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
   },
   "author": "",
   "license": "ISC",
@@ -17,7 +17,9 @@
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
     "helmet": "^3.20.0",
+    "morgan": "^1.9.1",
     "node-cron": "^2.0.3",
+    "nodemon": "^1.19.4",
     "opencollective-postinstall": "^2.0.2",
     "request": "^2.88.0"
   }

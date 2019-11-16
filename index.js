@@ -1,75 +1,88 @@
-
 const express = require('express');
-const commodity_route = require('./functions/routes/commodity_routes');
-const future_route = require('./functions/routes/futures_routes');
-const currency_route = require('./functions/routes/currency_routes');
-const commodity = require('./functions/commodity');
-const future = require('./functions/future');
-const currency = require('./functions/currency');
-const cron =require("node-cron");
+const zerodha = require('./functions/routes/zerodha');
+const asthaRoutes = require('./functions/routes/astha');
+const commodity = require('./functions/util/zerodha/commodity');
+const future = require('./functions/util/zerodha/future');
+const currency = require('./functions/util/zerodha/currency');
+const astha = require('./functions/util/astha/controller');
 
-const helmet  =require('helmet');
+
+const cron = require("node-cron");
+// const logger = require('morgan');
+const helmet = require('helmet');
 
 let SERVER_PORT = 5000;
 
 
 cron.schedule("40 4 * * *", () => {
-    console.log(` commodity function is called now`);
-     commodity.call()
-
-  });
-
-
-  cron.schedule("52 3 * * *", () => {
-    console.log(`future function is called `);
-     future.call()
-
-  });
-
-  cron.schedule("40 3 * * *", () => {
-    console.log(`Currency function is called `);
-    currency.call()
+    console.log(`zerodha commodity function is called now`);
+    commodity.call();
+    console.log(`astha commodity function is called `);
+    astha.commodity();
 
 });
 
 
+cron.schedule("52 3 * * *", () => {
+    console.log(`zerodha future function is called `);
+    future.call();
+    console.log(`astha future function is called `);
+    asthaFuture.call();
 
-  // cron.schedule("43 11 * * *", () => {
-  //   console.log(` commodity function is called now`);
-  //    commodity.call()
-  //
-  // });
+});
 
-  // cron.schedule("47 1 * * *", () => {
-  //   console.log(`future function is called `);
-  //    future.call()
-  //
-  // });
+cron.schedule("40 3 * * *", () => {
+    console.log(`zerodha Currency function is called `);
+    currency.call();
+    //asthaCurrency.call();
 
-  //
-  // cron.schedule("15 14 * * *", () => {
-  //   console.log(`Currency function is called `);
-  //    currency.call()
-  //
-  // });
+});
 
- 
-  const app = express();
+cron.schedule("42 3 * * *", () => {
+    console.log(`astha equity function is called `);
+    asthaEquity.call();
 
-   
-    
-  app.use(helmet());
-
- app.use(commodity_route);
- app.use(future_route);
- app.use(currency_route);
-
- app.use('/',(req,res)=>{
-   res.send("Hello")
- });
+});
 
 
+cron.schedule("23 13 * * *", () => {
+    console.log(`zerodha commodity function is called now`);
+    commodity.call();
+    console.log(`astha commodity function is called `);
+    astha.commodity();
 
- app.listen(SERVER_PORT,function () {
-     console.log("server started on :" + SERVER_PORT);
- });
+});
+
+cron.schedule("24 13 * * *", () => {
+    console.log(`zerodha future function is called `);
+    future.call();
+    console.log(`astha future function is called `);
+  astha.futures()
+
+});
+
+
+cron.schedule("25 13 * * *", () => {
+  console.log(`Currency function is called `);
+   currency.call();
+    console.log("astha equity is called");
+    astha.equity()
+});
+
+
+const app = express();
+
+// app.use(logger('dev'));
+app.use(helmet());
+
+app.use(zerodha);
+app.use('/astha', asthaRoutes);
+
+app.use('/', (req, res) => {
+    res.send("Hello")
+});
+
+
+app.listen(SERVER_PORT, function () {
+    console.log("server started on :" + SERVER_PORT);
+});

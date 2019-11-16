@@ -43,7 +43,7 @@ function call(json) {
 
             const $ = cheerio.load(html);
 
-            const heading = $('#table tbody tr td').each((i, el) => {
+             $('#table tbody tr td').each((i, el) => {
 
                 const value = $(el).text();
                 const key = $(el).attr("class");
@@ -82,11 +82,11 @@ function call(json) {
 
             new_json = JSON.stringify(test);
 
-            fs.writeFile(path.join(__dirname, "../", "functions", "files", "commodity.json"), new_json, (err) => {
+            fs.writeFile(path.join(__dirname, "../","../","../", "functions", "files","zerodha", "commodity.json"), new_json, (err) => {
                 if (err)
                     console.log(err);
                 else {
-                    console.log("Commodity file created \n" + new Date())
+                    console.log("zerodha Commodity file created \n" + new Date())
                 }
 
             })

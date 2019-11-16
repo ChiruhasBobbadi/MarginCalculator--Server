@@ -51,7 +51,7 @@ function call(json){
          
             const $ = cheerio.load(html);
         
-            const heading =$('#table tbody tr td').each((i,el)=>{
+            $('#table tbody tr td').each((i,el)=>{
         
                 const value = $(el).text();
                 const key = $(el).attr("class");
@@ -77,11 +77,11 @@ function call(json){
 
             new_json = JSON.stringify(test);
             
-            fs.writeFile(path.join(__dirname,"../","functions","files","futures.json"), new_json, (err) => {
+            fs.writeFile(path.join(__dirname,"../","../","../","functions","files","zerodha","futures.json"), new_json, (err) => {
                 if (err)
                     console.log(err);
                 else
-                    console.log("Future file created\n"+new Date())
+                    console.log("zerodha Future file created\n"+new Date())
             })
 
 
