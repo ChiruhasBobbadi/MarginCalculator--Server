@@ -182,7 +182,7 @@ module.exports.futures=function() {
 
 
                      if(key.trim()==='mwpl'){
-                        console.log(value);
+
                         data.push(value.trim().split(",").join(""));
                     }
 
