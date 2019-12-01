@@ -146,10 +146,10 @@ module.exports.equity=function(){
 
 };
 
+//module.exports.futures=
+module.exports.futures= function() {
 
-module.exports.futures=function() {
-
-    const keys = ['scrip', 'expiry', 'lot', 'price', 'mis', 'op_mis', 'nrml', 'calc'];
+   // const keys = ['scrip', 'lot', 'price','mwpl', 'mis_multiplier', 'op_mis', 'nrml_multiplier','calc'];
 
     let data = [];
 
@@ -178,24 +178,11 @@ module.exports.futures=function() {
             $('.ex1  .datatable tbody tr td').each((i, el) => {
 
 
-                cnt = i % 8;
+             /*   cnt = (i+1) % 8;
 
-
-                const key = keys[cnt];
-
-
-                if (key !== 'calc') {
-
-                    const value = $(el).text();
-
-                    if (key === 'mis_multiplier' || key === 'nrml_multiplier')
-                        data.push(value.match(/(\d+)/)[0]);
-                    else
-                        data.push(value.trim())
-
-                } else if (key === 'calc') {
-
+                if(cnt===0){
                     // convert to json
+                    console.log(data);
                     test.push({
                         'scrip': data[0],
                         'lot':data[1],
@@ -206,11 +193,48 @@ module.exports.futures=function() {
                         'nrml':data[6],
                         'expiry':expiry
                     });
+                    data=[];
+                }else {
 
 
-                    data = []
+                        const value = $(el).text();
 
-                }
+                        /!* if (key === 'mis' || key === 'nrml')
+                             data.push(value.match(/(\d+)/)[0]);
+                         else*!/
+                        data.push(value.trim())
+
+                }*/
+
+
+             if(data.length===7){
+
+                 console.log(data);
+                 test.push({
+                     'scrip': data[0],
+                     'lot':data[1],
+                     'price':data[2],
+                     'mwpl':data[3],
+                     'mis':data[4],
+                     'op_mis':data[5],
+                     'nrml':data[6],
+                     'expiry':expiry
+                 });
+                 data=[];
+
+
+                 data.push($(el).text().trim())
+             }
+             else{
+                 const value = $(el).text();
+
+                 /* if (key === 'mis' || key === 'nrml')
+                 data.push(value.match(/(\d+)/)[0]);
+             else*/
+                 data.push(value.trim())
+             }
+
+
 
 
             });
@@ -228,6 +252,5 @@ module.exports.futures=function() {
 
     });
 
-}
-
+};
 
