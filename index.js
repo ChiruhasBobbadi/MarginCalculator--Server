@@ -45,7 +45,7 @@ cron.schedule("42 3 * * *", () => {
 });
 
 
-/*
+/*`
 cron.schedule("23 13 * * *", () => {
     console.log(`zerodha commodity function is called now`);
     commodity.call();
