@@ -63,14 +63,14 @@ cron.schedule("35 14 * * *", () => {
 });
 
 
-cron.schedule("29 14 * * *", () => {
-  console.log(`Currency function is called `);
-   currency.call();
-    console.log("astha equity is called");
-    astha.equity()
-});
-*/
 
+*/
+// cron.schedule("23 15 * * *", () => {
+//     console.log(`Currency function is called `);
+//     currency.call();
+//     console.log("astha equity is called");
+//     astha.equity()
+// });
 
 const app = express();
 

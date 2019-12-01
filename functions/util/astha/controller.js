@@ -117,7 +117,7 @@ module.exports.equity=function(){
 
                     // convert to json
                     test.push({
-                        'scrip': data[0],
+                        'tradingsymbol': data[0],
                         'mis_multiplier': data[1],
                         'nrml_multiplier': data[2]
                     });
