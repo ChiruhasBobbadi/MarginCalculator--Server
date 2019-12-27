@@ -81,7 +81,7 @@ app.use(zerodha);
 app.use('/astha', asthaRoutes);
 
 app.use('/', (req, res) => {
-    res.send("Hello")
+    res.send("Hello friend")
 });
 
 

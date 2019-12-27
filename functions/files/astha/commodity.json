@@ -1,138 +1,146 @@
 [
   {
     "scrip": "GOLD",
-    "expiry": "05-Dec-19",
-    "price": "38472",
-    "lot": "5.25",
+    "expiry": "03APR2020",
+    "price": "37856",
+    "lot": "100",
+    "mwpl": "5.25",
     "mis": "10000",
-    "nrml": "201978"
-  },
-  {
-    "scrip": "SILVER",
-    "expiry": "05-Dec-19",
-    "price": "46612",
-    "lot": "7.21",
-    "mis": "7000",
-    "nrml": "100822"
+    "nrml": "198744"
   },
   {
     "scrip": "COPPER",
-    "expiry": "29-Nov-19",
-    "price": "441.6",
-    "lot": "5.25",
+    "expiry": "31DEC2019",
+    "price": "434.05",
+    "lot": "2500",
+    "mwpl": "5.25",
     "mis": "5000",
-    "nrml": "57960"
+    "nrml": "56969"
   },
   {
     "scrip": "CRUDEOIL",
-    "expiry": "19-Nov-19",
-    "price": "4050",
-    "lot": "11.54",
+    "expiry": "17JAN2020",
+    "price": "4147",
+    "lot": "100",
+    "mwpl": "9.21",
     "mis": "2500",
-    "nrml": "46737"
+    "nrml": "38194"
+  },
+  {
+    "scrip": "SILVER",
+    "expiry": "05MAR2020",
+    "price": "44932",
+    "lot": "30",
+    "mwpl": "6.73",
+    "mis": "7500",
+    "nrml": "90718"
   },
   {
     "scrip": "ZINC",
-    "expiry": "29-Nov-19",
-    "price": "190.9",
-    "lot": "5.25",
+    "expiry": "31DEC2019",
+    "price": "185.8",
+    "lot": "5000",
+    "mwpl": "5.25",
     "mis": "5000",
-    "nrml": "50111"
+    "nrml": "48773"
   },
   {
     "scrip": "NICKEL",
-    "expiry": "29-Nov-19",
-    "price": "1173.8",
-    "lot": "8.14",
-    "mis": "3000",
-    "nrml": "23887"
+    "expiry": "31DEC2019",
+    "price": "1061.8",
+    "lot": "1500",
+    "mwpl": "7.57",
+    "mis": "10000",
+    "nrml": "120567"
   },
   {
     "scrip": "LEAD",
-    "expiry": "29-Nov-19",
-    "price": "156.85",
-    "lot": "5.25",
+    "expiry": "31DEC2019",
+    "price": "152.7",
+    "lot": "5000",
+    "mwpl": "5.25",
     "mis": "5000",
-    "nrml": "41173"
+    "nrml": "40084"
   },
   {
     "scrip": "ALUMINIUM",
-    "expiry": "29-Nov-19",
-    "price": "133.6",
-    "lot": "5.25",
+    "expiry": "31DEC2019",
+    "price": "131.3",
+    "lot": "5000",
+    "mwpl": "5.25",
     "mis": "5000",
-    "nrml": "35070"
+    "nrml": "34466"
   },
   {
     "scrip": "GOLDM",
-    "expiry": "05-Dec-19",
-    "price": "38734",
-    "lot": "55.25",
-    "mis": "1500",
-    "nrml": "20237"
+    "expiry": "03JAN2020",
+    "price": "37851",
+    "lot": "10",
+    "mwpl": "5.25",
+    "mis": "1000",
+    "nrml": "19872"
   },
   {
     "scrip": "SILVERM",
-    "expiry": "29-Nov-19",
-    "price": "46617",
-    "lot": "7.21",
+    "expiry": "28FEB2020",
+    "price": "44962",
+    "lot": "5",
+    "mwpl": "6.63",
     "mis": "1000",
-    "nrml": "16805"
-  },
-  {
-    "scrip": "CRUDEOILM",
-    "expiry": "19-Nov-19",
-    "price": "4048",
-    "lot": "11.34",
-    "mis": "250",
-    "nrml": "4590"
+    "nrml": "14905"
   },
   {
     "scrip": "ZINCMINI",
-    "expiry": "29-Nov-19",
-    "price": "190.85",
-    "lot": "5.25",
+    "expiry": "31DEC2019",
+    "price": "185.85",
+    "lot": "1000",
+    "mwpl": "5.25",
     "mis": "1000",
-    "nrml": "10020"
+    "nrml": "9757"
   },
   {
     "scrip": "LEADMINI",
-    "expiry": "29-Nov-19",
-    "price": "156.85",
-    "lot": "5.25",
+    "expiry": "31DEC2019",
+    "price": "152.75",
+    "lot": "1000",
+    "mwpl": "5.25",
     "mis": "1000",
-    "nrml": "8235"
+    "nrml": "8019"
   },
   {
     "scrip": "SILVERMIC",
-    "expiry": "29-Nov-19",
-    "price": "46619",
-    "lot": "7.21",
+    "expiry": "28FEB2020",
+    "price": "44980",
+    "lot": "1",
+    "mwpl": "6.61",
     "mis": "300",
-    "nrml": "3361"
+    "nrml": "2973"
   },
   {
     "scrip": "ALUMINI",
-    "expiry": "29-Nov-19",
-    "price": "133.65",
-    "lot": "5.25",
+    "expiry": "31DEC2019",
+    "price": "131.3",
+    "lot": "1000",
+    "mwpl": "5.25",
     "mis": "1000",
-    "nrml": "7017"
+    "nrml": "6893"
   },
   {
     "scrip": "NATURALGAS",
-    "expiry": "25-Nov-19",
-    "price": "200.3",
-    "lot": "13.21",
-    "mis": "3000",
-    "nrml": "33075"
+    "expiry": "26DEC2019",
+    "price": "186.2",
+    "lot": "1250",
+    "mwpl": "14.04",
+    "mis": "3500",
+    "nrml": "32678"
   },
   {
     "scrip": "MENTHAOIL",
-    "expiry": "29-Nov-19",
-    "price": "1247.9",
-    "lot": "6.41",
-    "mis": "4326",
-    "nrml": "28797"
+    "expiry": "31DEC2019",
+    "price": "1263.8",
+    "lot": "360",
+    "mwpl": "9.46",
+    "mis": "13649",
+    "nrml": "43040"
   }
 ]
