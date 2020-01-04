@@ -72,51 +72,33 @@ module.exports.commodity = function () {
 };
 
 module.exports.equity = function () {
-
     try {
         let data = [];
         let test = [];
         request('https://asthatrade.com/site/margin', (error, response, html) => {
-
-
             if (!error && response.statusCode === 200) {
-
-
                 const $ = cheerio.load(html);
                 let expiry = "";
-
-
-                $('.filters th input ').each((i, el) => {
-
+                $('.filters th input').each((i, el) => {
                     if (i === 1) {
                         expiry = $(el).attr('placeholder').split(":")[1].trim();
                     }
-
                 });
-
-
                 $('.ex1  .datatable tbody tr td').each((i, el) => {
-
-
                     if (data.length === 4) {
-
+                        //console.log(data[2].substring(data[2].indexOf('(') + 1, data[2].indexOf(')')).trim());
                         test.push({
                             'tradingsymbol': data[0],
-                            'mis_multiplier': data[2].match(/(\d+)/)[0],
+                            //'mis_multiplier': data[2].match(/(\d+)/)[0],
+                            'mis_multiplier': data[2].substring(data[2].indexOf('(') + 1, data[2].indexOf(')')).trim(),
                             'nrml_multiplier': data[3].match(/(\d+)/)[0]
                         });
-
-
                         data = [];
-
-
                         data.push($(el).text().trim())
                     } else {
                         const value = $(el).text();
                         data.push(value.trim())
                     }
-
-
                 });
 
                 test.push({
@@ -142,6 +124,7 @@ module.exports.equity = function () {
     }
 
 };
+
 
 module.exports.futures = function () {
     try {
