@@ -72,6 +72,7 @@ module.exports.commodity = function () {
 };
 
 module.exports.equity = function () {
+// function equity(){
     try {
         let data = [];
         let test = [];
@@ -90,7 +91,7 @@ module.exports.equity = function () {
                         test.push({
                             'tradingsymbol': data[0],
                             //'mis_multiplier': data[2].match(/(\d+)/)[0],
-                            'mis_multiplier': data[2].substring(data[2].indexOf('(') + 1, data[2].indexOf(')')).trim(),
+                            'mis_multiplier': data[2].substring(data[2].indexOf('(') + 1, data[2].indexOf(')')).trim().match(/(\d+)/)[0],
                             'nrml_multiplier': data[3].match(/(\d+)/)[0]
                         });
                         data = [];
@@ -103,7 +104,7 @@ module.exports.equity = function () {
 
                 test.push({
                     'tradingsymbol': data[0],
-                    'mis_multiplier': data[2].match(/(\d+)/)[0],
+                    'mis_multiplier': data[2].substring(data[2].indexOf('(') + 1, data[2].indexOf(')')).trim().match(/(\d+)/)[0],
                     'nrml_multiplier': data[3].match(/(\d+)/)[0]
                 });
                 let new_json = JSON.stringify(test);
