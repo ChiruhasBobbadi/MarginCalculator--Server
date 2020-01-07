@@ -71,6 +71,8 @@ module.exports.commodity = function () {
 
 };
 
+//module.exports.commodity();
+
 module.exports.equity = function () {
 // function equity(){
     try {
@@ -91,7 +93,7 @@ module.exports.equity = function () {
                         test.push({
                             'tradingsymbol': data[0],
                             //'mis_multiplier': data[2].match(/(\d+)/)[0],
-                            'mis_multiplier': data[2].substring(data[2].indexOf('(') + 1, data[2].indexOf(')')).trim().match(/(\d+)/)[0],
+                            'mis_multiplier': data[2].match(/(\d+)/)[0],
                             'nrml_multiplier': data[3].match(/(\d+)/)[0]
                         });
                         data = [];
@@ -104,7 +106,7 @@ module.exports.equity = function () {
 
                 test.push({
                     'tradingsymbol': data[0],
-                    'mis_multiplier': data[2].substring(data[2].indexOf('(') + 1, data[2].indexOf(')')).trim().match(/(\d+)/)[0],
+                    'mis_multiplier': data[2].match(/(\d+)/)[0],
                     'nrml_multiplier': data[3].match(/(\d+)/)[0]
                 });
                 let new_json = JSON.stringify(test);
@@ -125,7 +127,7 @@ module.exports.equity = function () {
     }
 
 };
-
+// module.exports.equity()
 
 module.exports.futures = function () {
     try {
@@ -185,7 +187,7 @@ module.exports.futures = function () {
                     'price': data[2],
                     'mwpl': data[3],
                     'mis': data[4],
-                    'op_mis': data[5],
+                    'op_mis': data[5].split("  ")[0],
                     'nrml': data[6],
                     'expiry': expiry
                 });
@@ -207,4 +209,5 @@ module.exports.futures = function () {
 
 
 };
+// module.exports.futures()
 

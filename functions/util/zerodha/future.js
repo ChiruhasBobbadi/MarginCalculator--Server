@@ -19,7 +19,7 @@ try{
                 kite_json = (JSON.parse(body));
 
                 kite_json.forEach(element => {
-                    new_json.push({co_lower:element.co_lower,co_upper:element.co_upper,margin:element.margin,mis_multiplier:element.mis_multiplier})
+                    new_json.push({co_lower:element.co_lower,co_upper:element.co_upper,margin:element.margin,mis:element.mis_margin})
                 });
                 //console.log(new_json)
                 call(new_json)
@@ -62,7 +62,7 @@ try{
                     else if (key.trim() === 'calc') {
                         temp = json.shift();
                         // convert to json
-                        test.push({ scrip: data[0],expiry:data[1], lot: data[2], price: data[3], nrml: data[4],mis:data[5],mwpl:data[6],co_lower:temp.co_lower,co_upper:temp.co_upper,margin:temp.margin,mis_multiplier:temp.mis_multiplier});
+                        test.push({ scrip: data[0],expiry:data[1], lot: data[2], price: data[3], nrml: data[4],mis:temp.mis,co_lower:temp.co_lower,co_upper:temp.co_upper,margin:temp.margin,mis_multiplier:temp.mis_multiplier});
 
                         data = []
 

@@ -1,146 +1,110 @@
 [
   {
-    "scrip": "GOLD",
-    "expiry": "03APR2020",
-    "price": "37856",
-    "lot": "100",
-    "mwpl": "5.25",
-    "mis": "10000",
-    "nrml": "198744"
-  },
-  {
-    "scrip": "COPPER",
-    "expiry": "31DEC2019",
-    "price": "434.05",
-    "lot": "2500",
-    "mwpl": "5.25",
-    "mis": "5000",
-    "nrml": "56969"
-  },
-  {
     "scrip": "CRUDEOIL",
     "expiry": "17JAN2020",
-    "price": "4147",
-    "lot": "100",
-    "mwpl": "9.21",
+    "price": "100",
+    "lot": "4386",
+    "mwpl": "7.67",
     "mis": "2500",
-    "nrml": "38194"
+    "nrml": "33640.62"
+  },
+  {
+    "scrip": "GOLD",
+    "expiry": "05FEB2020",
+    "price": "100",
+    "lot": "39108",
+    "mwpl": "5.25",
+    "mis": "10000",
+    "nrml": "205317.00"
   },
   {
     "scrip": "SILVER",
     "expiry": "05MAR2020",
-    "price": "44932",
-    "lot": "30",
-    "mwpl": "6.73",
+    "price": "30",
+    "lot": "46711",
+    "mwpl": "6.05",
     "mis": "7500",
-    "nrml": "90718"
+    "nrml": "84780.47"
   },
   {
-    "scrip": "ZINC",
-    "expiry": "31DEC2019",
-    "price": "185.8",
-    "lot": "5000",
+    "scrip": "COPPER",
+    "expiry": "31JAN2020",
+    "price": "2500",
+    "lot": "441.25",
     "mwpl": "5.25",
     "mis": "5000",
-    "nrml": "48773"
+    "nrml": "57914.06"
   },
   {
-    "scrip": "NICKEL",
-    "expiry": "31DEC2019",
-    "price": "1061.8",
-    "lot": "1500",
-    "mwpl": "7.57",
-    "mis": "10000",
-    "nrml": "120567"
-  },
-  {
-    "scrip": "LEAD",
-    "expiry": "31DEC2019",
-    "price": "152.7",
-    "lot": "5000",
+    "scrip": "ALUMINI",
+    "expiry": "31JAN2020",
+    "price": "1000",
+    "lot": "137.25",
     "mwpl": "5.25",
-    "mis": "5000",
-    "nrml": "40084"
-  },
-  {
-    "scrip": "ALUMINIUM",
-    "expiry": "31DEC2019",
-    "price": "131.3",
-    "lot": "5000",
-    "mwpl": "5.25",
-    "mis": "5000",
-    "nrml": "34466"
+    "mis": "1000",
+    "nrml": "7205.63"
   },
   {
     "scrip": "GOLDM",
-    "expiry": "03JAN2020",
-    "price": "37851",
-    "lot": "10",
+    "expiry": "05FEB2020",
+    "price": "10",
+    "lot": "38999",
     "mwpl": "5.25",
     "mis": "1000",
-    "nrml": "19872"
+    "nrml": "20474.48"
+  },
+  {
+    "scrip": "LEADMINI",
+    "expiry": "31JAN2020",
+    "price": "1000",
+    "lot": "151.75",
+    "mwpl": "5.25",
+    "mis": "1000",
+    "nrml": "7966.88"
+  },
+  {
+    "scrip": "NATURALGAS",
+    "expiry": "28JAN2020",
+    "price": "1250",
+    "lot": "155.5",
+    "mwpl": "12.80",
+    "mis": "3500",
+    "nrml": "24880.00"
+  },
+  {
+    "scrip": "NICKEL",
+    "expiry": "31JAN2020",
+    "price": "1500",
+    "lot": "1029.2",
+    "mwpl": "8.59",
+    "mis": "10000",
+    "nrml": "132612.42"
   },
   {
     "scrip": "SILVERM",
     "expiry": "28FEB2020",
-    "price": "44962",
-    "lot": "5",
-    "mwpl": "6.63",
+    "price": "5",
+    "lot": "46731",
+    "mwpl": "6.00",
     "mis": "1000",
-    "nrml": "14905"
-  },
-  {
-    "scrip": "ZINCMINI",
-    "expiry": "31DEC2019",
-    "price": "185.85",
-    "lot": "1000",
-    "mwpl": "5.25",
-    "mis": "1000",
-    "nrml": "9757"
-  },
-  {
-    "scrip": "LEADMINI",
-    "expiry": "31DEC2019",
-    "price": "152.75",
-    "lot": "1000",
-    "mwpl": "5.25",
-    "mis": "1000",
-    "nrml": "8019"
+    "nrml": "14019.30"
   },
   {
     "scrip": "SILVERMIC",
     "expiry": "28FEB2020",
-    "price": "44980",
-    "lot": "1",
-    "mwpl": "6.61",
+    "price": "1",
+    "lot": "46728",
+    "mwpl": "6.00",
     "mis": "300",
-    "nrml": "2973"
+    "nrml": "2803.68"
   },
   {
-    "scrip": "ALUMINI",
-    "expiry": "31DEC2019",
-    "price": "131.3",
-    "lot": "1000",
+    "scrip": "ZINCMINI",
+    "expiry": "31JAN2020",
+    "price": "1000",
+    "lot": "179",
     "mwpl": "5.25",
     "mis": "1000",
-    "nrml": "6893"
-  },
-  {
-    "scrip": "NATURALGAS",
-    "expiry": "26DEC2019",
-    "price": "186.2",
-    "lot": "1250",
-    "mwpl": "14.04",
-    "mis": "3500",
-    "nrml": "32678"
-  },
-  {
-    "scrip": "MENTHAOIL",
-    "expiry": "31DEC2019",
-    "price": "1263.8",
-    "lot": "360",
-    "mwpl": "9.46",
-    "mis": "13649",
-    "nrml": "43040"
+    "nrml": "9397.50"
   }
 ]
