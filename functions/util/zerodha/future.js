@@ -62,7 +62,7 @@ try{
                     else if (key.trim() === 'calc') {
                         temp = json.shift();
                         // convert to json
-                        test.push({ scrip: data[0],expiry:data[1], lot: data[2], price: data[3], nrml: data[4],mis:temp.mis,co_lower:temp.co_lower,co_upper:temp.co_upper,margin:temp.margin,mis_multiplier:temp.mis_multiplier});
+                        test.push({ scrip: data[0],expiry:data[1], lot: data[2], price: data[3], nrml: data[4],mis:Math.round(temp.mis),co_lower:temp.co_lower,co_upper:temp.co_upper,margin:temp.margin,mis_multiplier:temp.mis_multiplier});
 
                         data = []
 
@@ -94,6 +94,7 @@ try{
         })
 
     }
+    kite_call();
 }
 catch (e) {
     console.log("exception in zerodha futures" + new Date().getDate());
