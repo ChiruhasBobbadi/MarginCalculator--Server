@@ -70,10 +70,11 @@ module.exports.commodity = function () {
 
 
 };
+//module.exports.commodity();
 
 //module.exports.commodity();
 
-module.exports.equity = function () {
+/*module.exports.equity = function () {
 // function equity(){
     try {
         let data = [];
@@ -126,7 +127,7 @@ module.exports.equity = function () {
         console.log("exception occured in astha equity");
     }
 
-};
+};*/
 // module.exports.equity()
 
 module.exports.futures = function () {
@@ -209,5 +210,5 @@ module.exports.futures = function () {
 
 
 };
-// module.exports.futures()
+ // module.exports.futures();
 

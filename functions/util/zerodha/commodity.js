@@ -108,3 +108,5 @@ catch (e) {
 
 
 exports.call = kite_call;
+
+//module.exports.call();

@@ -38,11 +38,11 @@ cron.schedule("40 3 * * *", () => {
 
 });
 
-cron.schedule("42 3 * * *", () => {
+/*cron.schedule("42 3 * * *", () => {
     console.log(`astha equity function is called `);
     astha.equity();
 
-});
+});*/
 
 
 
