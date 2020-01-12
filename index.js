@@ -17,8 +17,8 @@ let SERVER_PORT = 5000;
 cron.schedule("40 4 * * *", () => {
     console.log(`zerodha commodity function is called now`);
     commodity.call();
-    console.log(`astha commodity function is called `);
-    astha.commodity();
+    // console.log(`astha commodity function is called `);
+    // astha.commodity();
 
 });
 
