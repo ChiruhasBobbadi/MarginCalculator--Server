@@ -26,8 +26,8 @@ cron.schedule("40 4 * * *", () => {
 cron.schedule("52 3 * * *", () => {
     console.log(`zerodha future function is called `);
     future.call();
-    console.log(`astha future function is called `);
-    astha.futures();
+    // console.log(`astha future function is called `);
+    // astha.futures();
 
 });
 
