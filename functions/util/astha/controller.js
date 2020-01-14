@@ -70,12 +70,9 @@ module.exports.commodity = function () {
 
 
 };
-//module.exports.commodity();
 
-//module.exports.commodity();
+module.exports.equity = function () {
 
-/*module.exports.equity = function () {
-// function equity(){
     try {
         let data = [];
         let test = [];
@@ -83,21 +80,27 @@ module.exports.commodity = function () {
             if (!error && response.statusCode === 200) {
                 const $ = cheerio.load(html);
                 let expiry = "";
-                $('.filters th input').each((i, el) => {
+                $('.filters th input ').each((i, el) => {
                     if (i === 1) {
                         expiry = $(el).attr('placeholder').split(":")[1].trim();
                     }
                 });
                 $('.ex1  .datatable tbody tr td').each((i, el) => {
-                    if (data.length === 4) {
-                        //console.log(data[2].substring(data[2].indexOf('(') + 1, data[2].indexOf(')')).trim());
+                    if (data.length === 3) {
+
+                        //console.log(data[2]);
                         test.push({
                             'tradingsymbol': data[0],
                             //'mis_multiplier': data[2].match(/(\d+)/)[0],
-                            'mis_multiplier': data[2].match(/(\d+)/)[0],
-                            'nrml_multiplier': data[3].match(/(\d+)/)[0]
+                            'mis_multiplier': data[2].substring(data[2].indexOf('(') + 1, data[2].indexOf(')')).trim().match(/(\d+)/)[0],
+                            'nrml_multiplier': 1
                         });
                         data = [];
+
+
+                        data = [];
+
+
                         data.push($(el).text().trim())
                     } else {
                         const value = $(el).text();
@@ -107,8 +110,8 @@ module.exports.commodity = function () {
 
                 test.push({
                     'tradingsymbol': data[0],
-                    'mis_multiplier': data[2].match(/(\d+)/)[0],
-                    'nrml_multiplier': data[3].match(/(\d+)/)[0]
+                    'mis_multiplier': data[2].substring(data[2].indexOf('(') + 1, data[2].indexOf(')')).trim().match(/(\d+)/)[0],
+                    'nrml_multiplier': 1
                 });
                 let new_json = JSON.stringify(test);
 
@@ -127,8 +130,7 @@ module.exports.commodity = function () {
         console.log("exception occured in astha equity");
     }
 
-};*/
-// module.exports.equity()
+};
 
 module.exports.futures = function () {
     try {
@@ -188,7 +190,7 @@ module.exports.futures = function () {
                     'price': data[2],
                     'mwpl': data[3],
                     'mis': data[4],
-                    'op_mis': data[5].split("  ")[0],
+                    'op_mis': data[5],
                     'nrml': data[6],
                     'expiry': expiry
                 });
@@ -210,5 +212,4 @@ module.exports.futures = function () {
 
 
 };
- // module.exports.futures();
 
