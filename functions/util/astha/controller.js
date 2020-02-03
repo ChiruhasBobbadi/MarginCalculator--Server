@@ -71,6 +71,7 @@ module.exports.commodity = function () {
 
 };
 
+
 module.exports.equity = function () {
 
     try {
@@ -86,14 +87,24 @@ module.exports.equity = function () {
                     }
                 });
                 $('.ex1  .datatable tbody tr td').each((i, el) => {
-                    if (data.length === 3) {
-
+                    // if nrml+mis length==4 || length == 3
+                    if (data.length === 4) {
+                        console.log(data);
                         //console.log(data[2]);
-                        test.push({
+                        // for only mis
+                        /*test.push({
                             'tradingsymbol': data[0],
                             //'mis_multiplier': data[2].match(/(\d+)/)[0],
                             'mis_multiplier': data[2].substring(data[2].indexOf('(') + 1, data[2].indexOf(')')).trim().match(/(\d+)/)[0],
                             'nrml_multiplier': 1
+                        });*/
+
+
+                        // for nrml+mis
+                        test.push({
+                            'tradingsymbol': data[0],
+                            'mis_multiplier': data[2].match(/(\d+)/)[0],
+                            'nrml_multiplier': data[3].match(/(\d+)/)[0]
                         });
                         data = [];
 
@@ -108,11 +119,23 @@ module.exports.equity = function () {
                     }
                 });
 
-                test.push({
+                // for mis
+                /*test.push({
                     'tradingsymbol': data[0],
+
                     'mis_multiplier': data[2].substring(data[2].indexOf('(') + 1, data[2].indexOf(')')).trim().match(/(\d+)/)[0],
                     'nrml_multiplier': 1
+                });*/
+
+                // for nrml+mis
+
+
+                test.push({
+                    'tradingsymbol': data[0],
+                    'mis_multiplier': data[2].match(/(\d+)/)[0],
+                    'nrml_multiplier': data[3].match(/(\d+)/)[0]
                 });
+
                 let new_json = JSON.stringify(test);
 
                 fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "astha", "equity.json"), new_json, (err) => {

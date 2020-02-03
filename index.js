@@ -17,8 +17,8 @@ let SERVER_PORT = 5000;
 cron.schedule("40 4 * * *", () => {
     console.log(`zerodha commodity function is called now`);
     commodity.call();
-    // console.log(`astha commodity function is called `);
-    // astha.commodity();
+    console.log(`astha commodity function is called `);
+    astha.commodity();
 
 });
 
@@ -45,32 +45,32 @@ cron.schedule("42 3 * * *", () => {
 });
 
 
+/*
+cron.schedule("23 13 * * *", () => {
+    console.log(`zerodha commodity function is called now`);
+    commodity.call();
+    console.log(`astha commodity function is called `);
+    astha.commodity();
 
-// cron.schedule("23 13 * * *", () => {
-//     console.log(`zerodha commodity function is called now`);
-//     commodity.call();
-//     console.log(`astha commodity function is called `);
-//     astha.commodity();
-//
-// });
+});
 
-// cron.schedule("35 14 * * *", () => {
-//     console.log(`zerodha future function is called `);
-//     future.call();
-//     console.log(`astha future function is called `);
-//   astha.futures()
-//
-// });
+cron.schedule("35 14 * * *", () => {
+    console.log(`zerodha future function is called `);
+    future.call();
+    console.log(`astha future function is called `);
+  astha.futures()
 
-
+});
 
 
-// cron.schedule("12 05 * * *", () => {
-//    // console.log(`Currency function is called `);
-//     //currency.call();
-//     console.log("astha equity is called");
-//     astha.equity()
-// });
+
+
+cron.schedule("12 05 * * *", () => {
+   // console.log(`Currency function is called `);
+    //currency.call();
+    console.log("astha equity is called");
+    astha.equity()
+});*/
 
 const app = express();
 
