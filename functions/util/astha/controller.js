@@ -9,7 +9,7 @@ module.exports.commodity = function () {
 
         let data = [];
         let test = [];
-    request('https://asthatrade.com/site/mcxmargin', (e, response, html) => {
+    request('https://asthatrade.com/site/mcxmargin', (error, response, html) => {
         try {
             if (!error && response.statusCode === 200) {
 
@@ -64,7 +64,7 @@ module.exports.commodity = function () {
 
 
         } catch (e) {
-            console.log("exception occured in astha commodity");
+            console.log("exception occured in astha commodity "+e );
             }
 
 
