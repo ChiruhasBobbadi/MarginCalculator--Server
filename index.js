@@ -14,7 +14,6 @@ const helmet = require('helmet');
 let SERVER_PORT = 5000;
 
 
-/*
 cron.schedule("40 4 * * *", () => {
     console.log(`zerodha commodity function is called now`);
     commodity.call();
@@ -44,16 +43,15 @@ cron.schedule("42 3 * * *", () => {
     astha.equity();
 
 });
-*/
 
 
-cron.schedule("33 17 * * *", () => {
-    console.log(`zerodha commodity function is called now`);
-    commodity.call();
-    console.log(`astha commodity function is called `);
-    astha.commodity();
-
-});
+// cron.schedule("33 17 * * *", () => {
+//     console.log(`zerodha commodity function is called now`);
+//     commodity.call();
+//     console.log(`astha commodity function is called `);
+//     astha.commodity();
+//
+// });
 
 /*cron.schedule("29 17 * * *", () => {
     console.log(`zerodha future function is called `);
