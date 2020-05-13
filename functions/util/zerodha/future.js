@@ -5,31 +5,33 @@ const path = require('path');
 
 try {
     function kite_call() {
-        kite_json = "";
-        new_json = [];
+        let kite_json = "";
+        let new_json = [];
         request.get("https://api.kite.trade/margins/futures", (error, response, body) => {
-            if (error) {
-                return console.dir(error);
+
+
+            if(!error && response.statusCode===200){
+                try {
+                    body = body.trim();
+                    kite_json = (JSON.parse(body));
+
+                    kite_json.forEach(element => {
+                        new_json.push({
+                            co_lower: element.co_lower,
+                            co_upper: element.co_upper,
+                            margin: element.margin,
+                            mis: element.mis_margin
+                        })
+                    });
+                    //console.log(new_json)
+                    call(new_json)
+                } catch (e) {
+                    console.log("Exception in zerodha futures");
+                }
             }
 
 
-            try {
-                body = body.trim();
-                kite_json = (JSON.parse(body));
 
-                kite_json.forEach(element => {
-                    new_json.push({
-                        co_lower: element.co_lower,
-                        co_upper: element.co_upper,
-                        margin: element.margin,
-                        mis: element.mis_margin
-                    })
-                });
-                //console.log(new_json)
-                call(new_json)
-            } catch (e) {
-
-            }
 
 
         });
@@ -38,11 +40,11 @@ try {
 
     function call(json) {
 
-        data = [];
+        let data = [];
 
-        new_json = 0;
+        let new_json = 0;
 
-        test = [];
+        let test = [];
 
         request('https://zerodha.com/margin-calculator/Futures/', (error, response, html) => {
 

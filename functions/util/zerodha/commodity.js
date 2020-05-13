@@ -4,24 +4,31 @@ const fs = require('fs');
 const path = require('path');
 
 
-try{
+
     function kite_call() {
-        kite_json = "";
-        new_json = [];
+        let kite_json = "";
+        let new_json = [];
         request.get("https://api.kite.trade/margins/commodity", (error, response, body) => {
-            if (error) {
-                return console.dir(error);
+            try {
+                if (!error && response.statusCode === 200) {
+                    body = body.trim();
+                    kite_json = (JSON.parse(body));
+
+                    kite_json.forEach(element => {
+                        new_json.push({
+                            co_lower: element.co_lower,
+                            co_upper: element.co_upper
+                        })
+                    });
+                    //console.log(new_json)
+                    call(new_json)
+                }
+            } catch (e) {
+                console.log("exception in zerodha commodity" + new Date().getDate());
             }
 
 
-            body = body.trim();
-            kite_json = (JSON.parse(body));
 
-            kite_json.forEach(element => {
-                new_json.push({co_lower: element.co_lower, co_upper: element.co_upper})
-            });
-            //console.log(new_json)
-            call(new_json)
 
 
         });
@@ -30,11 +37,11 @@ try{
 
     function call(json) {
 
-        data = [];
+        let data = [];
 
-        new_json = 0;
+        let new_json = 0;
 
-        test = [];
+        let test = [];
 
         //json = kite_call()
 
@@ -58,7 +65,7 @@ try{
                     if (key.trim() === 'calc') {
 
 
-                        if(json.length!==0)
+                        if (json.length !== 0)
                             temp = json.shift();
                         // convert to json
 
@@ -83,7 +90,7 @@ try{
 
                 new_json = JSON.stringify(test);
 
-                fs.writeFile(path.join(__dirname, "../","../","../", "functions", "files","zerodha", "commodity.json"), new_json, (err) => {
+                fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "zerodha", "commodity.json"), new_json, (err) => {
                     if (err)
                         console.log(err);
                     else {
@@ -96,15 +103,13 @@ try{
             }
 
 
+
+
+
         })
 
 
     }
-
-}
-catch (e) {
-    console.log("exception in zerodha commodity" + new Date().getDate());
-}
 
 
 exports.call = kite_call;
