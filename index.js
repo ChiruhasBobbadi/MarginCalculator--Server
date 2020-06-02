@@ -84,6 +84,6 @@ app.use('/', (req, res) => {
 });
 
 
-app.listen(SERVER_PORT, function () {
+app.listen(SERVER_PORT, () => {
     console.log("server started on :" + SERVER_PORT);
 });
