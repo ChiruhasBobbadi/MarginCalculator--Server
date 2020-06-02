@@ -6,10 +6,10 @@ const future = require('./functions/util/zerodha/future');
 const currency = require('./functions/util/zerodha/currency');
 const astha = require('./functions/util/astha/controller');
 const mmi = require('./functions/util/mmi/scrapeMMI');
-
+const path = require('path');
 
 const cron = require("node-cron");
-// const logger = require('morgan');
+
 const helmet = require('helmet');
 
 let SERVER_PORT = 5000;
@@ -54,19 +54,19 @@ cron.schedule("42 3 * * *", () => {
 cron.schedule("*/5 * 9-16 * 1-5 ",()=>{
     mmi.mmi()
 },{
-    timezone: "IST"
+    timezone: "Asia/Kolkata"
 });
 
+/*
+cron.schedule("33 17 * * *", () => {
+    console.log(`zerodha commodity function is called now`);
+    commodity.call();
+    console.log(`astha commodity function is called `);
+    astha.commodity();
 
-// cron.schedule("33 17 * * *", () => {
-//     console.log(`zerodha commodity function is called now`);
-//     commodity.call();
-//     console.log(`astha commodity function is called `);
-//     astha.commodity();
-//
-// });
+});
 
-/*cron.schedule("29 17 * * *", () => {
+cron.schedule("29 17 * * *", () => {
     console.log(`zerodha future function is called `);
     future.call();
     console.log(`astha future function is called `);
@@ -86,11 +86,12 @@ cron.schedule("30 17 * * *", () => {
 
 const app = express();
 
-// app.use(logger('dev'));
+
 app.use(helmet());
 
 app.use(zerodha);
 app.use('/astha', asthaRoutes);
+app.use('/mmi', (req, res) => res.sendFile(path.join(__dirname, "functions", "files", "mmi", "mmi.json")));
 
 app.use('/', (req, res) => {
     res.send("Hello friend")
