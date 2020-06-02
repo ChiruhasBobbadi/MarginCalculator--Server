@@ -5,6 +5,7 @@ const commodity = require('./functions/util/zerodha/commodity');
 const future = require('./functions/util/zerodha/future');
 const currency = require('./functions/util/zerodha/currency');
 const astha = require('./functions/util/astha/controller');
+const mmi = require('./functions/util/mmi/scrapeMMI');
 
 
 const cron = require("node-cron");
@@ -42,6 +43,18 @@ cron.schedule("42 3 * * *", () => {
     console.log(`astha equity function is called `);
     astha.equity();
 
+});
+
+/**
+ * every 5 minutes
+ * from 9.0 to 16.00 hours
+ * from monday to friday
+ * IST
+ */
+cron.schedule("*/5 * 9-16 * 1-5 ",()=>{
+    mmi.mmi()
+},{
+    timezone: "IST"
 });
 
 

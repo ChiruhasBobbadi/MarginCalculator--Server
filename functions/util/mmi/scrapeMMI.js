@@ -4,10 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 
-// module.exports.mmi = async () => {
-
- function mmi(){
-
+module.exports.mmi = () => {
     request('https://www.tickertape.in/market-mood-index', (error, response, html) => {
 
         try {
@@ -15,15 +12,16 @@ const path = require('path');
 
                 const $ = cheerio.load(html);
 
-                console.log($('.jsx-3758077420 .jsx-112727373 .number').html());
+                const mmi = $('.jsx-3758077420 .jsx-112727373 .number').html();
 
+                const obj = {'mmi': mmi};
+                console.log(obj);
 
-                /* fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "mmi", "mmi.json"), '', (err) => {
+                fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "mmi", "mmi.json"), JSON.stringify(obj), (err) => {
                      if (err)
-                         console.log(err);
-                     else
-                         console.log("astha commodity file created\n" + new Date())
-                 })*/
+                         console.log("error writing mmi file");
+
+                })
             }
 
 
@@ -35,7 +33,4 @@ const path = require('path');
 
 })
 
-}
-
-
-mmi();
+};
