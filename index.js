@@ -51,7 +51,8 @@ cron.schedule("42 3 * * *", () => {
  * from monday to friday
  * IST
  */
-cron.schedule("*/5 * 9-16 * 1-5 ",()=>{
+cron.schedule("*/5 9-16 * * 1-5",()=>{
+    console.log("called at ", new Date());
     mmi.mmi()
 },{
     timezone: "Asia/Kolkata"
