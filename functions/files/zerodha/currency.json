@@ -1,1 +1,122 @@
-[{"scrip":"91DTB","expiry":"Dec 2019","lot":"2000","price":"94.56","nrml":151,"mis":75,"co_lower":0,"co_upper":0},{"scrip":"EURINR","expiry":"Dec 2019","lot":"1000","price":"79.16","nrml":1820,"mis":910,"co_lower":0.85,"co_upper":1.155},{"scrip":"EURINR","expiry":"Jan 2020","lot":"1000","price":"79.5","nrml":1828,"mis":914,"co_lower":0.85,"co_upper":1.155},{"scrip":"EURUSD","expiry":"Dec 2019","lot":"1000","price":"77.45","nrml":2331,"mis":1165,"co_lower":0,"co_upper":0},{"scrip":"EURUSD","expiry":"Jan 2020","lot":"1000","price":"77.63","nrml":2336,"mis":1168,"co_lower":0,"co_upper":0},{"scrip":"717GS2028","expiry":"Dec 2019","lot":"2000","price":"102.75","nrml":4110,"mis":2055,"co_lower":0,"co_upper":0},{"scrip":"726GS2029","expiry":"Dec 2019","lot":"2000","price":"105.51","nrml":4220,"mis":2110,"co_lower":0,"co_upper":0},{"scrip":"668GS2031","expiry":"Dec 2019","lot":"2000","price":"98.45","nrml":3938,"mis":1969,"co_lower":0,"co_upper":0},{"scrip":"795GS2032","expiry":"Dec 2019","lot":"2000","price":"108.93","nrml":4357,"mis":2178,"co_lower":0,"co_upper":0},{"scrip":"GBPINR","expiry":"Dec 2019","lot":"1000","price":"92.86","nrml":2321,"mis":1160,"co_lower":1.05,"co_upper":1.255},{"scrip":"GBPINR","expiry":"Jan 2020","lot":"1000","price":"93.22","nrml":2330,"mis":1165,"co_lower":1.05,"co_upper":1.26},{"scrip":"GBPUSD","expiry":"Dec 2019","lot":"1000","price":"84.17","nrml":2533,"mis":1266,"co_lower":0,"co_upper":0},{"scrip":"GBPUSD","expiry":"Jan 2020","lot":"1000","price":"84.28","nrml":2536,"mis":1268,"co_lower":0,"co_upper":0},{"scrip":"JPYINR","expiry":"Dec 2019","lot":"1000","price":"65.72","nrml":1774,"mis":887,"co_lower":1.3,"co_upper":1.505},{"scrip":"JPYINR","expiry":"Jan 2020","lot":"1000","price":"66.01","nrml":1782,"mis":891,"co_lower":1.3,"co_upper":1.505},{"scrip":"USDINR","expiry":"Dec 2019","lot":"1000","price":"71.8","nrml":1436,"mis":718,"co_lower":0.85,"co_upper":1.045},{"scrip":"USDINR","expiry":"Jan 2020","lot":"1000","price":"72","nrml":1440,"mis":720,"co_lower":0.85,"co_upper":1.045},{"scrip":"USDJPY","expiry":"Dec 2019","lot":"1000","price":"68.16","nrml":2051,"mis":1025,"co_lower":0,"co_upper":0},{"scrip":"USDJPY","expiry":"Jan 2020","lot":"1000","price":"68.02","nrml":2047,"mis":1023,"co_lower":0,"co_upper":0}]
+[
+  {
+    "scrip": "EURINR",
+    "expiry": "Jun 2020",
+    "lot": 1000,
+    "price": 85.39,
+    "nrml": 2813,
+    "mis": 1406,
+    "co_lower": 0.98,
+    "co_upper": 2
+  },
+  {
+    "scrip": "EURINR",
+    "expiry": "Jul 2020",
+    "lot": 1000,
+    "price": 85.64,
+    "nrml": 2813,
+    "mis": 1406,
+    "co_lower": 0.98,
+    "co_upper": 2
+  },
+  {
+    "scrip": "EURINR",
+    "expiry": "Aug 2020",
+    "lot": 1000,
+    "price": 85.85,
+    "nrml": 2813,
+    "mis": 1406,
+    "co_lower": 0.98,
+    "co_upper": 2
+  },
+  {
+    "scrip": "GBPINR",
+    "expiry": "Jun 2020",
+    "lot": 1000,
+    "price": 95.75,
+    "nrml": 4155,
+    "mis": 2077,
+    "co_lower": 1.29,
+    "co_upper": 2
+  },
+  {
+    "scrip": "GBPINR",
+    "expiry": "Jul 2020",
+    "lot": 1000,
+    "price": 96.01,
+    "nrml": 4155,
+    "mis": 2077,
+    "co_lower": 1.29,
+    "co_upper": 2
+  },
+  {
+    "scrip": "GBPINR",
+    "expiry": "Aug 2020",
+    "lot": 1000,
+    "price": 96.23,
+    "nrml": 4155,
+    "mis": 2077,
+    "co_lower": 1.29,
+    "co_upper": 2
+  },
+  {
+    "scrip": "JPYINR",
+    "expiry": "Jun 2020",
+    "lot": 1000,
+    "price": 70.08,
+    "nrml": 2967,
+    "mis": 1483,
+    "co_lower": 1.27,
+    "co_upper": 2
+  },
+  {
+    "scrip": "JPYINR",
+    "expiry": "Jul 2020",
+    "lot": 1000,
+    "price": 70.3,
+    "nrml": 2967,
+    "mis": 1483,
+    "co_lower": 1.27,
+    "co_upper": 2
+  },
+  {
+    "scrip": "JPYINR",
+    "expiry": "Aug 2020",
+    "lot": 1000,
+    "price": 70.5,
+    "nrml": 2967,
+    "mis": 1483,
+    "co_lower": 1.27,
+    "co_upper": 2
+  },
+  {
+    "scrip": "USDINR",
+    "expiry": "Jun 2020",
+    "lot": 1000,
+    "price": 75.74,
+    "nrml": 2118,
+    "mis": 1059,
+    "co_lower": 0.84,
+    "co_upper": 2
+  },
+  {
+    "scrip": "USDINR",
+    "expiry": "Jul 2020",
+    "lot": 1000,
+    "price": 75.95,
+    "nrml": 2118,
+    "mis": 1059,
+    "co_lower": 0.84,
+    "co_upper": 2
+  },
+  {
+    "scrip": "USDINR",
+    "expiry": "Aug 2020",
+    "lot": 1000,
+    "price": 76.16,
+    "nrml": 2118,
+    "mis": 1059,
+    "co_lower": 0.84,
+    "co_upper": 2
+  }
+]

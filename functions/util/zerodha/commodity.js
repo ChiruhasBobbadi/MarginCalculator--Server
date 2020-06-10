@@ -20,7 +20,7 @@ const path = require('path');
                             co_upper: element.co_upper
                         })
                     });
-                    //console.log(new_json)
+                    // console.log(new_json)
                     call(new_json)
                 }
             } catch (e) {
@@ -37,7 +37,7 @@ const path = require('path');
 
     function call(json) {
 
-        let data = [];
+
 
         let new_json = 0;
 
@@ -51,44 +51,28 @@ const path = require('path');
 
                 const $ = cheerio.load(html);
 
-                $('#table tbody tr td').each((i, el) => {
+                $('#table tbody tr').each((i, el) => {
 
-                    const value = $(el).text();
-                    const key = $(el).attr("class");
+                    test.push({
+                        scrip: $(el).data('scrip'),
+                        lot: $(el).find($("td div span")).text().trim(),
+                        price: $(el).data('price'),
+                        nrml: $(el).data('nrml_margin'),
+                        mis: $(el).data('mis_margin'),
 
-                    if (key.trim() !== 'calc' && key.trim() !== 'n') {
-
-                        data.push(value.trim())
-                    }
-
-
-                    if (key.trim() === 'calc') {
-
-
-                        if (json.length !== 0)
-                            temp = json.shift();
-                        // convert to json
-
-                        test.push({
-                            scrip: data[0],
-                            lot: data[1],
-                            price: data[2],
-                            nrml: data[3],
-                            mis: data[4],
-
-                            co_lower: temp.co_lower,
-                            co_upper: temp.co_upper
-                        });
-
-                        data = []
-
-                    }
-
+                        // co_lower: temp.co_lower,
+                        // co_upper: temp.co_upper
+                    });
 
                 });
 
-
+                test = test.map((obj, index) => ({
+                    ...obj,
+                    co_lower: json[index].co_lower,
+                    co_upper: json[index].co_upper
+                }));
                 new_json = JSON.stringify(test);
+                console.log(new_json);
 
                 fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "zerodha", "commodity.json"), new_json, (err) => {
                     if (err)
@@ -101,11 +85,6 @@ const path = require('path');
 
 
             }
-
-
-
-
-
         })
 
 

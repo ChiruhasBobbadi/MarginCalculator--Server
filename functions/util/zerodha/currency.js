@@ -17,9 +17,16 @@ try{
                     kite_json = (JSON.parse(body));
 
                     kite_json.forEach(element => {
-                        new_json.push({nrml:Math.floor(element.nrml_margin),mis:Math.floor(element.mis_margin),co_lower:element.co_lower,co_upper:element.co_upper})
+
+                        new_json.push({
+                            scrip: splitScrip(element.tradingsymbol),
+                            nrml: Math.floor(element.nrml_margin),
+                            mis: Math.floor(element.mis_margin),
+                            co_lower: element.co_lower,
+                            co_upper: element.co_upper
+                        })
                     });
-                    //console.log(new_json)
+                    //console.log(new_json);
                     call(new_json)
                 }
                 catch (e) {
@@ -32,6 +39,26 @@ try{
         });
 
     }
+
+    const splitScrip = (str) => {
+        let s = '';
+
+        for (let c of str) {
+            if (!isDigit(c))
+                s += c;
+            else break;
+
+        }
+        return s;
+
+
+    }
+    const isDigit = (function () {
+        var re = /^\d$/;
+        return function (c) {
+            return re.test(c);
+        }
+    }());
 
     function call(json) {
 
@@ -49,30 +76,35 @@ try{
 
                 const $ = cheerio.load(html);
 
-                const heading = $('#table tbody tr td').each((i, el) => {
-
-                    const value = $(el).text();
-                    const key = $(el).attr("class");
-
-                    if (key.trim() !== 'calc' && key.trim() !== 'n' && key.trim()!=='nrml' && key.trim()!=='mis') {
-
-                        data.push(value.trim())
-                    }
+                $('#table tbody tr').each((i, el) => {
 
 
-                    if (key.trim() === 'calc') {
+                    test.push({
+                        scrip: $(el).data('scrip'),
+                        expiry: $(el).data('expiry'),
+                        lot: $(el).data('lot_size'),
+                        price: $(el).data('price'),
 
-                        temp = json.shift();
-                        //console.log(data)
-                        // convert to json
-                        test.push({ scrip: data[0], expiry: data[1], lot: data[2], price: data[3],nrml:temp.nrml,mis:temp.mis,co_lower:temp.co_lower,co_upper:temp.co_upper});
-
-                        data = []
-
-                    }
+                    });
 
 
                 });
+
+                console.log(test);
+
+                test = test.map(obj => {
+                    let temp = json.filter(o => o.scrip === obj.scrip);
+                    console.log(temp);
+                    return {
+                        ...obj,
+                        nrml: temp[0].nrml,
+                        mis: temp[0].mis,
+                        co_lower: temp[0].co_lower,
+                        co_upper: temp[0].co_upper
+                    }
+                });
+
+
 
 
                 new_json = JSON.stringify(test);
@@ -98,8 +130,6 @@ try{
 catch (e) {
     console.log("exception in zerodha currency" + new Date().getDate());
 }
-
-
 
 
 exports.call = kite_call;

@@ -15,13 +15,13 @@ try {
                     body = body.trim();
                     kite_json = (JSON.parse(body));
 
-                    kite_json.forEach(element => {
-                        new_json.push({
+                    new_json = kite_json.map(element => {
+                        return {
                             co_lower: element.co_lower,
                             co_upper: element.co_upper,
                             margin: element.margin,
                             mis: element.mis_margin
-                        })
+                        }
                     });
                     //console.log(new_json)
                     call(new_json)
@@ -40,11 +40,10 @@ try {
 
     function call(json) {
 
-        let data = [];
+
 
         let new_json = 0;
 
-        let test = [];
 
         request('https://zerodha.com/margin-calculator/Futures/', (error, response, html) => {
 
@@ -53,39 +52,21 @@ try {
 
                 const $ = cheerio.load(html);
 
-                $('#table tbody tr td').each((i, el) => {
+                new_json = json.map((obj, index) =>({
+                        scrip: $(`#entry-${index + 1}`).data('scrip'),
+                        expiry: $(`#entry-${index + 1}`).data('expiry'),
+                        lot: $(`#entry-${index + 1}`).data('lot_size'),
+                        price: $(`#entry-${index + 1}`).data('price'),
+                        nrml: $(`#entry-${index + 1}`).data('nrml_margin'),
+                        mis: Math.round(obj.mis),
+                        co_lower: obj.co_lower,
+                        co_upper: obj.co_upper,
+                        margin: obj.margin,
+                        mis_multiplier: obj.mis_multiplier
+                    })
+                );
 
-                    const value = $(el).text();
-                    const key = $(el).attr("class");
-
-                    if (key.trim() !== 'calc' && key.trim() !== 'n') {
-
-                        data.push(value.trim())
-                    } else if (key.trim() === 'calc') {
-                        temp = json.shift();
-                        // convert to json
-                        test.push({
-                            scrip: data[0],
-                            expiry: data[1],
-                            lot: data[2],
-                            price: data[3],
-                            nrml: data[4],
-                            mis: Math.round(temp.mis),
-                            co_lower: temp.co_lower,
-                            co_upper: temp.co_upper,
-                            margin: temp.margin,
-                            mis_multiplier: temp.mis_multiplier
-                        });
-
-                        data = []
-
-                    }
-
-
-                    //json.push({price:price})
-                });
-
-                new_json = JSON.stringify(test);
+                new_json = JSON.stringify(new_json);
 
                 fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "zerodha", "futures.json"), new_json, (err) => {
                     if (err)
@@ -110,7 +91,6 @@ try {
 
 exports.call = kite_call;
 
-//module.exports.call();
 
 	
 	

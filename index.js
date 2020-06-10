@@ -15,34 +15,42 @@ const helmet = require('helmet');
 let SERVER_PORT = 5000;
 
 
-cron.schedule("40 4 * * *", () => {
+cron.schedule("10 10 * * *", () => {
     console.log(`zerodha commodity function is called now`);
     commodity.call();
     console.log(`astha commodity function is called `);
     astha.commodity();
 
+}, {
+    timezone: "Asia/Kolkata"
 });
 
 
-cron.schedule("52 3 * * *", () => {
+cron.schedule("52 8 * * *", () => {
     console.log(`zerodha future function is called `);
     future.call();
     // console.log(`astha future function is called `);
     // astha.futures();
 
+}, {
+    timezone: "Asia/Kolkata"
 });
 
-cron.schedule("40 3 * * *", () => {
+cron.schedule("10 9 * * *", () => {
     console.log(`zerodha Currency function is called `);
     currency.call();
     //asthaCurrency.call();
 
+}, {
+    timezone: "Asia/Kolkata"
 });
 
-cron.schedule("42 3 * * *", () => {
+cron.schedule("12 9 * * *", () => {
     console.log(`astha equity function is called `);
     astha.equity();
 
+}, {
+    timezone: "Asia/Kolkata"
 });
 
 /**
@@ -93,7 +101,6 @@ app.use(helmet());
 app.use(zerodha);
 app.use('/astha', asthaRoutes);
 app.use('/mmi', (req, res) => res.sendFile(path.join(__dirname, "functions", "files", "mmi", "mmi.json")));
-
 app.use('/', (req, res) => {
     res.send("Hello friend")
 });
