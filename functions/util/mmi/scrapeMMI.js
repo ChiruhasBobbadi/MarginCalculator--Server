@@ -15,7 +15,7 @@ module.exports.mmi = () => {
                 const mmi = $('.jsx-3758077420 .jsx-112727373 .number').html();
 
                 const obj = {'mmi': mmi};
-                console.log(obj);
+
 
                 fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "mmi", "mmi.json"), JSON.stringify(obj), (err) => {
                      if (err)
