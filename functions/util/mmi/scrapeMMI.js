@@ -12,7 +12,7 @@ module.exports.mmi = () => {
 
                 const $ = cheerio.load(html);
 
-                const mmi = $('.jsx-3758077420 .jsx-112727373 .number').html();
+                const mmi = $('.number').html();
 
                 const obj = {'mmi': mmi};
 
