@@ -1,1 +1,1307 @@
-[{"scrip":"BANKNIFTY","lot":"20","price":"19284","mwpl":"23.16","mis":"3500","op_mis":"3500","nrml":"89322","expiry":"28-May-2020"},{"scrip":"NIFTY","lot":"75","price":"9237","mwpl":"18.31","mis":"3500","op_mis":"3500","nrml":"126844","expiry":"28-May-2020"},{"scrip":"ACC","lot":"400","price":"1143","mwpl":"25.32","mis":"9144","op_mis":"13716","nrml":"115764","expiry":"28-May-2020"},{"scrip":"ADANIENT","lot":"4000","price":"137","mwpl":"43.44","mis":"10984","op_mis":"16476","nrml":"238574","expiry":"28-May-2020"},{"scrip":"ADANIPORTS","lot":"2500","price":"286","mwpl":"30.21","mis":"14278","op_mis":"21418","nrml":"215675","expiry":"28-May-2020"},{"scrip":"ADANIPOWER","lot":"10000","price":"30","mwpl":"38.57","mis":"6000","op_mis":"9000","nrml":"115710","expiry":"28-May-2020"},{"scrip":"AMARAJABAT","lot":"800","price":"544","mwpl":"27.11","mis":"8711","op_mis":"13066","nrml":"118071","expiry":"28-May-2020"},{"scrip":"AMBUJACEM","lot":"2500","price":"168","mwpl":"26.08","mis":"8404","op_mis":"12607","nrml":"109594","expiry":"28-May-2020"},{"scrip":"APOLLOHOSP","lot":"500","price":"1312","mwpl":"27.61","mis":"13122","op_mis":"19683","nrml":"181149","expiry":"28-May-2020"},{"scrip":"APOLLOTYRE","lot":"3000","price":"90","mwpl":"29.31","mis":"5388","op_mis":"8082","nrml":"78957","expiry":"28-May-2020"},{"scrip":"ASHOKLEY","lot":"8000","price":"45","mwpl":"41.89","mis":"7241","op_mis":"10861","nrml":"151655","expiry":"28-May-2020"},{"scrip":"ASIANPAINT","lot":"300","price":"1580","mwpl":"22.53","mis":"9481","op_mis":"14222","nrml":"106809","expiry":"28-May-2020"},{"scrip":"AUROPHARMA","lot":"1000","price":"654","mwpl":"39.25","mis":"13077","op_mis":"19615","nrml":"256628","expiry":"28-May-2020"},{"scrip":"AXISBANK","lot":"1200","price":"383","mwpl":"42.27","mis":"9190","op_mis":"13785","nrml":"194234","expiry":"28-May-2020"},{"scrip":"BAJAJ-AUTO","lot":"250","price":"2418","mwpl":"25.45","mis":"12090","op_mis":"18135","nrml":"153843","expiry":"28-May-2020"},{"scrip":"BAJAJFINSV","lot":"125","price":"4612","mwpl":"34.29","mis":"11529","op_mis":"17294","nrml":"197666","expiry":"28-May-2020"},{"scrip":"BAJFINANCE","lot":"250","price":"2022","mwpl":"40.89","mis":"10110","op_mis":"15165","nrml":"206697","expiry":"28-May-2020"},{"scrip":"BALKRISIND","lot":"800","price":"887","mwpl":"28.52","mis":"14186","op_mis":"21279","nrml":"202288","expiry":"28-May-2020"},{"scrip":"BANDHANBNK","lot":"1200","price":"241","mwpl":"53.17","mis":"5779","op_mis":"8669","nrml":"153646","expiry":"28-May-2020"},{"scrip":"BANKBARODA","lot":"5400","price":"41","mwpl":"43.67","mis":"4423","op_mis":"6634","nrml":"96572","expiry":"28-May-2020"},{"scrip":"BATAINDIA","lot":"550","price":"1289","mwpl":"24.65","mis":"14178","op_mis":"21267","nrml":"174746","expiry":"28-May-2020"},{"scrip":"BEL","lot":"6000","price":"60","mwpl":"28.87","mis":"7188","op_mis":"10782","nrml":"103754","expiry":"28-May-2020"},{"scrip":"BERGEPAINT","lot":"1100","price":"455","mwpl":"23.9","mis":"10000","op_mis":"15001","nrml":"119504","expiry":"28-May-2020"},{"scrip":"BHARATFORG","lot":"1300","price":"278","mwpl":"39.99","mis":"7241","op_mis":"10861","nrml":"144780","expiry":"28-May-2020"},{"scrip":"BHARTIARTL","lot":"1851","price":"529","mwpl":"25.29","mis":"19577","op_mis":"29365","nrml":"247549","expiry":"28-May-2020"},{"scrip":"BHEL","lot":"10400","price":"22","mwpl":"44.17","mis":"4596","op_mis":"6894","nrml":"101509","expiry":"28-May-2020"},{"scrip":"BIOCON","lot":"2300","price":"358","mwpl":"21.36","mis":"16488","op_mis":"24732","nrml":"176094","expiry":"28-May-2020"},{"scrip":"BOSCHLTD","lot":"40","price":"9785","mwpl":"26.36","mis":"7828","op_mis":"11742","nrml":"103170","expiry":"28-May-2020"},{"scrip":"BPCL","lot":"1800","price":"325","mwpl":"44.27","mis":"11694","op_mis":"17541","nrml":"258846","expiry":"28-May-2020"},{"scrip":"BRITANNIA","lot":"200","price":"2997","mwpl":"25.39","mis":"11987","op_mis":"17981","nrml":"152180","expiry":"28-May-2020"},{"scrip":"CADILAHC","lot":"2200","price":"322","mwpl":"26.59","mis":"14170","op_mis":"21255","nrml":"188386","expiry":"28-May-2020"},{"scrip":"CANBK","lot":"2600","price":"80","mwpl":"33.86","mis":"4140","op_mis":"6210","nrml":"70087","expiry":"28-May-2020"},{"scrip":"CENTURYTEX","lot":"600","price":"266","mwpl":"35.63","mis":"3193","op_mis":"4789","nrml":"56881","expiry":"28-May-2020"},{"scrip":"CESC","lot":"800","price":"619","mwpl":"27.65","mis":"9911","op_mis":"14866","nrml":"137015","expiry":"28-May-2020"},{"scrip":"CHOLAFIN","lot":"2500","price":"144","mwpl":"50.58","mis":"7205","op_mis":"10807","nrml":"182205","expiry":"28-May-2020"},{"scrip":"CIPLA","lot":"1150","price":"593","mwpl":"23.32","mis":"13644","op_mis":"20466","nrml":"159087","expiry":"28-May-2020"},{"scrip":"COALINDIA","lot":"2700","price":"129","mwpl":"23.75","mis":"6983","op_mis":"10475","nrml":"82929","expiry":"28-May-2020"},{"scrip":"COLPAL","lot":"700","price":"1353","mwpl":"22.91","mis":"18940","op_mis":"28410","nrml":"216961","expiry":"28-May-2020"},{"scrip":"CONCOR","lot":"1563","price":"358","mwpl":"34.65","mis":"11200","op_mis":"16800","nrml":"194042","expiry":"28-May-2020"},{"scrip":"CUMMINSIND","lot":"900","price":"358","mwpl":"26.99","mis":"6439","op_mis":"9659","nrml":"86901","expiry":"28-May-2020"},{"scrip":"DABUR","lot":"1250","price":"447","mwpl":"22.02","mis":"11185","op_mis":"16777","nrml":"123143","expiry":"28-May-2020"},{"scrip":"DIVISLAB","lot":"400","price":"2297","mwpl":"23.87","mis":"18377","op_mis":"27565","nrml":"219329","expiry":"28-May-2020"},{"scrip":"DLF","lot":"3300","price":"130","mwpl":"31.27","mis":"8577","op_mis":"12866","nrml":"134102","expiry":"28-May-2020"},{"scrip":"DRREDDY","lot":"250","price":"3982","mwpl":"21.49","mis":"19909","op_mis":"29864","nrml":"213927","expiry":"28-May-2020"},{"scrip":"EICHERMOT","lot":"30","price":"13897","mwpl":"25.22","mis":"8338","op_mis":"12508","nrml":"105147","expiry":"28-May-2020"},{"scrip":"EQUITAS","lot":"4900","price":"49","mwpl":"53.48","mis":"4792","op_mis":"7188","nrml":"128136","expiry":"28-May-2020"},{"scrip":"ESCORTS","lot":"1100","price":"740","mwpl":"34.04","mis":"16291","op_mis":"24436","nrml":"277272","expiry":"28-May-2020"},{"scrip":"EXIDEIND","lot":"2900","price":"146","mwpl":"26.98","mis":"8472","op_mis":"12707","nrml":"114281","expiry":"28-May-2020"},{"scrip":"FEDERALBNK","lot":"7000","price":"43","mwpl":"35.36","mis":"5971","op_mis":"8956","nrml":"105563","expiry":"28-May-2020"},{"scrip":"GAIL","lot":"5334","price":"91","mwpl":"41.32","mis":"9745","op_mis":"14618","nrml":"201334","expiry":"28-May-2020"},{"scrip":"GLENMARK","lot":"1400","price":"333","mwpl":"34.77","mis":"9320","op_mis":"13979","nrml":"162020","expiry":"28-May-2020"},{"scrip":"GMRINFRA","lot":"45000","price":"17","mwpl":"35.45","mis":"15707","op_mis":"23560","nrml":"278402","expiry":"28-May-2020"},{"scrip":"GODREJCP","lot":"800","price":"499","mwpl":"24","mis":"7980","op_mis":"11970","nrml":"95756","expiry":"28-May-2020"},{"scrip":"GODREJPROP","lot":"650","price":"617","mwpl":"32.82","mis":"8022","op_mis":"12033","nrml":"131641","expiry":"28-May-2020"},{"scrip":"GRASIM","lot":"750","price":"486","mwpl":"28.19","mis":"7285","op_mis":"10928","nrml":"102688","expiry":"28-May-2020"},{"scrip":"HAVELLS","lot":"1000","price":"488","mwpl":"24.62","mis":"9769","op_mis":"14654","nrml":"120260","expiry":"28-May-2020"},{"scrip":"HCLTECH","lot":"1400","price":"518","mwpl":"26.99","mis":"14518","op_mis":"21777","nrml":"195918","expiry":"28-May-2020"},{"scrip":"HDFC","lot":"250","price":"1687","mwpl":"32.13","mis":"8437","op_mis":"12655","nrml":"135538","expiry":"28-May-2020"},{"scrip":"HDFCBANK","lot":"500","price":"922","mwpl":"27.76","mis":"9222","op_mis":"13833","nrml":"127998","expiry":"28-May-2020"},{"scrip":"HDFCLIFE","lot":"900","price":"521","mwpl":"31.73","mis":"9378","op_mis":"14066","nrml":"148775","expiry":"28-May-2020"},{"scrip":"HEROMOTOCO","lot":"200","price":"1965","mwpl":"29.27","mis":"7860","op_mis":"11790","nrml":"115034","expiry":"28-May-2020"},{"scrip":"HINDALCO","lot":"3500","price":"117","mwpl":"38.7","mis":"8191","op_mis":"12286","nrml":"158493","expiry":"28-May-2020"},{"scrip":"HINDPETRO","lot":"2100","price":"197","mwpl":"35.4","mis":"8288","op_mis":"12432","nrml":"146696","expiry":"28-May-2020"},{"scrip":"HINDUNILVR","lot":"300","price":"2065","mwpl":"25.52","mis":"12393","op_mis":"18589","nrml":"158133","expiry":"28-May-2020"},{"scrip":"IBULHSGFIN","lot":"1200","price":"118","mwpl":"58.84","mis":"2844","op_mis":"4266","nrml":"83664","expiry":"28-May-2020"},{"scrip":"ICICIBANK","lot":"1375","price":"339","mwpl":"35.32","mis":"9309","op_mis":"13963","nrml":"164395","expiry":"28-May-2020"},{"scrip":"ICICIPRULI","lot":"1500","price":"399","mwpl":"38.14","mis":"11962","op_mis":"17944","nrml":"228123","expiry":"28-May-2020"},{"scrip":"IDEA","lot":"98000","price":"4","mwpl":"94.36","mis":"8232","op_mis":"12349","nrml":"388403","expiry":"28-May-2020"},{"scrip":"IDFCFIRSTB","lot":"12000","price":"20","mwpl":"47.59","mis":"4872","op_mis":"7308","nrml":"115932","expiry":"28-May-2020"},{"scrip":"IGL","lot":"1375","price":"470","mwpl":"23.12","mis":"12937","op_mis":"19406","nrml":"149555","expiry":"28-May-2020"},{"scrip":"INDIGO","lot":"300","price":"924","mwpl":"28.85","mis":"5543","op_mis":"8315","nrml":"79958","expiry":"28-May-2020"},{"scrip":"INDUSINDBK","lot":"400","price":"440","mwpl":"57.44","mis":"3523","op_mis":"5284","nrml":"101170","expiry":"28-May-2020"},{"scrip":"INFRATEL","lot":"2000","price":"174","mwpl":"38.84","mis":"6944","op_mis":"10415","nrml":"134843","expiry":"28-May-2020"},{"scrip":"INFY","lot":"1200","price":"676","mwpl":"25.49","mis":"16218","op_mis":"24327","nrml":"206702","expiry":"28-May-2020"},{"scrip":"IOC","lot":"4000","price":"74","mwpl":"23.11","mis":"5955","op_mis":"8932","nrml":"68810","expiry":"28-May-2020"},{"scrip":"ITC","lot":"2400","price":"158","mwpl":"24.42","mis":"7583","op_mis":"11375","nrml":"92593","expiry":"28-May-2020"},{"scrip":"JINDALSTEL","lot":"5000","price":"89","mwpl":"45.13","mis":"8936","op_mis":"13404","nrml":"201639","expiry":"28-May-2020"},{"scrip":"JSWSTEEL","lot":"2300","price":"169","mwpl":"33.76","mis":"7762","op_mis":"11643","nrml":"131027","expiry":"28-May-2020"},{"scrip":"JUBLFOOD","lot":"500","price":"1516","mwpl":"42.77","mis":"15160","op_mis":"22741","nrml":"324206","expiry":"28-May-2020"},{"scrip":"JUSTDIAL","lot":"1400","price":"341","mwpl":"69.82","mis":"9558","op_mis":"14338","nrml":"333686","expiry":"28-May-2020"},{"scrip":"KOTAKBANK","lot":"400","price":"1214","mwpl":"29.08","mis":"9714","op_mis":"14571","nrml":"141242","expiry":"28-May-2020"},{"scrip":"L&TFH","lot":"5600","price":"56","mwpl":"45.42","mis":"6283","op_mis":"9425","nrml":"142689","expiry":"28-May-2020"},{"scrip":"LICHSGFIN","lot":"1300","price":"262","mwpl":"38.34","mis":"6814","op_mis":"10221","nrml":"130618","expiry":"28-May-2020"},{"scrip":"LT","lot":"375","price":"816","mwpl":"24.63","mis":"6123","op_mis":"9185","nrml":"75409","expiry":"28-May-2020"},{"scrip":"LUPIN","lot":"700","price":"835","mwpl":"24.61","mis":"11692","op_mis":"17538","nrml":"143868","expiry":"28-May-2020"},{"scrip":"M&M","lot":"1000","price":"385","mwpl":"31.12","mis":"7710","op_mis":"11565","nrml":"119965","expiry":"28-May-2020"},{"scrip":"M&MFIN","lot":"1600","price":"165","mwpl":"42.41","mis":"5292","op_mis":"7938","nrml":"112222","expiry":"28-May-2020"},{"scrip":"MANAPPURAM","lot":"6000","price":"119","mwpl":"43.2","mis":"14316","op_mis":"21475","nrml":"309235","expiry":"28-May-2020"},{"scrip":"MARICO","lot":"1300","price":"301","mwpl":"21","mis":"7817","op_mis":"11725","nrml":"82077","expiry":"28-May-2020"},{"scrip":"MARUTI","lot":"100","price":"4665","mwpl":"32.32","mis":"9329","op_mis":"13994","nrml":"150763","expiry":"28-May-2020"},{"scrip":"MCDOWELL-N","lot":"1250","price":"502","mwpl":"25.31","mis":"12561","op_mis":"18842","nrml":"158963","expiry":"28-May-2020"},{"scrip":"MFSL","lot":"1300","price":"451","mwpl":"43.25","mis":"11730","op_mis":"17595","nrml":"253660","expiry":"28-May-2020"},{"scrip":"MGL","lot":"600","price":"861","mwpl":"25.1","mis":"10337","op_mis":"15505","nrml":"129725","expiry":"28-May-2020"},{"scrip":"MINDTREE","lot":"800","price":"884","mwpl":"31.11","mis":"14151","op_mis":"21227","nrml":"220122","expiry":"28-May-2020"},{"scrip":"MOTHERSUMI","lot":"5000","price":"77","mwpl":"47.62","mis":"7685","op_mis":"11528","nrml":"182987","expiry":"28-May-2020"},{"scrip":"MRF","lot":"10","price":"58726","mwpl":"22.11","mis":"11745","op_mis":"17618","nrml":"129843","expiry":"28-May-2020"},{"scrip":"MUTHOOTFIN","lot":"750","price":"811","mwpl":"32.98","mis":"12172","op_mis":"18258","nrml":"200711","expiry":"28-May-2020"},{"scrip":"NATIONALUM","lot":"11700","price":"28","mwpl":"27.84","mis":"6633","op_mis":"9949","nrml":"92329","expiry":"28-May-2020"},{"scrip":"NAUKRI","lot":"200","price":"2694","mwpl":"29.41","mis":"10777","op_mis":"16166","nrml":"158478","expiry":"28-May-2020"},{"scrip":"NCC","lot":"9000","price":"24","mwpl":"40.53","mis":"4230","op_mis":"6345","nrml":"85726","expiry":"28-May-2020"},{"scrip":"NESTLEIND","lot":"50","price":"17744","mwpl":"22.99","mis":"17744","op_mis":"26616","nrml":"203971","expiry":"28-May-2020"},{"scrip":"NIFTYIT","lot":"50","price":"13442","mwpl":"18.05","mis":"13442","op_mis":"20163","nrml":"121314","expiry":"28-May-2020"},{"scrip":"NIITTECH","lot":"375","price":"1387","mwpl":"47.4","mis":"10406","op_mis":"15608","nrml":"246612","expiry":"28-May-2020"},{"scrip":"NMDC","lot":"6000","price":"73","mwpl":"32.21","mis":"8783","op_mis":"13175","nrml":"141454","expiry":"28-May-2020"},{"scrip":"NTPC","lot":"4800","price":"87","mwpl":"24.96","mis":"8373","op_mis":"12559","nrml":"104491","expiry":"28-May-2020"},{"scrip":"ONGC","lot":"4100","price":"76","mwpl":"51.72","mis":"6253","op_mis":"9379","nrml":"161700","expiry":"28-May-2020"},{"scrip":"PAGEIND","lot":"25","price":"16924","mwpl":"29.77","mis":"8462","op_mis":"12693","nrml":"125960","expiry":"28-May-2020"},{"scrip":"PEL","lot":"309","price":"885","mwpl":"49.63","mis":"5468","op_mis":"8202","nrml":"135687","expiry":"28-May-2020"},{"scrip":"PETRONET","lot":"3000","price":"225","mwpl":"28.14","mis":"13514","op_mis":"20271","nrml":"190139","expiry":"28-May-2020"},{"scrip":"PFC","lot":"6200","price":"84","mwpl":"26.52","mis":"10448","op_mis":"15671","nrml":"138535","expiry":"28-May-2020"},{"scrip":"PIDILITIND","lot":"500","price":"1364","mwpl":"25.49","mis":"13636","op_mis":"20454","nrml":"173787","expiry":"28-May-2020"},{"scrip":"PNB","lot":"8300","price":"29","mwpl":"36.73","mis":"4813","op_mis":"7220","nrml":"88397","expiry":"28-May-2020"},{"scrip":"POWERGRID","lot":"4000","price":"159","mwpl":"19.74","mis":"12748","op_mis":"19122","nrml":"125824","expiry":"28-May-2020"},{"scrip":"PVR","lot":"400","price":"879","mwpl":"43.59","mis":"7029","op_mis":"10543","nrml":"153188","expiry":"28-May-2020"},{"scrip":"RAMCOCEM","lot":"800","price":"518","mwpl":"25.52","mis":"8288","op_mis":"12433","nrml":"105760","expiry":"28-May-2020"},{"scrip":"RBLBANK","lot":"1500","price":"117","mwpl":"54.9","mis":"3516","op_mis":"5274","nrml":"96519","expiry":"28-May-2020"},{"scrip":"RECLTD","lot":"6000","price":"87","mwpl":"24.19","mis":"10487","op_mis":"15730","nrml":"126835","expiry":"28-May-2020"},{"scrip":"RELIANCE","lot":"500","price":"1557","mwpl":"28.78","mis":"15565","op_mis":"23348","nrml":"223987","expiry":"28-May-2020"},{"scrip":"SAIL","lot":"15700","price":"27","mwpl":"45.48","mis":"8620","op_mis":"12930","nrml":"196023","expiry":"28-May-2020"},{"scrip":"SBILIFE","lot":"750","price":"759","mwpl":"27.62","mis":"11392","op_mis":"17088","nrml":"157325","expiry":"28-May-2020"},{"scrip":"SBIN","lot":"3000","price":"166","mwpl":"35.79","mis":"9975","op_mis":"14963","nrml":"178506","expiry":"28-May-2020"},{"scrip":"SHREECEM","lot":"50","price":"18742","mwpl":"23.15","mis":"18742","op_mis":"28112","nrml":"216933","expiry":"28-May-2020"},{"scrip":"SIEMENS","lot":"550","price":"1042","mwpl":"29.09","mis":"11464","op_mis":"17196","nrml":"166747","expiry":"28-May-2020"},{"scrip":"SRF","lot":"250","price":"3599","mwpl":"25.74","mis":"17993","op_mis":"26990","nrml":"231576","expiry":"28-May-2020"},{"scrip":"SRTRANSFIN","lot":"600","price":"692","mwpl":"60.99","mis":"8304","op_mis":"12456","nrml":"253236","expiry":"28-May-2020"},{"scrip":"SUNPHARMA","lot":"1250","price":"469","mwpl":"24.54","mis":"11735","op_mis":"17603","nrml":"143994","expiry":"28-May-2020"},{"scrip":"SUNTV","lot":"1200","price":"379","mwpl":"26.69","mis":"9096","op_mis":"13644","nrml":"121388","expiry":"28-May-2020"},{"scrip":"TATACHEM","lot":"900","price":"284","mwpl":"22.81","mis":"5109","op_mis":"7664","nrml":"58270","expiry":"28-May-2020"},{"scrip":"TATACONSUM","lot":"2700","price":"346","mwpl":"27.44","mis":"18708","op_mis":"28062","nrml":"256670","expiry":"28-May-2020"},{"scrip":"TATAMOTORS","lot":"4300","price":"81","mwpl":"37.3","mis":"6984","op_mis":"10476","nrml":"130246","expiry":"28-May-2020"},{"scrip":"TATAPOWER","lot":"9000","price":"28","mwpl":"25.84","mis":"5102","op_mis":"7653","nrml":"65919","expiry":"28-May-2020"},{"scrip":"TATASTEEL","lot":"1500","price":"272","mwpl":"32.46","mis":"8166","op_mis":"12249","nrml":"132539","expiry":"28-May-2020"},{"scrip":"TCS","lot":"250","price":"1898","mwpl":"23.72","mis":"9488","op_mis":"14232","nrml":"112527","expiry":"28-May-2020"},{"scrip":"TECHM","lot":"1200","price":"537","mwpl":"28.27","mis":"12879","op_mis":"19319","nrml":"182049","expiry":"28-May-2020"},{"scrip":"TITAN","lot":"750","price":"834","mwpl":"27.68","mis":"12506","op_mis":"18760","nrml":"173088","expiry":"28-May-2020"},{"scrip":"TORNTPHARM","lot":"500","price":"2438","mwpl":"24.24","mis":"24382","op_mis":"36573","nrml":"295507","expiry":"28-May-2020"},{"scrip":"TORNTPOWER","lot":"3000","price":"302","mwpl":"22.98","mis":"18145","op_mis":"27217","nrml":"208481","expiry":"28-May-2020"},{"scrip":"TVSMOTOR","lot":"1350","price":"309","mwpl":"30.9","mis":"8335","op_mis":"12502","nrml":"128770","expiry":"28-May-2020"},{"scrip":"UBL","lot":"700","price":"889","mwpl":"22.62","mis":"12449","op_mis":"18674","nrml":"140803","expiry":"28-May-2020"},{"scrip":"UJJIVAN","lot":"1700","price":"164","mwpl":"41.77","mis":"5585","op_mis":"8377","nrml":"116642","expiry":"28-May-2020"},{"scrip":"ULTRACEMCO","lot":"200","price":"3314","mwpl":"29.32","mis":"13256","op_mis":"19884","nrml":"194332","expiry":"28-May-2020"},{"scrip":"UPL","lot":"900","price":"365","mwpl":"34.87","mis":"6578","op_mis":"9867","nrml":"114686","expiry":"28-May-2020"},{"scrip":"VEDL","lot":"3500","price":"77","mwpl":"35.31","mis":"5415","op_mis":"8122","nrml":"95600","expiry":"28-May-2020"},{"scrip":"VOLTAS","lot":"1000","price":"454","mwpl":"25.94","mis":"9086","op_mis":"13629","nrml":"117842","expiry":"28-May-2020"},{"scrip":"WIPRO","lot":"3200","price":"184","mwpl":"21.64","mis":"11776","op_mis":"17665","nrml":"127420","expiry":"28-May-2020"},{"scrip":"YESBANK","lot":"8800","price":"27","mwpl":"85.79","mis":"4708","op_mis":"7062","nrml":"201958","expiry":"28-May-2020"},{"scrip":"ZEEL","lot":"1700","price":"151","mwpl":"44.57","mis":"5140","op_mis":"7711","nrml":"114556","expiry":"28-May-2020"}]
+[
+  {
+    "scrip": "BANKNIFTY",
+    "expiry": "25-06-2020",
+    "lot": "20",
+    "price": "19095.31",
+    "mis": "4000.00",
+    "op_mis": "4000.00",
+    "nrml": "91,963"
+  },
+  {
+    "scrip": "NIFTY",
+    "expiry": "25-06-2020",
+    "lot": "75",
+    "price": "9493.54",
+    "mis": "5000.00",
+    "op_mis": "5000.00",
+    "nrml": "1,34,571"
+  },
+  {
+    "scrip": "ACC",
+    "expiry": "25-06-2020",
+    "lot": "400",
+    "price": "1264.84",
+    "mis": "11550.50",
+    "op_mis": "11550.50",
+    "nrml": "1,15,505"
+  },
+  {
+    "scrip": "ADANIENT",
+    "expiry": "25-06-2020",
+    "lot": "4000",
+    "price": "148.51",
+    "mis": "28217.00",
+    "op_mis": "28217.00",
+    "nrml": "2,82,170"
+  },
+  {
+    "scrip": "ADANIPORTS",
+    "expiry": "25-06-2020",
+    "lot": "2500",
+    "price": "323.63",
+    "mis": "24054.00",
+    "op_mis": "24054.00",
+    "nrml": "2,40,540"
+  },
+  {
+    "scrip": "ADANIPOWER",
+    "expiry": "25-06-2020",
+    "lot": "10000",
+    "price": "36.45",
+    "mis": "14625.80",
+    "op_mis": "14625.80",
+    "nrml": "1,46,258"
+  },
+  {
+    "scrip": "AMARAJABAT",
+    "expiry": "25-06-2020",
+    "lot": "800",
+    "price": "612.87",
+    "mis": "13404.80",
+    "op_mis": "13404.80",
+    "nrml": "1,34,048"
+  },
+  {
+    "scrip": "AMBUJACEM",
+    "expiry": "25-06-2020",
+    "lot": "2500",
+    "price": "188.71",
+    "mis": "12271.10",
+    "op_mis": "12271.10",
+    "nrml": "1,22,711"
+  },
+  {
+    "scrip": "APOLLOHOSP",
+    "expiry": "25-06-2020",
+    "lot": "500",
+    "price": "1351.70",
+    "mis": "20403.90",
+    "op_mis": "20403.90",
+    "nrml": "2,04,039"
+  },
+  {
+    "scrip": "APOLLOTYRE",
+    "expiry": "25-06-2020",
+    "lot": "3000",
+    "price": "96.91",
+    "mis": "8067.50",
+    "op_mis": "8067.50",
+    "nrml": "80,675"
+  },
+  {
+    "scrip": "ASHOKLEY",
+    "expiry": "25-06-2020",
+    "lot": "8000",
+    "price": "42.35",
+    "mis": "12753.80",
+    "op_mis": "12753.80",
+    "nrml": "1,27,538"
+  },
+  {
+    "scrip": "ASIANPAINT",
+    "expiry": "25-06-2020",
+    "lot": "300",
+    "price": "1664.52",
+    "mis": "11475.20",
+    "op_mis": "11475.20",
+    "nrml": "1,14,752"
+  },
+  {
+    "scrip": "AUROPHARMA",
+    "expiry": "25-06-2020",
+    "lot": "1000",
+    "price": "739.46",
+    "mis": "28247.30",
+    "op_mis": "28247.30",
+    "nrml": "2,82,473"
+  },
+  {
+    "scrip": "AXISBANK",
+    "expiry": "25-06-2020",
+    "lot": "1200",
+    "price": "382.77",
+    "mis": "17978.00",
+    "op_mis": "17978.00",
+    "nrml": "1,79,780"
+  },
+  {
+    "scrip": "BAJAJ-AUTO",
+    "expiry": "25-06-2020",
+    "lot": "250",
+    "price": "2687.44",
+    "mis": "17192.90",
+    "op_mis": "17192.90",
+    "nrml": "1,71,929"
+  },
+  {
+    "scrip": "BAJAJFINSV",
+    "expiry": "25-06-2020",
+    "lot": "125",
+    "price": "4377.82",
+    "mis": "18988.80",
+    "op_mis": "18988.80",
+    "nrml": "1,89,888"
+  },
+  {
+    "scrip": "BAJFINANCE",
+    "expiry": "25-06-2020",
+    "lot": "250",
+    "price": "1944.18",
+    "mis": "17886.50",
+    "op_mis": "17886.50",
+    "nrml": "1,78,865"
+  },
+  {
+    "scrip": "BALKRISIND",
+    "expiry": "25-06-2020",
+    "lot": "800",
+    "price": "1073.23",
+    "mis": "27054.00",
+    "op_mis": "27054.00",
+    "nrml": "2,70,540"
+  },
+  {
+    "scrip": "BANDHANBNK",
+    "expiry": "25-06-2020",
+    "lot": "1200",
+    "price": "216.23",
+    "mis": "12434.30",
+    "op_mis": "12434.30",
+    "nrml": "1,24,343"
+  },
+  {
+    "scrip": "BANKBARODA",
+    "expiry": "25-06-2020",
+    "lot": "5400",
+    "price": "38.70",
+    "mis": "9004.20",
+    "op_mis": "9004.20",
+    "nrml": "90,042"
+  },
+  {
+    "scrip": "BATAINDIA",
+    "expiry": "25-06-2020",
+    "lot": "550",
+    "price": "1322.04",
+    "mis": "19755.90",
+    "op_mis": "19755.90",
+    "nrml": "1,97,559"
+  },
+  {
+    "scrip": "BEL",
+    "expiry": "25-06-2020",
+    "lot": "6000",
+    "price": "69.10",
+    "mis": "13019.10",
+    "op_mis": "13019.10",
+    "nrml": "1,30,191"
+  },
+  {
+    "scrip": "BERGEPAINT",
+    "expiry": "25-06-2020",
+    "lot": "1100",
+    "price": "483.45",
+    "mis": "13714.90",
+    "op_mis": "13714.90",
+    "nrml": "1,37,149"
+  },
+  {
+    "scrip": "BHARATFORG",
+    "expiry": "25-06-2020",
+    "lot": "1300",
+    "price": "316.79",
+    "mis": "14558.20",
+    "op_mis": "14558.20",
+    "nrml": "1,45,582"
+  },
+  {
+    "scrip": "BHARTIARTL",
+    "expiry": "25-06-2020",
+    "lot": "1851",
+    "price": "550.92",
+    "mis": "27808.50",
+    "op_mis": "27808.50",
+    "nrml": "2,78,085"
+  },
+  {
+    "scrip": "BHEL",
+    "expiry": "25-06-2020",
+    "lot": "10400",
+    "price": "27.60",
+    "mis": "13196.60",
+    "op_mis": "13196.60",
+    "nrml": "1,31,966"
+  },
+  {
+    "scrip": "BIOCON",
+    "expiry": "25-06-2020",
+    "lot": "2300",
+    "price": "353.14",
+    "mis": "31010.60",
+    "op_mis": "31010.60",
+    "nrml": "3,10,106"
+  },
+  {
+    "scrip": "BOSCHLTD",
+    "expiry": "25-06-2020",
+    "lot": "40",
+    "price": "9697.25",
+    "mis": "9798.10",
+    "op_mis": "9798.10",
+    "nrml": "97,981"
+  },
+  {
+    "scrip": "BPCL",
+    "expiry": "25-06-2020",
+    "lot": "1800",
+    "price": "338.81",
+    "mis": "27230.40",
+    "op_mis": "27230.40",
+    "nrml": "2,72,304"
+  },
+  {
+    "scrip": "BRITANNIA",
+    "expiry": "25-06-2020",
+    "lot": "200",
+    "price": "3363.29",
+    "mis": "18652.80",
+    "op_mis": "18652.80",
+    "nrml": "1,86,528"
+  },
+  {
+    "scrip": "CADILAHC",
+    "expiry": "25-06-2020",
+    "lot": "2200",
+    "price": "343.52",
+    "mis": "19959.30",
+    "op_mis": "19959.30",
+    "nrml": "1,99,593"
+  },
+  {
+    "scrip": "CANBK",
+    "expiry": "25-06-2020",
+    "lot": "2600",
+    "price": "83.25",
+    "mis": "7387.60",
+    "op_mis": "7387.60",
+    "nrml": "73,876"
+  },
+  {
+    "scrip": "CENTURYTEX",
+    "expiry": "25-06-2020",
+    "lot": "600",
+    "price": "285.23",
+    "mis": "6044.50",
+    "op_mis": "6044.50",
+    "nrml": "60,445"
+  },
+  {
+    "scrip": "CHOLAFIN",
+    "expiry": "25-06-2020",
+    "lot": "2500",
+    "price": "138.45",
+    "mis": "15163.90",
+    "op_mis": "15163.90",
+    "nrml": "1,51,639"
+  },
+  {
+    "scrip": "CIPLA",
+    "expiry": "25-06-2020",
+    "lot": "1150",
+    "price": "641.76",
+    "mis": "17646.10",
+    "op_mis": "17646.10",
+    "nrml": "1,76,461"
+  },
+  {
+    "scrip": "COALINDIA",
+    "expiry": "25-06-2020",
+    "lot": "2700",
+    "price": "139.93",
+    "mis": "9241.20",
+    "op_mis": "9241.20",
+    "nrml": "92,412"
+  },
+  {
+    "scrip": "COLPAL",
+    "expiry": "25-06-2020",
+    "lot": "700",
+    "price": "1345.20",
+    "mis": "23390.40",
+    "op_mis": "23390.40",
+    "nrml": "2,33,904"
+  },
+  {
+    "scrip": "CONCOR",
+    "expiry": "25-06-2020",
+    "lot": "1563",
+    "price": "373.49",
+    "mis": "19842.40",
+    "op_mis": "19842.40",
+    "nrml": "1,98,424"
+  },
+  {
+    "scrip": "CUMMINSIND",
+    "expiry": "25-06-2020",
+    "lot": "900",
+    "price": "366.60",
+    "mis": "7763.50",
+    "op_mis": "7763.50",
+    "nrml": "77,635"
+  },
+  {
+    "scrip": "DABUR",
+    "expiry": "25-06-2020",
+    "lot": "1250",
+    "price": "462.16",
+    "mis": "11328.60",
+    "op_mis": "11328.60",
+    "nrml": "1,13,286"
+  },
+  {
+    "scrip": "DIVISLAB",
+    "expiry": "25-06-2020",
+    "lot": "400",
+    "price": "2371.78",
+    "mis": "22114.50",
+    "op_mis": "22114.50",
+    "nrml": "2,21,145"
+  },
+  {
+    "scrip": "DLF",
+    "expiry": "25-06-2020",
+    "lot": "3300",
+    "price": "148.89",
+    "mis": "17358.50",
+    "op_mis": "17358.50",
+    "nrml": "1,73,585"
+  },
+  {
+    "scrip": "DRREDDY",
+    "expiry": "25-06-2020",
+    "lot": "250",
+    "price": "4032.64",
+    "mis": "21483.90",
+    "op_mis": "21483.90",
+    "nrml": "2,14,839"
+  },
+  {
+    "scrip": "EICHERMOT",
+    "expiry": "25-06-2020",
+    "lot": "30",
+    "price": "16244.40",
+    "mis": "14649.20",
+    "op_mis": "14649.20",
+    "nrml": "1,46,492"
+  },
+  {
+    "scrip": "EQUITAS",
+    "expiry": "25-06-2020",
+    "lot": "4900",
+    "price": "42.25",
+    "mis": "8790.00",
+    "op_mis": "8790.00",
+    "nrml": "87,900"
+  },
+  {
+    "scrip": "ESCORTS",
+    "expiry": "25-06-2020",
+    "lot": "1100",
+    "price": "888.97",
+    "mis": "33902.60",
+    "op_mis": "33902.60",
+    "nrml": "3,39,026"
+  },
+  {
+    "scrip": "EXIDEIND",
+    "expiry": "25-06-2020",
+    "lot": "2900",
+    "price": "161.48",
+    "mis": "12470.70",
+    "op_mis": "12470.70",
+    "nrml": "1,24,707"
+  },
+  {
+    "scrip": "FEDERALBNK",
+    "expiry": "25-06-2020",
+    "lot": "7000",
+    "price": "44.36",
+    "mis": "11208.60",
+    "op_mis": "11208.60",
+    "nrml": "1,12,086"
+  },
+  {
+    "scrip": "GAIL",
+    "expiry": "25-06-2020",
+    "lot": "5334",
+    "price": "91.96",
+    "mis": "20257.60",
+    "op_mis": "20257.60",
+    "nrml": "2,02,576"
+  },
+  {
+    "scrip": "GLENMARK",
+    "expiry": "25-06-2020",
+    "lot": "1400",
+    "price": "353.71",
+    "mis": "17168.40",
+    "op_mis": "17168.40",
+    "nrml": "1,71,684"
+  },
+  {
+    "scrip": "GMRINFRA",
+    "expiry": "25-06-2020",
+    "lot": "45000",
+    "price": "19.00",
+    "mis": "29947.50",
+    "op_mis": "29947.50",
+    "nrml": "2,99,475"
+  },
+  {
+    "scrip": "GODREJCP",
+    "expiry": "25-06-2020",
+    "lot": "800",
+    "price": "622.09",
+    "mis": "12765.20",
+    "op_mis": "12765.20",
+    "nrml": "1,27,652"
+  },
+  {
+    "scrip": "GODREJPROP",
+    "expiry": "25-06-2020",
+    "lot": "650",
+    "price": "684.00",
+    "mis": "14556.10",
+    "op_mis": "14556.10",
+    "nrml": "1,45,561"
+  },
+  {
+    "scrip": "GRASIM",
+    "expiry": "25-06-2020",
+    "lot": "750",
+    "price": "583.79",
+    "mis": "19471.00",
+    "op_mis": "19471.00",
+    "nrml": "1,94,710"
+  },
+  {
+    "scrip": "HAVELLS",
+    "expiry": "25-06-2020",
+    "lot": "1000",
+    "price": "495.47",
+    "mis": "12139.10",
+    "op_mis": "12139.10",
+    "nrml": "1,21,391"
+  },
+  {
+    "scrip": "HCLTECH",
+    "expiry": "25-06-2020",
+    "lot": "1400",
+    "price": "546.09",
+    "mis": "19548.90",
+    "op_mis": "19548.90",
+    "nrml": "1,95,489"
+  },
+  {
+    "scrip": "HDFC",
+    "expiry": "25-06-2020",
+    "lot": "250",
+    "price": "1649.63",
+    "mis": "12009.30",
+    "op_mis": "12009.30",
+    "nrml": "1,20,093"
+  },
+  {
+    "scrip": "HDFCBANK",
+    "expiry": "25-06-2020",
+    "lot": "500",
+    "price": "941.53",
+    "mis": "11110.00",
+    "op_mis": "11110.00",
+    "nrml": "1,11,100"
+  },
+  {
+    "scrip": "HDFCLIFE",
+    "expiry": "25-06-2020",
+    "lot": "900",
+    "price": "519.33",
+    "mis": "15442.90",
+    "op_mis": "15442.90",
+    "nrml": "1,54,429"
+  },
+  {
+    "scrip": "HEROMOTOCO",
+    "expiry": "25-06-2020",
+    "lot": "200",
+    "price": "2336.06",
+    "mis": "13544.50",
+    "op_mis": "13544.50",
+    "nrml": "1,35,445"
+  },
+  {
+    "scrip": "HINDALCO",
+    "expiry": "25-06-2020",
+    "lot": "3500",
+    "price": "137.36",
+    "mis": "17072.00",
+    "op_mis": "17072.00",
+    "nrml": "1,70,720"
+  },
+  {
+    "scrip": "HINDPETRO",
+    "expiry": "25-06-2020",
+    "lot": "2100",
+    "price": "192.97",
+    "mis": "14215.60",
+    "op_mis": "14215.60",
+    "nrml": "1,42,156"
+  },
+  {
+    "scrip": "HINDUNILVR",
+    "expiry": "25-06-2020",
+    "lot": "300",
+    "price": "2037.00",
+    "mis": "14397.50",
+    "op_mis": "14397.50",
+    "nrml": "1,43,975"
+  },
+  {
+    "scrip": "IBULHSGFIN",
+    "expiry": "25-06-2020",
+    "lot": "1200",
+    "price": "117.46",
+    "mis": "8502.10",
+    "op_mis": "8502.10",
+    "nrml": "85,021"
+  },
+  {
+    "scrip": "ICICIBANK",
+    "expiry": "25-06-2020",
+    "lot": "1375",
+    "price": "328.65",
+    "mis": "15192.50",
+    "op_mis": "15192.50",
+    "nrml": "1,51,925"
+  },
+  {
+    "scrip": "ICICIPRULI",
+    "expiry": "25-06-2020",
+    "lot": "1500",
+    "price": "388.24",
+    "mis": "22892.80",
+    "op_mis": "22892.80",
+    "nrml": "2,28,928"
+  },
+  {
+    "scrip": "IDEA",
+    "expiry": "25-06-2020",
+    "lot": "98000",
+    "price": "6.60",
+    "mis": "46863.60",
+    "op_mis": "46863.60",
+    "nrml": "4,68,636"
+  },
+  {
+    "scrip": "IDFCFIRSTB",
+    "expiry": "25-06-2020",
+    "lot": "12000",
+    "price": "22.00",
+    "mis": "12528.00",
+    "op_mis": "12528.00",
+    "nrml": "1,25,280"
+  },
+  {
+    "scrip": "IGL",
+    "expiry": "25-06-2020",
+    "lot": "1375",
+    "price": "470.07",
+    "mis": "17147.70",
+    "op_mis": "17147.70",
+    "nrml": "1,71,477"
+  },
+  {
+    "scrip": "INDIGO",
+    "expiry": "25-06-2020",
+    "lot": "300",
+    "price": "961.71",
+    "mis": "8170.70",
+    "op_mis": "8170.70",
+    "nrml": "81,707"
+  },
+  {
+    "scrip": "INDUSINDBK",
+    "expiry": "25-06-2020",
+    "lot": "400",
+    "price": "390.89",
+    "mis": "8178.90",
+    "op_mis": "8178.90",
+    "nrml": "81,789"
+  },
+  {
+    "scrip": "INFRATEL",
+    "expiry": "25-06-2020",
+    "lot": "2000",
+    "price": "225.84",
+    "mis": "17963.00",
+    "op_mis": "17963.00",
+    "nrml": "1,79,630"
+  },
+  {
+    "scrip": "INFY",
+    "expiry": "25-06-2020",
+    "lot": "1200",
+    "price": "685.09",
+    "mis": "21111.80",
+    "op_mis": "21111.80",
+    "nrml": "2,11,118"
+  },
+  {
+    "scrip": "IOC",
+    "expiry": "25-06-2020",
+    "lot": "4000",
+    "price": "81.96",
+    "mis": "7815.30",
+    "op_mis": "7815.30",
+    "nrml": "78,153"
+  },
+  {
+    "scrip": "ITC",
+    "expiry": "25-06-2020",
+    "lot": "2400",
+    "price": "193.18",
+    "mis": "11409.70",
+    "op_mis": "11409.70",
+    "nrml": "1,14,097"
+  },
+  {
+    "scrip": "JINDALSTEL",
+    "expiry": "25-06-2020",
+    "lot": "5000",
+    "price": "120.60",
+    "mis": "27255.50",
+    "op_mis": "27255.50",
+    "nrml": "2,72,555"
+  },
+  {
+    "scrip": "JSWSTEEL",
+    "expiry": "25-06-2020",
+    "lot": "2300",
+    "price": "182.80",
+    "mis": "13942.10",
+    "op_mis": "13942.10",
+    "nrml": "1,39,421"
+  },
+  {
+    "scrip": "JUBLFOOD",
+    "expiry": "25-06-2020",
+    "lot": "500",
+    "price": "1630.65",
+    "mis": "34814.30",
+    "op_mis": "34814.30",
+    "nrml": "3,48,143"
+  },
+  {
+    "scrip": "JUSTDIAL",
+    "expiry": "25-06-2020",
+    "lot": "1400",
+    "price": "390.16",
+    "mis": "21909.30",
+    "op_mis": "21909.30",
+    "nrml": "2,19,093"
+  },
+  {
+    "scrip": "KOTAKBANK",
+    "expiry": "25-06-2020",
+    "lot": "400",
+    "price": "1216.21",
+    "mis": "14302.60",
+    "op_mis": "14302.60",
+    "nrml": "1,43,026"
+  },
+  {
+    "scrip": "L&TFH",
+    "expiry": "25-06-2020",
+    "lot": "5600",
+    "price": "54.20",
+    "mis": "11797.50",
+    "op_mis": "11797.50",
+    "nrml": "1,17,975"
+  },
+  {
+    "scrip": "LICHSGFIN",
+    "expiry": "25-06-2020",
+    "lot": "1300",
+    "price": "238.58",
+    "mis": "10418.10",
+    "op_mis": "10418.10",
+    "nrml": "1,04,181"
+  },
+  {
+    "scrip": "LT",
+    "expiry": "25-06-2020",
+    "lot": "375",
+    "price": "923.91",
+    "mis": "8869.50",
+    "op_mis": "8869.50",
+    "nrml": "88,695"
+  },
+  {
+    "scrip": "LUPIN",
+    "expiry": "25-06-2020",
+    "lot": "700",
+    "price": "863.80",
+    "mis": "15037.90",
+    "op_mis": "15037.90",
+    "nrml": "1,50,379"
+  },
+  {
+    "scrip": "M&M",
+    "expiry": "25-06-2020",
+    "lot": "1000",
+    "price": "434.71",
+    "mis": "13215.30",
+    "op_mis": "13215.30",
+    "nrml": "1,32,153"
+  },
+  {
+    "scrip": "M&MFIN",
+    "expiry": "25-06-2020",
+    "lot": "1600",
+    "price": "139.86",
+    "mis": "9590.70",
+    "op_mis": "9590.70",
+    "nrml": "95,907"
+  },
+  {
+    "scrip": "MANAPPURAM",
+    "expiry": "25-06-2020",
+    "lot": "6000",
+    "price": "125.01",
+    "mis": "30633.00",
+    "op_mis": "30633.00",
+    "nrml": "3,06,330"
+  },
+  {
+    "scrip": "MARICO",
+    "expiry": "25-06-2020",
+    "lot": "1300",
+    "price": "337.47",
+    "mis": "8524.20",
+    "op_mis": "8524.20",
+    "nrml": "85,242"
+  },
+  {
+    "scrip": "MARUTI",
+    "expiry": "25-06-2020",
+    "lot": "100",
+    "price": "5539.25",
+    "mis": "16567.90",
+    "op_mis": "16567.90",
+    "nrml": "1,65,679"
+  },
+  {
+    "scrip": "MCDOWELL-N",
+    "expiry": "25-06-2020",
+    "lot": "1250",
+    "price": "590.19",
+    "mis": "19741.90",
+    "op_mis": "19741.90",
+    "nrml": "1,97,419"
+  },
+  {
+    "scrip": "MFSL",
+    "expiry": "25-06-2020",
+    "lot": "1300",
+    "price": "477.46",
+    "mis": "26652.70",
+    "op_mis": "26652.70",
+    "nrml": "2,66,527"
+  },
+  {
+    "scrip": "MGL",
+    "expiry": "25-06-2020",
+    "lot": "600",
+    "price": "958.74",
+    "mis": "15594.90",
+    "op_mis": "15594.90",
+    "nrml": "1,55,949"
+  },
+  {
+    "scrip": "MINDTREE",
+    "expiry": "25-06-2020",
+    "lot": "800",
+    "price": "892.81",
+    "mis": "24820.10",
+    "op_mis": "24820.10",
+    "nrml": "2,48,201"
+  },
+  {
+    "scrip": "MOTHERSUMI",
+    "expiry": "25-06-2020",
+    "lot": "5000",
+    "price": "93.59",
+    "mis": "20408.00",
+    "op_mis": "20408.00",
+    "nrml": "2,04,080"
+  },
+  {
+    "scrip": "MRF",
+    "expiry": "25-06-2020",
+    "lot": "10",
+    "price": "58554.81",
+    "mis": "13034.30",
+    "op_mis": "13034.30",
+    "nrml": "1,30,343"
+  },
+  {
+    "scrip": "MUTHOOTFIN",
+    "expiry": "25-06-2020",
+    "lot": "750",
+    "price": "859.65",
+    "mis": "20999.20",
+    "op_mis": "20999.20",
+    "nrml": "2,09,992"
+  },
+  {
+    "scrip": "NATIONALUM",
+    "expiry": "25-06-2020",
+    "lot": "11700",
+    "price": "29.40",
+    "mis": "9663.00",
+    "op_mis": "9663.00",
+    "nrml": "96,630"
+  },
+  {
+    "scrip": "NAUKRI",
+    "expiry": "25-06-2020",
+    "lot": "200",
+    "price": "2597.99",
+    "mis": "16315.40",
+    "op_mis": "16315.40",
+    "nrml": "1,63,154"
+  },
+  {
+    "scrip": "NCC",
+    "expiry": "25-06-2020",
+    "lot": "9000",
+    "price": "23.05",
+    "mis": "9489.20",
+    "op_mis": "9489.20",
+    "nrml": "94,892"
+  },
+  {
+    "scrip": "NESTLEIND",
+    "expiry": "25-06-2020",
+    "lot": "50",
+    "price": "17323.67",
+    "mis": "20970.30",
+    "op_mis": "20970.30",
+    "nrml": "2,09,703"
+  },
+  {
+    "scrip": "NIFTYIT",
+    "expiry": "25-06-2020",
+    "lot": "50",
+    "price": "13871.16",
+    "mis": "13059.70",
+    "op_mis": "13059.70",
+    "nrml": "1,30,597"
+  },
+  {
+    "scrip": "NIITTECH",
+    "expiry": "25-06-2020",
+    "lot": "375",
+    "price": "1448.73",
+    "mis": "25615.30",
+    "op_mis": "25615.30",
+    "nrml": "2,56,153"
+  },
+  {
+    "scrip": "NMDC",
+    "expiry": "25-06-2020",
+    "lot": "6000",
+    "price": "80.85",
+    "mis": "15605.90",
+    "op_mis": "15605.90",
+    "nrml": "1,56,059"
+  },
+  {
+    "scrip": "NTPC",
+    "expiry": "25-06-2020",
+    "lot": "4800",
+    "price": "96.78",
+    "mis": "11298.20",
+    "op_mis": "11298.20",
+    "nrml": "1,12,982"
+  },
+  {
+    "scrip": "ONGC",
+    "expiry": "25-06-2020",
+    "lot": "4100",
+    "price": "82.30",
+    "mis": "17429.30",
+    "op_mis": "17429.30",
+    "nrml": "1,74,293"
+  },
+  {
+    "scrip": "PAGEIND",
+    "expiry": "25-06-2020",
+    "lot": "25",
+    "price": "18316.58",
+    "mis": "13613.80",
+    "op_mis": "13613.80",
+    "nrml": "1,36,138"
+  },
+  {
+    "scrip": "PEL",
+    "expiry": "25-06-2020",
+    "lot": "309",
+    "price": "959.39",
+    "mis": "14828.50",
+    "op_mis": "14828.50",
+    "nrml": "1,48,285"
+  },
+  {
+    "scrip": "PETRONET",
+    "expiry": "25-06-2020",
+    "lot": "3000",
+    "price": "248.89",
+    "mis": "20682.50",
+    "op_mis": "20682.50",
+    "nrml": "2,06,825"
+  },
+  {
+    "scrip": "PFC",
+    "expiry": "25-06-2020",
+    "lot": "6200",
+    "price": "75.25",
+    "mis": "14020.50",
+    "op_mis": "14020.50",
+    "nrml": "1,40,205"
+  },
+  {
+    "scrip": "PIDILITIND",
+    "expiry": "25-06-2020",
+    "lot": "500",
+    "price": "1452.04",
+    "mis": "18063.40",
+    "op_mis": "18063.40",
+    "nrml": "1,80,634"
+  },
+  {
+    "scrip": "PNB",
+    "expiry": "25-06-2020",
+    "lot": "8300",
+    "price": "26.80",
+    "mis": "8024.40",
+    "op_mis": "8024.40",
+    "nrml": "80,244"
+  },
+  {
+    "scrip": "POWERGRID",
+    "expiry": "25-06-2020",
+    "lot": "4000",
+    "price": "157.03",
+    "mis": "12926.70",
+    "op_mis": "12926.70",
+    "nrml": "1,29,267"
+  },
+  {
+    "scrip": "PVR",
+    "expiry": "25-06-2020",
+    "lot": "400",
+    "price": "869.00",
+    "mis": "15680.20",
+    "op_mis": "15680.20",
+    "nrml": "1,56,802"
+  },
+  {
+    "scrip": "RAMCOCEM",
+    "expiry": "25-06-2020",
+    "lot": "800",
+    "price": "601.75",
+    "mis": "11375.40",
+    "op_mis": "11375.40",
+    "nrml": "1,13,754"
+  },
+  {
+    "scrip": "RBLBANK",
+    "expiry": "25-06-2020",
+    "lot": "1500",
+    "price": "119.65",
+    "mis": "8216.70",
+    "op_mis": "8216.70",
+    "nrml": "82,167"
+  },
+  {
+    "scrip": "RECLTD",
+    "expiry": "25-06-2020",
+    "lot": "6000",
+    "price": "88.34",
+    "mis": "15169.40",
+    "op_mis": "15169.40",
+    "nrml": "1,51,694"
+  },
+  {
+    "scrip": "RELIANCE",
+    "expiry": "25-06-2020",
+    "lot": "505",
+    "price": "1459.30",
+    "mis": "20789.30",
+    "op_mis": "20789.30",
+    "nrml": "2,07,893"
+  },
+  {
+    "scrip": "SAIL",
+    "expiry": "25-06-2020",
+    "lot": "15700",
+    "price": "29.95",
+    "mis": "21317.90",
+    "op_mis": "21317.90",
+    "nrml": "2,13,179"
+  },
+  {
+    "scrip": "SBILIFE",
+    "expiry": "25-06-2020",
+    "lot": "750",
+    "price": "766.45",
+    "mis": "17095.70",
+    "op_mis": "17095.70",
+    "nrml": "1,70,957"
+  },
+  {
+    "scrip": "SBIN",
+    "expiry": "25-06-2020",
+    "lot": "3000",
+    "price": "159.65",
+    "mis": "17012.30",
+    "op_mis": "17012.30",
+    "nrml": "1,70,123"
+  },
+  {
+    "scrip": "SHREECEM",
+    "expiry": "25-06-2020",
+    "lot": "50",
+    "price": "20725.24",
+    "mis": "26113.80",
+    "op_mis": "26113.80",
+    "nrml": "2,61,138"
+  },
+  {
+    "scrip": "SIEMENS",
+    "expiry": "25-06-2020",
+    "lot": "550",
+    "price": "1085.12",
+    "mis": "17176.30",
+    "op_mis": "17176.30",
+    "nrml": "1,71,763"
+  },
+  {
+    "scrip": "SRF",
+    "expiry": "25-06-2020",
+    "lot": "250",
+    "price": "3482.26",
+    "mis": "26517.40",
+    "op_mis": "26517.40",
+    "nrml": "2,65,174"
+  },
+  {
+    "scrip": "SRTRANSFIN",
+    "expiry": "25-06-2020",
+    "lot": "600",
+    "price": "569.13",
+    "mis": "14854.20",
+    "op_mis": "14854.20",
+    "nrml": "1,48,542"
+  },
+  {
+    "scrip": "SUNPHARMA",
+    "expiry": "25-06-2020",
+    "lot": "1250",
+    "price": "471.02",
+    "mis": "15054.90",
+    "op_mis": "15054.90",
+    "nrml": "1,50,549"
+  },
+  {
+    "scrip": "SUNTV",
+    "expiry": "25-06-2020",
+    "lot": "1200",
+    "price": "384.35",
+    "mis": "13735.30",
+    "op_mis": "13735.30",
+    "nrml": "1,37,353"
+  },
+  {
+    "scrip": "TATACHEM",
+    "expiry": "25-06-2020",
+    "lot": "900",
+    "price": "294.63",
+    "mis": "6812.20",
+    "op_mis": "6812.20",
+    "nrml": "68,122"
+  },
+  {
+    "scrip": "TATACONSUM",
+    "expiry": "25-06-2020",
+    "lot": "2700",
+    "price": "362.70",
+    "mis": "31023.70",
+    "op_mis": "31023.70",
+    "nrml": "3,10,237"
+  },
+  {
+    "scrip": "TATAMOTORS",
+    "expiry": "25-06-2020",
+    "lot": "4300",
+    "price": "86.06",
+    "mis": "13984.40",
+    "op_mis": "13984.40",
+    "nrml": "1,39,844"
+  },
+  {
+    "scrip": "TATAPOWER",
+    "expiry": "25-06-2020",
+    "lot": "9000",
+    "price": "36.40",
+    "mis": "8922.60",
+    "op_mis": "8922.60",
+    "nrml": "89,226"
+  },
+  {
+    "scrip": "TATASTEEL",
+    "expiry": "25-06-2020",
+    "lot": "1500",
+    "price": "292.44",
+    "mis": "14063.40",
+    "op_mis": "14063.40",
+    "nrml": "1,40,634"
+  },
+  {
+    "scrip": "TCS",
+    "expiry": "25-06-2020",
+    "lot": "250",
+    "price": "1956.69",
+    "mis": "11295.00",
+    "op_mis": "11295.00",
+    "nrml": "1,12,950"
+  },
+  {
+    "scrip": "TECHM",
+    "expiry": "25-06-2020",
+    "lot": "1200",
+    "price": "526.50",
+    "mis": "17488.30",
+    "op_mis": "17488.30",
+    "nrml": "1,74,883"
+  },
+  {
+    "scrip": "TITAN",
+    "expiry": "25-06-2020",
+    "lot": "750",
+    "price": "885.72",
+    "mis": "18254.70",
+    "op_mis": "18254.70",
+    "nrml": "1,82,547"
+  },
+  {
+    "scrip": "TORNTPHARM",
+    "expiry": "25-06-2020",
+    "lot": "500",
+    "price": "2350.41",
+    "mis": "30285.00",
+    "op_mis": "30285.00",
+    "nrml": "3,02,850"
+  },
+  {
+    "scrip": "TORNTPOWER",
+    "expiry": "25-06-2020",
+    "lot": "3000",
+    "price": "316.08",
+    "mis": "22302.50",
+    "op_mis": "22302.50",
+    "nrml": "2,23,025"
+  },
+  {
+    "scrip": "TVSMOTOR",
+    "expiry": "25-06-2020",
+    "lot": "1350",
+    "price": "332.08",
+    "mis": "12821.50",
+    "op_mis": "12821.50",
+    "nrml": "1,28,215"
+  },
+  {
+    "scrip": "UBL",
+    "expiry": "25-06-2020",
+    "lot": "700",
+    "price": "952.83",
+    "mis": "16381.00",
+    "op_mis": "16381.00",
+    "nrml": "1,63,810"
+  },
+  {
+    "scrip": "UJJIVAN",
+    "expiry": "25-06-2020",
+    "lot": "1700",
+    "price": "170.13",
+    "mis": "10996.50",
+    "op_mis": "10996.50",
+    "nrml": "1,09,965"
+  },
+  {
+    "scrip": "ULTRACEMCO",
+    "expiry": "25-06-2020",
+    "lot": "200",
+    "price": "3855.45",
+    "mis": "22554.40",
+    "op_mis": "22554.40",
+    "nrml": "2,25,544"
+  },
+  {
+    "scrip": "UPL",
+    "expiry": "25-06-2020",
+    "lot": "900",
+    "price": "403.59",
+    "mis": "12295.30",
+    "op_mis": "12295.30",
+    "nrml": "1,22,953"
+  },
+  {
+    "scrip": "VEDL",
+    "expiry": "25-06-2020",
+    "lot": "3500",
+    "price": "91.55",
+    "mis": "11205.00",
+    "op_mis": "11205.00",
+    "nrml": "1,12,050"
+  },
+  {
+    "scrip": "VOLTAS",
+    "expiry": "25-06-2020",
+    "lot": "1000",
+    "price": "478.29",
+    "mis": "11627.20",
+    "op_mis": "11627.20",
+    "nrml": "1,16,272"
+  },
+  {
+    "scrip": "WIPRO",
+    "expiry": "25-06-2020",
+    "lot": "3200",
+    "price": "210.10",
+    "mis": "15725.90",
+    "op_mis": "15725.90",
+    "nrml": "1,57,259"
+  },
+  {
+    "scrip": "ZEEL",
+    "expiry": "25-06-2020",
+    "lot": "1700",
+    "price": "182.42",
+    "mis": "14224.60",
+    "op_mis": "14224.60",
+    "nrml": "1,42,246"
+  }
+]

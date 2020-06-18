@@ -20,7 +20,6 @@ cron.schedule("10 10 * * *", () => {
     commodity.call();
     console.log(`astha commodity function is called `);
     astha.commodity();
-
 }, {
     timezone: "Asia/Kolkata"
 });
@@ -29,8 +28,8 @@ cron.schedule("10 10 * * *", () => {
 cron.schedule("52 8 * * *", () => {
     console.log(`zerodha future function is called `);
     future.call();
-    // console.log(`astha future function is called `);
-    // astha.futures();
+     console.log(`astha future function is called `);
+    astha.futures();
 
 }, {
     timezone: "Asia/Kolkata"
@@ -39,7 +38,7 @@ cron.schedule("52 8 * * *", () => {
 cron.schedule("10 9 * * *", () => {
     console.log(`zerodha Currency function is called `);
     currency.call();
-    //asthaCurrency.call();
+    astha.currency();
 
 }, {
     timezone: "Asia/Kolkata"
@@ -60,38 +59,13 @@ cron.schedule("12 9 * * *", () => {
  * IST
  */
 cron.schedule("*/5 9-16 * * 1-5",()=>{
-    console.log("called at ", new Date());
+    // console.log("called at ", new Date());
     mmi.mmi()
 },{
     timezone: "Asia/Kolkata"
 });
 
-/*
-cron.schedule("33 17 * * *", () => {
-    console.log(`zerodha commodity function is called now`);
-    commodity.call();
-    console.log(`astha commodity function is called `);
-    astha.commodity();
 
-});
-
-cron.schedule("29 17 * * *", () => {
-    console.log(`zerodha future function is called `);
-    future.call();
-    console.log(`astha future function is called `);
-  astha.futures()
-
-});
-
-
-
-
-cron.schedule("30 17 * * *", () => {
-   // console.log(`Currency function is called `);
-    //currency.call();
-    console.log("astha equity is called");
-    astha.equity()
-});*/
 
 const app = express();
 

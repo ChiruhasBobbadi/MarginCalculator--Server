@@ -1,0 +1,38 @@
+[
+  {
+    "scrip": "EURINR",
+    "expiry": "Jun - 2020",
+    "lot": "1000",
+    "price": "82.34",
+    "mis": "250",
+    "op_mis": "803",
+    "nrml": "1848.0"
+  },
+  {
+    "scrip": "GBPINR",
+    "expiry": "Jun - 2020",
+    "lot": "1000",
+    "price": "94.30",
+    "mis": "250",
+    "op_mis": "943",
+    "nrml": "2358.7"
+  },
+  {
+    "scrip": "JPYINR",
+    "expiry": "Jun - 2020",
+    "lot": "1000",
+    "price": "71.10",
+    "mis": "250",
+    "op_mis": "659",
+    "nrml": "1978.6"
+  },
+  {
+    "scrip": "USDINR",
+    "expiry": "Jun - 2020",
+    "lot": "1000",
+    "price": "76.33",
+    "mis": "250",
+    "op_mis": "715",
+    "nrml": "1429.9"
+  }
+]

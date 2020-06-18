@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 
-module.exports.commodity = function () {
+module.exports.commodity = () => {
 
 
         let data = [];
@@ -75,7 +75,7 @@ module.exports.commodity = function () {
 };
 
 
-module.exports.equity = function () {
+module.exports.equity = () => {
 
 
     let data = [];
@@ -84,24 +84,11 @@ module.exports.equity = function () {
             try {
                 if (!error && response.statusCode === 200) {
                     const $ = cheerio.load(html);
-                    let expiry = "";
-                    $('.filters th input ').each((i, el) => {
-                        if (i === 1) {
-                            expiry = $(el).attr('placeholder').split(":")[1].trim();
-                        }
-                    });
+
                     $('.ex1  .datatable tbody tr td').each((i, el) => {
                         // if nrml+mis length==4 || length == 3
                         if (data.length === 4) {
                             console.log(data);
-                            //console.log(data[2]);
-                            // for only mis
-                            /*test.push({
-                                'tradingsymbol': data[0],
-                                //'mis_multiplier': data[2].match(/(\d+)/)[0],
-                                'mis_multiplier': data[2].substring(data[2].indexOf('(') + 1, data[2].indexOf(')')).trim().match(/(\d+)/)[0],
-                                'nrml_multiplier': 1
-                            });*/
 
 
                             // for nrml+mis
@@ -123,15 +110,7 @@ module.exports.equity = function () {
                         }
                     });
 
-                    // for mis
-                    /*test.push({
-                        'tradingsymbol': data[0],
 
-                        'mis_multiplier': data[2].substring(data[2].indexOf('(') + 1, data[2].indexOf(')')).trim().match(/(\d+)/)[0],
-                        'nrml_multiplier': 1
-                    });*/
-
-                    // for nrml+mis
 
 
                     test.push({
@@ -161,7 +140,7 @@ module.exports.equity = function () {
 };
 
 
-module.exports.futures = function () {
+module.exports.futures = () => {
     try {
         let data = [];
         let test = [];
@@ -171,33 +150,22 @@ module.exports.futures = function () {
 
 
                 const $ = cheerio.load(html);
-                let expiry = "";
 
 
-                $('.filters th input ').each((i, el) => {
-
-                    if (i === 1) {
-                        expiry = $(el).attr('placeholder').split(":")[1].trim();
-                    }
-
-                });
+                $('.ex1 .datatable tbody tr td').each((i, el) => {
 
 
-                $('.ex1  .datatable tbody tr td').each((i, el) => {
-
-
-                    if (data.length === 7) {
+                    if (data.length === 8) {
 
 
                         test.push({
                             'scrip': data[0],
-                            'lot': data[1],
-                            'price': data[2],
-                            'mwpl': data[3],
-                            'mis': data[4],
-                            'op_mis': data[5],
-                            'nrml': data[6],
-                            'expiry': expiry
+                            'expiry': data[1],
+                            'lot': data[2],
+                            'price': data[3],
+                            'mis': data[5],
+                            'op_mis': data[6],
+                            'nrml': data[7]
                         });
                         data = [];
 
@@ -215,13 +183,12 @@ module.exports.futures = function () {
 
                 test.push({
                     'scrip': data[0],
-                    'lot': data[1],
-                    'price': data[2],
-                    'mwpl': data[3],
-                    'mis': data[4],
-                    'op_mis': data[5],
-                    'nrml': data[6],
-                    'expiry': expiry
+                    'expiry': data[1],
+                    'lot': data[2],
+                    'price': data[3],
+                    'mis': data[5],
+                    'op_mis': data[6],
+                    'nrml': data[7]
                 });
                 let new_json = JSON.stringify(test);
 
@@ -236,9 +203,69 @@ module.exports.futures = function () {
 
         });
     } catch (e) {
-        console.log("exception occured in astha equity");
+        console.log("exception occured in astha futures");
     }
 
 
 };
+
+module.exports.currency = () => {
+    try {
+        let data = [];
+        let test = [];
+        request('https://asthatrade.com/site/currency', (error, response, html) => {
+
+            if (!error && response.statusCode === 200) {
+                const $ = cheerio.load(html);
+                $('.ex1 .datatable tbody tr td').each((i, el) => {
+                    if (data.length === 7) {
+                        test.push({
+                            'scrip': data[0],
+                            'expiry': data[1],
+                            'lot': data[2],
+                            'price': data[3],
+                            'mis': data[4],
+                            'op_mis': data[5],
+                            'nrml': data[6]
+                        });
+                        data = [];
+
+
+                        data.push($(el).text().trim())
+                    } else {
+                        const value = $(el).text();
+
+
+                        data.push(value.trim())
+                    }
+
+
+                });
+
+                test.push({
+                    'scrip': data[0],
+                    'expiry': data[1],
+                    'lot': data[2],
+                    'price': data[3],
+                    'mis': data[4],
+                    'op_mis': data[5],
+                    'nrml': data[6]
+                });
+                let new_json = JSON.stringify(test);
+
+                fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "astha", "currency.json"), new_json, (err) => {
+                    if (err)
+                        console.log(err);
+                    else
+                        console.log("astha currency file created\n" + new Date())
+                })
+            }
+
+
+        });
+    } catch (e) {
+        console.log("exception occured in astha currency");
+    }
+
+}
 

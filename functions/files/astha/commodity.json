@@ -1,1 +1,110 @@
-[{"scrip":"CRUDEOIL","expiry":"18-May-20","price":"1837","lot":"100","mwpl":"203.19","mis":"5500","nrml":"373268"},{"scrip":"GOLD","expiry":"05-Jun-20","price":"45812","lot":"100","mwpl":"10.10","mis":"25000","nrml":"462535"},{"scrip":"COPPER","expiry":"29-May-20","price":"407.65","lot":"2500","mwpl":"9.27","mis":"10000","nrml":"94484"},{"scrip":"SILVER","expiry":"03-Jul-20","price":"43293","lot":"30","mwpl":"12.60","mis":"11000","nrml":"163690"},{"scrip":"NICKEL","expiry":"29-May-20","price":"937.6","lot":"1500","mwpl":"11.27","mis":"26000","nrml":"158549"},{"scrip":"GOLDM","expiry":"05-Jun-20","price":"45820","lot":"10","mwpl":"10.04","mis":"2500","nrml":"45991"},{"scrip":"ALUMINIUM","expiry":"29-May-20","price":"131.4","lot":"1000","mwpl":"9.27","mis":"1314","nrml":"12181"},{"scrip":"NATURALGAS","expiry":"26-May-20","price":"138.9","lot":"1250","mwpl":"28.47","mis":"3500","nrml":"49424"},{"scrip":"SILVERM","expiry":"30-Jun-20","price":"43667","lot":"5","mwpl":"12.02","mis":"1000","nrml":"26239"},{"scrip":"SILVERMIC","expiry":"30-Jun-20","price":"43761","lot":"1","mwpl":"11.99","mis":"500","nrml":"5248"},{"scrip":"LEAD","expiry":"29-May-20","price":"132.2","lot":"1000","mwpl":"11.27","mis":"1322","nrml":"14899"},{"scrip":"ZINC","expiry":"29-May-20","price":"154.3","lot":"1000","mwpl":"11.27","mis":"1543","nrml":"17395"}]
+[
+  {
+    "scrip": "CRUDEOIL",
+    "expiry": "19-Jun-20",
+    "price": "2888",
+    "lot": "100",
+    "mwpl": "104.98",
+    "mis": "10000",
+    "nrml": "303178"
+  },
+  {
+    "scrip": "GOLD",
+    "expiry": "05-Aug-20",
+    "price": "46594",
+    "lot": "100",
+    "mwpl": "9.53",
+    "mis": "44397",
+    "nrml": "443971"
+  },
+  {
+    "scrip": "COPPER",
+    "expiry": "30-Jun-20",
+    "price": "439.7",
+    "lot": "2500",
+    "mwpl": "9.27",
+    "mis": "10188",
+    "nrml": "101880"
+  },
+  {
+    "scrip": "SILVER",
+    "expiry": "03-Jul-20",
+    "price": "48099",
+    "lot": "30",
+    "mwpl": "12.10",
+    "mis": "17466",
+    "nrml": "174655"
+  },
+  {
+    "scrip": "NICKEL",
+    "expiry": "30-Jun-20",
+    "price": "970.3",
+    "lot": "1500",
+    "mwpl": "11.26",
+    "mis": "16390",
+    "nrml": "163903"
+  },
+  {
+    "scrip": "GOLDM",
+    "expiry": "03-Jul-20",
+    "price": "46595",
+    "lot": "10",
+    "mwpl": "9.27",
+    "mis": "4320",
+    "nrml": "43196"
+  },
+  {
+    "scrip": "ALUMINIUM",
+    "expiry": "30-Jun-20",
+    "price": "136.15",
+    "lot": "5000",
+    "mwpl": "9.27",
+    "mis": "6308",
+    "nrml": "63081"
+  },
+  {
+    "scrip": "NATURALGAS",
+    "expiry": "25-Jun-20",
+    "price": "133.8",
+    "lot": "1250",
+    "mwpl": "20.15",
+    "mis": "3370",
+    "nrml": "33699"
+  },
+  {
+    "scrip": "SILVERM",
+    "expiry": "30-Jun-20",
+    "price": "48513",
+    "lot": "5",
+    "mwpl": "11.56",
+    "mis": "2804",
+    "nrml": "28041"
+  },
+  {
+    "scrip": "SILVERMIC",
+    "expiry": "30-Jun-20",
+    "price": "48495",
+    "lot": "1",
+    "mwpl": "11.55",
+    "mis": "560",
+    "nrml": "5600"
+  },
+  {
+    "scrip": "LEAD",
+    "expiry": "30-Jun-20",
+    "price": "140.6",
+    "lot": "5000",
+    "mwpl": "11.26",
+    "mis": "7918",
+    "nrml": "79180"
+  },
+  {
+    "scrip": "ZINC",
+    "expiry": "30-Jun-20",
+    "price": "163.35",
+    "lot": "5000",
+    "mwpl": "11.26",
+    "mis": "9197",
+    "nrml": "91969"
+  }
+]

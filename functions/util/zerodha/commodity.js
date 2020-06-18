@@ -72,7 +72,6 @@ const path = require('path');
                     co_upper: json[index].co_upper
                 }));
                 new_json = JSON.stringify(test);
-                console.log(new_json);
 
                 fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "zerodha", "commodity.json"), new_json, (err) => {
                     if (err)
