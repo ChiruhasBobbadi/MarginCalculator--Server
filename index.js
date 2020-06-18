@@ -1,12 +1,14 @@
 const express = require('express');
 const zerodha = require('./functions/routes/zerodha');
 const asthaRoutes = require('./functions/routes/astha');
+const aliceRoute = require('./functions/routes/alice');
 const commodity = require('./functions/util/zerodha/commodity');
 const future = require('./functions/util/zerodha/future');
 const currency = require('./functions/util/zerodha/currency');
 const astha = require('./functions/util/astha/controller');
 const mmi = require('./functions/util/mmi/scrapeMMI');
 const path = require('path');
+const alice = require('./functions/util/alice/controller');
 
 const cron = require("node-cron");
 
@@ -14,40 +16,48 @@ const helmet = require('helmet');
 
 let SERVER_PORT = 5000;
 
-
+//commodity
 cron.schedule("10 10 * * *", () => {
     console.log(`zerodha commodity function is called now`);
     commodity.call();
     console.log(`astha commodity function is called `);
     astha.commodity();
+    console.log(`ALICE commodity function is called `);
+    alice.commodity();
 }, {
     timezone: "Asia/Kolkata"
 });
 
-
+// futures
 cron.schedule("52 8 * * *", () => {
     console.log(`zerodha future function is called `);
     future.call();
      console.log(`astha future function is called `);
     astha.futures();
+    console.log(`alice future function is called `);
+    alice.futures()
 
 }, {
     timezone: "Asia/Kolkata"
 });
 
+//currency
 cron.schedule("10 9 * * *", () => {
-    console.log(`zerodha Currency function is called `);
+    console.log(` Currency function is called `);
     currency.call();
     astha.currency();
+    alice.currency();
 
 }, {
     timezone: "Asia/Kolkata"
 });
 
+// equity
 cron.schedule("12 9 * * *", () => {
     console.log(`astha equity function is called `);
     astha.equity();
-
+    console.log(`alice equity function is called `);
+    alice.equity();
 }, {
     timezone: "Asia/Kolkata"
 });
@@ -66,7 +76,6 @@ cron.schedule("*/5 9-16 * * 1-5",()=>{
 });
 
 
-
 const app = express();
 
 
@@ -74,6 +83,7 @@ app.use(helmet());
 
 app.use(zerodha);
 app.use('/astha', asthaRoutes);
+app.use('/alice',aliceRoute);
 app.use('/mmi', (req, res) => res.sendFile(path.join(__dirname, "functions", "files", "mmi", "mmi.json")));
 app.use('/', (req, res) => {
     res.send("Hello friend")

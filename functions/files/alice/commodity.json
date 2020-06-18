@@ -1,0 +1,155 @@
+[
+  {
+    "scrip": "ALUMINIUM",
+    "lot": "5 MT",
+    "price": "135.35",
+    "mis": "62599",
+    "nrml": "NIL",
+    "co_margin": "4173.3",
+    "bo_margin": "3130"
+  },
+  {
+    "scrip": "COPPER",
+    "lot": "2.5 MT",
+    "price": "423.65",
+    "mis": "97969",
+    "nrml": "NIL",
+    "co_margin": "6531.3",
+    "bo_margin": "4898.5"
+  },
+  {
+    "scrip": "COTTON",
+    "lot": "25 BALES",
+    "price": "16390",
+    "mis": "37901",
+    "nrml": "NIL",
+    "co_margin": "2526.7",
+    "bo_margin": "1895.1"
+  },
+  {
+    "scrip": "CPO",
+    "lot": "10 MT",
+    "price": "653.7",
+    "mis": "79555",
+    "nrml": "NIL",
+    "co_margin": "5303.7",
+    "bo_margin": "3977.8"
+  },
+  {
+    "scrip": "CRUDEOIL",
+    "lot": "100 BBL",
+    "price": "2817",
+    "mis": "392267",
+    "nrml": "78453.4",
+    "co_margin": "26151.1",
+    "bo_margin": "19613.4"
+  },
+  {
+    "scrip": "GOLD",
+    "lot": "1 KGS",
+    "price": "46727",
+    "mis": "432224",
+    "nrml": "86444.8",
+    "co_margin": "28814.9",
+    "bo_margin": "21611.2"
+  },
+  {
+    "scrip": "GOLDGUINEA",
+    "lot": "8 GRMS",
+    "price": "37717",
+    "mis": "3488",
+    "nrml": "697.6",
+    "co_margin": "232.5",
+    "bo_margin": "174.4"
+  },
+  {
+    "scrip": "GOLDM",
+    "lot": "100 GRMS",
+    "price": "46781",
+    "mis": "43272",
+    "nrml": "8654.4",
+    "co_margin": "2884.8",
+    "bo_margin": "2163.6"
+  },
+  {
+    "scrip": "GOLDPETAL",
+    "lot": "1 GRMS",
+    "price": "4705",
+    "mis": "435",
+    "nrml": "87",
+    "co_margin": "29",
+    "bo_margin": "21.8"
+  },
+  {
+    "scrip": "LEAD",
+    "lot": "5 MT",
+    "price": "136.7",
+    "mis": "76893",
+    "nrml": "NIL",
+    "co_margin": "5126.2",
+    "bo_margin": "3844.7"
+  },
+  {
+    "scrip": "MENTHAOIL",
+    "lot": "1080 KGS",
+    "price": "1102.7",
+    "mis": "157796",
+    "nrml": "157796",
+    "co_margin": "10519.7",
+    "bo_margin": "7889.8"
+  },
+  {
+    "scrip": "NATURALGAS",
+    "lot": "1250 MMBTU",
+    "price": "145.8",
+    "mis": "34645",
+    "nrml": "6929",
+    "co_margin": "2309.7",
+    "bo_margin": "1732.3"
+  },
+  {
+    "scrip": "NICKEL",
+    "lot": "1500 KGS",
+    "price": "962.2",
+    "mis": "162371",
+    "nrml": "NIL",
+    "co_margin": "10824.7",
+    "bo_margin": "8118.6"
+  },
+  {
+    "scrip": "SILVER",
+    "lot": "30 KGS",
+    "price": "49618",
+    "mis": "179666",
+    "nrml": "35933.2",
+    "co_margin": "11977.7",
+    "bo_margin": "8983.3"
+  },
+  {
+    "scrip": "SILVERM",
+    "lot": "5 KGS",
+    "price": "49760",
+    "mis": "30353",
+    "nrml": "6070.6",
+    "co_margin": "2023.5",
+    "bo_margin": "1517.7"
+  },
+  {
+    "scrip": "SILVERMIC",
+    "lot": "1 KGS",
+    "price": "49774",
+    "mis": "5793",
+    "nrml": "1158.6",
+    "co_margin": "386.2",
+    "bo_margin": "289.7"
+  },
+  {
+    "scrip": "ZINC",
+    "lot": "5 MT",
+    "price": "162.1",
+    "mis": "91181",
+    "nrml": "NIL",
+    "co_margin": "6078.7",
+    "bo_margin": "4559.1"
+  }
+]

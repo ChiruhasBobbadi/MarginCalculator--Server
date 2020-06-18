@@ -1,0 +1,4932 @@
+[
+  {
+    "tradingsymbol": "3MINDIA",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "5PAISA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "A2ZINFRA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AARTIDRUGS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AARTIIND",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AARVEEDEN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AAVAS",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ABBOTINDIA",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ABCAPITAL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ABFRL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ACC",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ACCELYA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ACE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ADANIENT",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ADANIGAS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ADANIGREEN",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ADANIPORTS",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "ADANIPOWER",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ADANITRANS",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ADFFOODS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ADORWELD",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ADVANIHOTR",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ADVENZYMES",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AEGISCHEM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AGARIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AGROPHOS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AHLEAST",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AHLUCONT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AIAENG",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AIONJSW:BE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AJANTPHARM",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AKSHARCHEM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AKSHOPTFBR",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AKZOINDIA",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ALANKIT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ALEMBICLTD",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ALICON",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ALKALI",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ALKEM",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ALKYLAMINE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ALLSEC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ALPA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ALPHAGEO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AMARAJABAT",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AMBIKCO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AMBUJACEM",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AMRUTANJAN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ANANTRAJ",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ANDHRAPAP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ANDHRSUGAR",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ANKITMETAL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ANSALHSG",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "APARINDS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "APCOTEXIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "APEX",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "APLAPOLLO",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "APLLTD",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "APOLLOHOSP",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "APOLLOTYRE",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "APTECHT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ARMANFIN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AROGRANITE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ARTEMISMED",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ARVIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ARVINDFASN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ASAHIINDIA",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ASAL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ASHAPURMIN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ASHIANA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ASHOKA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ASHOKLEY",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ASIANPAINT",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "ASIANTILES",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ASTEC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ASTERDM",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ASTRAL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ASTRAZEN",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ATFL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ATUL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ATULAUTO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AUBANK",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AURIONPRO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AUROPHARMA",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AUTOAXLES",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AUTOLITIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AVADHSUGAR",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AVANTIFEED",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AVTNPL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "AXISBANK",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "AXISCADES",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BAJAJ-AUTO",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "BAJAJCON",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BAJAJELEC",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BAJAJFINSV",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "BAJAJHIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BAJAJHLDNG",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BAJFINANCE",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "BALAJITELE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BALAMINES",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BALKRISHNA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BALKRISIND",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BALLARPUR",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BALRAMCHIN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BANARISUG",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BANDHANBNK",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BANG",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BANKBARODA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BANKBEES",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BANKINDIA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BANSWRAS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BARTRONICS:BZ",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BASF",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BATAINDIA",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BAYERCROP",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BBL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BBTC",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BCG",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BCP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BEARDSELL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BEL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BEML",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BERGEPAINT",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BFINVEST",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BFUTILITIE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BHANDARI",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BHARATFORG",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BHARATRAS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BHARATWIRE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BHARTIARTL",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "BHEL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BIOCON",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BIOFILCHEM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BIRLACABLE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BIRLACORPN",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BIRLATYRE:BE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BLISSGVS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BLUEDART",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BLUESTARCO",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BOMDYEING",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BORORENEW",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BOSCHLTD",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BPCL",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "BRIGADE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BRITANNIA",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "BRNL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BSELINFRA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BSOFT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "BURNPUR",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CADILAHC",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CANBK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CANFINHOME",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CANTABIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CAPACITE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CAPTRUST",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CARBORUNIV",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CAREERP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CARERATING",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CASTROLIND",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CCL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CEATLTD",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CENTENKA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CENTEXT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CENTRALBK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CENTRUM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CENTUM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CENTURYPLY",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CENTURYTEX",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CERA",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CESC",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CESCVENT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CGCL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CGPOWER",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CHALET",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CHAMBLFERT",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CHEMFAB",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CHENNPETRO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CHOLAFIN",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CHOLAHLDNG",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CHROMATIC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CIMMCO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CIPLA",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "CLNINDIA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CMICABLES",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "COALINDIA",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "COCHINSHIP",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "COLPAL",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CONCOR",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CONFIPET",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CONTI:SM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CONTROLPR",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CORDSCABLE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "COROMANDEL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "COSMOFILMS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "COX&KINGS:BZ",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CREDITACC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CREST",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CRISIL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CROMPTON",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CTE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CUB",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CUMMINSIND",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CUPID",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "CYIENT",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DAAWAT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DABUR",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DALMIASUG",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DATAMATICS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DBCORP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DBL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DBREALTY",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DCAL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DCBBANK",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DCM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DCMSHRIRAM",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DCW",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DECCANCE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DEEPAKFERT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DELTACORP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DEN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DENORA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DGCONTENT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DHAMPURSUG",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DHANUKA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DHFL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DHUNINV",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DICIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DIGISPICE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DISHTV",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DIVISLAB",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DLF",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DPSCLTD",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DPWIRES",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DREDGECORP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DRREDDY",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "DSML:SM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "DYNAMATECH",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "EASTSILK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ECLERX",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "EDELWEISS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "EICHERMOT",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "EIDPARRY",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "EIHAHOTELS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "EIHOTEL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "EIMCOELECO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ELGIEQUIP",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "EMAMILTD",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "EMAMIPAP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "EMAMIREAL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "EMKAY",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "EMKAYTOOLS:SM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "EMMBI",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ENDURANCE",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ENGINERSIN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ENIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "EQUITAS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ERIS",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "EROSMEDIA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ESABINDIA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ESCORTS",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "EVERESTIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "EXCELINDUS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "EXIDEIND",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "EXPLEOSOL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FAIRCHEM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FCL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FCONSUMER",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FCSSOFT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FDC",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FEDERALBNK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FEL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FELDVR",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FIEMIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FILATEX",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FINCABLES",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FLFL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FLUOROCHEM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FMGOETZE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FMNL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FORCEMOT",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FORTIS",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FOSECOIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FRETAIL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FSC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "FSL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GABRIEL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GAIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "GAMMNINFRA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GANDHITUBE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GANECOS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GANESHHOUC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GANGAFORGE:SM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GATI",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GDL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GENESYS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GENUSPAPER",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GEPIL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GESHIP",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GET&D",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GHCL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GICHSGFIN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GICRE",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GILLETTE",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GISOLUTION",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GLAXO",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GLENMARK",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GLOBALVECT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GLOBOFFS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GMBREW",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GMDCLTD",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GMRINFRA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GNA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GNFC",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GOCLCORP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GODFRYPHLP",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GODHA:SM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GODREJAGRO",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GODREJCP",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GODREJIND",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GODREJPROP",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GOKUL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GOKULAGRO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GOLDENTOBC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GOLDTECH",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GPPL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GPTINFRA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GRANULES",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GRAPHITE",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GRASIM",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "GREAVESCOT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GREENPOWER",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GRINDWELL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GROBTEA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GRPLTD",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GSFC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GSPL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GTPL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GUFICBIO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GUJALKALI",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GUJAPOLLO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GULFOILLUB",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GULPOLY",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "GVKPIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HAL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HARITASEAT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HATHWAY",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HATSUN",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HAVELLS",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HCC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HCLTECH",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "HDFC",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "HDFCAMC",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HDFCBANK",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "HDFCLIFE",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HDFCNIFETF",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HDIL:BZ",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HEG",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HEIDELBERG",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HERITGFOOD",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HEROMOTOCO",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "HESTERBIO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HEXAWARE",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HFCL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HGS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HIKAL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HIMATSEIDE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HINDALCO",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HINDCOMPOS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HINDCOPPER",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HINDOILEXP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HINDPETRO",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HINDUNILVR",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "HINDZINC",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HIRECT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HISARMETAL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HITECHCORP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HITECHGEAR",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HONAUT",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HONDAPOWER",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HSCL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "HUDCO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IBREALEST",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IBULHSGFIN",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IBULISL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IBVENTURES",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ICICIBANK",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "ICICIGI",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ICICIPRULI",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ICIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ICRA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IDBI",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IDEA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IDFC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IDFCFIRSTB",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IEX",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IFBAGRO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IFBIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IFCI",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IGARASHI",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IGL",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IGPL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IIFL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IIFLSEC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IMFA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IMPAL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INDHOTEL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INDIACEM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INDIAGLYCO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INDIANB",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INDIANHUME",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INDIGO",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INDNIPPON",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INDOCO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INDORAMA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INDOSOLAR:BZ",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INDOSTAR",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INDOWIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INDUSINDBK",
+    "mis_multiplier": "3",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INEOSSTYRO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INFIBEAM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INFRATEL",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INFY",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "INGERRAND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INOXLEISUR",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INOXWIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INSECTICID",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INTEGRA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "INTELLECT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IOB",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IOC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "IOLCP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IPCALAB",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IRB",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "IRCTC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ISEC",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ISFT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ISMTLTD",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ITC",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "ITDC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ITDCEM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ITI",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "J&KBANK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JAGRAN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JAGSNPHARM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JAICORPLTD",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JALAN:SM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JAMNAAUTO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JAYBARMARU",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JBCHEPHARM",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JBMA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JCHAC",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JETAIRWAYS:BZ",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JINDALSAW",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JINDALSTEL",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JINDRILL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JINDWORLD",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JKCEMENT",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JKLAKSHMI",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JKTYRE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JMCPROJECT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JMFINANCIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JPASSOCIAT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JPOLYINVST",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JSLHISAR",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JSWENERGY",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JSWHL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JSWSTEEL",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "JUBILANT",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JUBLFOOD",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JUNIORBEES",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JUSTDIAL",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "JYOTHYLAB",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KAJARIACER",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KAKATCEM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KALPATPOWR",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KAMATHOTEL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KANSAINER",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KARURVYSYA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KAUSHALYA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KAYA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KDDL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KEC",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KECL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KEI",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KELLTONTEC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KESORAMIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KGL:BZ",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KHADIM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KICL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KILITCH",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KINGFA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KIRIINDUS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KIRLOSIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KKCL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KMSUGAR",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KNRCON",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KOLTEPATIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KOTAKBANK",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "KOTAKPSUBK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KOTHARIPRO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KPITTECH",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KPRMILL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KRBL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KSCL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KSHITIJPOL:SM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KSK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KSL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KTKBANK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "KUANTUM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "L&TFH",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "LAKSHVILAS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LALPATHLAB",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LAOPALA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LAURUSLABS",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LAXMIMACH",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LEMONTREE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LEXUS:SM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LFIC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LGBBROSLTD",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LGBFORGE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LICHSGFIN",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LICNFNHGP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LINCOLN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LINDEINDIA",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LOVABLE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LSIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LT",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LTI",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LTTS",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LUMAXIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LUMAXTECH",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LUPIN",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LUXIND",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LYKALABS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "LYPSAGEMS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "M&M",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "M&MFIN",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MAANALU",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MAGADSUGAR",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MAGMA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MAHINDCIE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MAHLIFE",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MAHLOG",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MAHSCOOTER",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MAHSEAMLES",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MAITHANALL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MAJESCO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MALUPAPER",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MANAKALUCO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MANAKCOAT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MANAKSTEEL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MANALIPETC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MANAPPURAM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MANGLMCEM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MANGTIMBER",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MARALOVER",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MARICO",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MARUTI",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "MASFIN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MASTEK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MAWANASUG",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MAXINDIA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MAXVIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MAYURUNIQ",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MCX",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MEGH",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MENONBE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MFSL",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MGL",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MHRIL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MINDAIND",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MINDTECK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MINDTREE",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MMFL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MMTC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MOHITIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MOHOTAIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MOIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MOLDTKPAC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MONTECARLO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MOREPENLAB",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MOTHERSUMI",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MOTILALOFS",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MOTOGENFIN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MPHASIS",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MPSLTD",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MRF",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MRPL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MTEDUCARE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MUKANDLTD",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MURUDCERA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MUTHOOTCAP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "MUTHOOTFIN",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NACLIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NAGREEKCAP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NAHARSPING",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NAM-INDIA",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NATCOPHARM",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NATHBIOGEN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NATIONALUM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NATNLSTEEL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NAUKRI",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NAVINFLUOR",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NBCC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NBVENTURES",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NCC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NCLIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NECCLTD",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NECLIFE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NESCO",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NESTLEIND",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "NEULANDLAB",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NEWGEN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NH",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NHPC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NIACL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NIFTYBEES",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NIITTECH",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NILASPACES",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NILKAMAL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NIPPOBATRY",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NITCO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NKIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NLCINDIA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NMDC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NOCIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NOIDATOLL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NSIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NTL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NTPC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "NUCLEUS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "NXTDIGITAL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "OBEROIRLTY",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "OFSS",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "OIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "OLECTRA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "OMAXAUTO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "OMAXE",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "OMFURN:SM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "OMMETALS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ONGC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "ONMOBILE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ORIENTALTL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ORIENTCEM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ORIENTELEC",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ORIENTHOT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ORIENTLTD",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ORIENTREF",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ORISSAMINE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ORTEL:BZ",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "OSIAHYPER:SM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PAEL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PAGEIND",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PAISALO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PALREDTEC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PANACEABIO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PANAMAPET",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PAPERPROD",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PARAGMILK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PATELENG",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PDSMFL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PEL",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PENIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PERSISTENT",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PETRONET",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PFC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PFIZER",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PGEL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PGHH",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PGHL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PHILIPCARB",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PHOENIXLTD",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PIDILITIND",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PIIND",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PILITA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PLASTIBLEN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PNB",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PNBHOUSING",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PNC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PNCINFRA",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "POLYMED",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "POLYPLEX",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "POWERGRID",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "POWERMECH",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PPAP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PPL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PRADIP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PRAENG",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PRAKASH",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PRAXIS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PRECAM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PRECWIRE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PREMIER",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PRESTIGE",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PRINCEPIPE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PROSEED",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PRSMJOHNSN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PTC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PUNJABCHEM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PUSHPREALM:SM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "PVR",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "QNIFTY",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "QUESS",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "QUICKHEAL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RADAAN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RADICO",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RADIOCITY",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RAIN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RAJESHEXPO",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RALLIS",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RAMANEWS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RAMCOCEM",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RAMCOIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RAMCOSYS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RAMKY",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RANEHOLDIN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RATNAMANI",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RAYMOND",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RBL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RBLBANK",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RCF",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RECLTD",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "REDINGTON",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "REFEX",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RELAXO",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RELIANCE",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "RELIGARE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RENUKA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "REPCOHOME",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "REPRO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "REVATHI",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RGL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RIIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RITES",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RKDL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RKFORGE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RMDRIP:SM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RML",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RPGLIFE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RPOWER",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RPPINFRA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RSSOFTWARE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RSYSTEMS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RTNPOWER",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RUCHI:BE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RUCHIRA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RUPA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "RUSHIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SADBHAV",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SADBHIN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SAFARI",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SAGCEM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SAIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SAKSOFT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SAKUMA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SAMBHAAV",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SANCO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SANDESH",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SANGINITA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SANOFI",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SARDAEN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SAREGAMA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SASKEN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SATIN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SBILIFE",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SBIN",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "SCHAEFFLER",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SCI",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SESHAPAPER",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SETCO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SFL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SHAHALLOYS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SHALBY",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SHALPAINTS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SHANKARA",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SHARDACROP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SHARIABEES",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SHEMAROO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SHIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SHILPAMED",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SHIRPUR-G",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SHK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SHOPERSTOP",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SHREECEM",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SHRENIK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SHRIRAMCIT",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SHRIRAMEPC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SHUBHLAXMI:SM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SHYAMCENT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SHYAMTEL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SICAGEN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SIEMENS",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SILLYMONKS:SM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SIMBHALS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SIMPLEXINF",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SINTEX",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SIRCA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SIS",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SIYSIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SJVN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SKFINDIA",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SKIPPER",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SKMEGGPROD",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SMLISUZU",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SMSLIFE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SMSPHARMA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SNOWMAN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SOBHA",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SOLARA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SOLARINDS",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SOMANYCERA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SOMATEX",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SONATSOFTW",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SORILINFRA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SOTL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SOUTHBANK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SPAL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SPARC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SPECIALITY",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SPICEJET",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SREINFRA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SRF",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SRIPIPES",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SRTRANSFIN",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SSWL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "STAMPEDE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "STAR",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "STARCEMENT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "STERTOOLS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "STINDIA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "STRTECH",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SUBEX",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SUBROS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SUDARSCHEM",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SUMEETINDS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SUMMITSEC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SUNCLAYLTD",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SUNDARMFIN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SUNDRMBRAK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SUNDRMFAST",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SUNPHARMA",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "SUNTECK",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SUNTV",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SUPPETRO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SUPRAJIT",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SUPREMEIND",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SURANI:SM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SURYAROSNI",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SUTLEJTEX",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SUULD:SM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SUVEN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SUVENPHAR",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SUZLON",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SWANENERGY",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SWARAJENG",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SWSOLAR",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SYMPHONY",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "SYNGENE",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TAKE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TANLA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TATACHEM",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TATACOMM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TATACONSUM",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TATAELXSI",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TATAINVEST",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TATAMETALI",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TATAMOTORS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "TATAMTRDVR",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TATAPOWER",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TATASTEEL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "TATASTLLP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TCI",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TCIDEVELOP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TCIEXP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TCIFINANCE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TCNSBRANDS",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TCPLPACK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TCS",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "TDPOWERSYS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TEAMLEASE",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TECHM",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "TECHNOFAB",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TEXINFRA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TEXRAIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TFCILTD",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TFL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "THANGAMAYL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "THEINVEST",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "THERMAX",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "THOMASCOOK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "THYROCARE",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TIDEWATER",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TIIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TIINDIA",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TIJARIA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TIMETECHNO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TIMKEN",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TITAN",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "TNPL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TORNTPHARM",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TORNTPOWER",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TREEHOUSE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TRENT",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TRIDENT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TRITURBINE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TRIVENI",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TTKHLTCARE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TTKPRESTIG",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TV18BRDCST",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TVSMOTOR",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TVSSRICHAK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TVTODAY",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "TWL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "UBL",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "UCALFUEL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "UCOBANK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "UFLEX",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "UJAAS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "UJJIVAN",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "UJJIVANSFB",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ULTRACEMCO",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "UNICHEMLAB",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "UNIENTER",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "UNIONBANK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "UNIPLY",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "UNIVPHOTO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "UPL",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "UTINIFTETF",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "UTISENSETF",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "UTTAMSUGAR",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "UVSL:BE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "V2RETAIL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VADILALIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VAIBHAVGBL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VAKRANGEE",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VARROC",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VASCONEQ",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VASWANI",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VBL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VEDL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "VERA:SM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VESUVIUS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VGUARD",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VHL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VIJIFIN",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VIKASWSP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VIMTALABS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VINATIORGA",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VINDHYATEL",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VIPCLOTHNG",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VIPIND",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VIPULLTD",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VISAKAIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VISHNU",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VIVIDHA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VMART",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VOLTAMP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VOLTAS",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VRLLOG",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VSCL:SM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VSTIND",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VSTTILLERS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "VTL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "WABAG",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "WABCOINDIA",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "WEIZMANIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "WELCORP",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "WELSPUNIND",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "WENDT",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "WESTLIFE",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "WHEELS",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "WHIRLPOOL",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "WILLAMAGOR",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "WIPRO",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "WOCKPHARMA",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "WONDERLA",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "WSTCSTPAPR",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "XELPMOC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "YESBANK",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ZEEL",
+    "mis_multiplier": "8",
+    "nrml_multiplier": "2"
+  },
+  {
+    "tradingsymbol": "ZENITHEXPO",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ZENSARTECH",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ZENTEC",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ZICOM",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "ZUARIGLOB",
+    "mis_multiplier": "1",
+    "nrml_multiplier": "1"
+  },
+  {
+    "tradingsymbol": "986",
+    "mis_multiplier": "2",
+    "nrml_multiplier": "1"
+  }
+]
