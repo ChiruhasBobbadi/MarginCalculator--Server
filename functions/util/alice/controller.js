@@ -22,8 +22,8 @@ module.exports.commodity = () => {
                             'scrip': data[1],
                             'lot': data[2],
                             'price': data[3],
-                            'mis': data[4],
-                            'nrml': data[5]==='NIL'?0:data[5],
+                            'nrml':data[4],
+                            'mis':data[5]==='NIL'?0:data[5] ,
                             'co_margin':data[6],
                             'bo_margin':data[7]
 
@@ -44,8 +44,8 @@ module.exports.commodity = () => {
                     'scrip': data[1],
                     'lot': data[2],
                     'price': data[3],
-                    'mis': data[4],
-                    'nrml': data[5]==='NIL'?0:data[5],
+                    'nrml':data[4],
+                    'mis':data[5]==='NIL'?0:data[5] ,
                     'co_margin':data[6],
                     'bo_margin':data[7]
 
@@ -73,6 +73,8 @@ module.exports.commodity = () => {
 
 
 };
+
+module.exports.commodity();
 
 module.exports.equity = () => {
 
