@@ -23,7 +23,7 @@ module.exports.commodity = () => {
                             'lot': data[2],
                             'price': data[3],
                             'mis': data[4],
-                            'nrml': data[5],
+                            'nrml': data[5]==='NIL'?0:data[5],
                             'co_margin':data[6],
                             'bo_margin':data[7]
 
@@ -45,7 +45,7 @@ module.exports.commodity = () => {
                     'lot': data[2],
                     'price': data[3],
                     'mis': data[4],
-                    'nrml': data[5],
+                    'nrml': data[5]==='NIL'?0:data[5],
                     'co_margin':data[6],
                     'bo_margin':data[7]
 
@@ -73,7 +73,6 @@ module.exports.commodity = () => {
 
 
 };
-
 
 module.exports.equity = () => {
 
@@ -157,7 +156,7 @@ module.exports.futures = () => {
                             'expiry': data[2],
                             'lot': data[3],
                             'price': data[4],
-                            'nrml': data[5],
+                            'nrml': data[5].replace(',',''),
                             'mis': data[6],
                             'co_margin': data[7],
                             'bo_margin':data[8]
@@ -181,7 +180,7 @@ module.exports.futures = () => {
                     'expiry': data[2],
                     'lot': data[3],
                     'price': data[4],
-                    'nrml': data[5],
+                    'nrml': data[5].replace(',',''),
                     'mis': data[6],
                     'co_margin': data[7],
                     'bo_margin':data[8]

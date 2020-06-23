@@ -165,7 +165,7 @@ module.exports.futures = () => {
                             'price': data[3],
                             'mis': data[5],
                             'op_mis': data[6],
-                            'nrml': data[7]
+                            'nrml': data[7].replace(/,/g,'')
                         });
                         data = [];
 
@@ -188,7 +188,7 @@ module.exports.futures = () => {
                     'price': data[3],
                     'mis': data[5],
                     'op_mis': data[6],
-                    'nrml': data[7]
+                    'nrml': data[7].replace(/,/g,'')
                 });
                 let new_json = JSON.stringify(test);
 
@@ -208,6 +208,7 @@ module.exports.futures = () => {
 
 
 };
+
 
 module.exports.currency = () => {
     try {
@@ -267,5 +268,5 @@ module.exports.currency = () => {
         console.log("exception occured in astha currency");
     }
 
-}
+};
 

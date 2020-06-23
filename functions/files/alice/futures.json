@@ -4280,12 +4280,13 @@
     "bo_margin": "12591.7"
   },
   {
-    "scrip": "429",
-    "expiry": "ZEEL",
-    "lot": "27-Aug-20",
-    "price": "3000",
-    "mis": "253029",
-    "op_mis": "25302.9",
-    "nrml": "16868.6"
+    "scrip": "ZEEL",
+    "expiry": "27-Aug-20",
+    "lot": "3000",
+    "price": "182.95",
+    "nrml": "253029",
+    "mis": "25302.9",
+    "co_margin": "16868.6",
+    "bo_margin": "12651.5"
   }
 ]

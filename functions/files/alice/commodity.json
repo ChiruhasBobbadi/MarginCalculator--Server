@@ -4,7 +4,7 @@
     "lot": "5 MT",
     "price": "135.35",
     "mis": "62599",
-    "nrml": "NIL",
+    "nrml": 0,
     "co_margin": "4173.3",
     "bo_margin": "3130"
   },
@@ -13,7 +13,7 @@
     "lot": "2.5 MT",
     "price": "423.65",
     "mis": "97969",
-    "nrml": "NIL",
+    "nrml": 0,
     "co_margin": "6531.3",
     "bo_margin": "4898.5"
   },
@@ -22,7 +22,7 @@
     "lot": "25 BALES",
     "price": "16390",
     "mis": "37901",
-    "nrml": "NIL",
+    "nrml": 0,
     "co_margin": "2526.7",
     "bo_margin": "1895.1"
   },
@@ -31,7 +31,7 @@
     "lot": "10 MT",
     "price": "653.7",
     "mis": "79555",
-    "nrml": "NIL",
+    "nrml": 0,
     "co_margin": "5303.7",
     "bo_margin": "3977.8"
   },
@@ -85,7 +85,7 @@
     "lot": "5 MT",
     "price": "136.7",
     "mis": "76893",
-    "nrml": "NIL",
+    "nrml": 0,
     "co_margin": "5126.2",
     "bo_margin": "3844.7"
   },
@@ -112,7 +112,7 @@
     "lot": "1500 KGS",
     "price": "962.2",
     "mis": "162371",
-    "nrml": "NIL",
+    "nrml": 0,
     "co_margin": "10824.7",
     "bo_margin": "8118.6"
   },
@@ -148,7 +148,7 @@
     "lot": "5 MT",
     "price": "162.1",
     "mis": "91181",
-    "nrml": "NIL",
+    "nrml": 0,
     "co_margin": "6078.7",
     "bo_margin": "4559.1"
   }
