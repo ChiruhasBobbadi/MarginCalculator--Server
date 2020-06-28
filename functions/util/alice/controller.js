@@ -74,7 +74,7 @@ module.exports.commodity = () => {
 
 };
 
-module.exports.commodity();
+
 
 module.exports.equity = () => {
 
