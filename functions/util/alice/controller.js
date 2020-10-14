@@ -54,11 +54,11 @@ module.exports.commodity = () => {
 
                 let new_json = JSON.stringify(test);
 
-                fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "alice", "commodity.json"), new_json, (err) => {
+                fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "alice", "commodity.json"),
+                    new_json, (err) => {
                     if (err)
                         console.log(err);
-                    else
-                        console.log("alice commodity file created\n" + new Date())
+
                 })
             }
 
@@ -117,11 +117,11 @@ module.exports.equity = () => {
 
                 let new_json = JSON.stringify(test);
 
-                fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "alice", "equity.json"), new_json, (err) => {
+                fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "alice", "equity.json"),
+                    new_json, (err) => {
                     if (err)
                         console.log(err);
-                    else
-                        console.log("alice equity file created\n" + new Date())
+
                 })
             }
         } catch (e) {
@@ -189,11 +189,11 @@ module.exports.futures = () => {
                 });
                 let new_json = JSON.stringify(test);
 
-                fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "alice", "futures.json"), new_json, (err) => {
+                fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "alice", "futures.json"),
+                    new_json, (err) => {
                     if (err)
                         console.log(err);
-                    else
-                        console.log("alice future file created\n" + new Date())
+
                 })
             }
 
@@ -245,11 +245,10 @@ module.exports.currency = () => {
                 });
                 let new_json = JSON.stringify(test);
 
-                fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "alice", "currency.json"), new_json, (err) => {
+                fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "alice", "currency.json"),
+                    new_json, (err) => {
                     if (err)
                         console.log(err);
-                    else
-                        console.log("alice currency file created\n" + new Date())
                 })
             }
 

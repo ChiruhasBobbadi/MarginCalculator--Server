@@ -90,11 +90,9 @@ try{
 
                 });
 
-                console.log(test);
 
                 test = test.map(obj => {
                     let temp = json.filter(o => o.scrip === obj.scrip);
-                    console.log(temp);
                     return {
                         ...obj,
                         nrml: temp[0].nrml,
@@ -112,8 +110,7 @@ try{
                 fs.writeFile(path.join(__dirname,"../","../","../","functions","files","zerodha","currency.json"), new_json, (err) => {
                     if (err)
                         console.log(err);
-                    else
-                        console.log("zerodha Currency file created\n"+new Date())
+
                 })
 
 

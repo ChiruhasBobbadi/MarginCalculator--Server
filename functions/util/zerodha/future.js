@@ -107,11 +107,11 @@ try {
 
                 new_json = JSON.stringify(new_json);
 
-                fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "zerodha", "futures.json"), new_json, (err) => {
+                fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "zerodha", "futures.json"),
+                    new_json, (err) => {
                     if (err)
                         console.log(err);
-                    else
-                        console.log("zerodha Future file created\n" + new Date())
+
                 })
 
             }

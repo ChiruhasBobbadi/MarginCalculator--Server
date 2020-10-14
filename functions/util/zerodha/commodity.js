@@ -76,9 +76,7 @@ const path = require('path');
                 fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "zerodha", "commodity.json"), new_json, (err) => {
                     if (err)
                         console.log(err);
-                    else {
-                        console.log("zerodha Commodity file created \n" + new Date())
-                    }
+
 
                 })
 

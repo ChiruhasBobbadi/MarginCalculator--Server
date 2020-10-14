@@ -54,11 +54,11 @@ module.exports.commodity = () => {
 
                 let new_json = JSON.stringify(test);
 
-                fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "astha", "commodity.json"), new_json, (err) => {
+                fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "astha", "commodity.json"),
+                    new_json, (err) => {
                     if (err)
                         console.log(err);
-                    else
-                        console.log("astha commodity file created\n" + new Date())
+
                 })
             }
 
@@ -192,11 +192,11 @@ module.exports.futures = () => {
                 });
                 let new_json = JSON.stringify(test);
 
-                fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "astha", "futures.json"), new_json, (err) => {
+                fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "astha", "futures.json"),
+                    new_json, (err) => {
                     if (err)
                         console.log(err);
-                    else
-                        console.log("astha future file created\n" + new Date())
+
                 })
             }
 
@@ -257,8 +257,6 @@ module.exports.currency = () => {
                 fs.writeFile(path.join(__dirname, "../", "../", "../", "functions", "files", "astha", "currency.json"), new_json, (err) => {
                     if (err)
                         console.log(err);
-                    else
-                        console.log("astha currency file created\n" + new Date())
                 })
             }
 
