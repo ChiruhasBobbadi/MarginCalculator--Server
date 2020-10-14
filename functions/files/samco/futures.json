@@ -1,0 +1,4112 @@
+[
+  {
+    "scrip": "ACC",
+    "expiry": "Oct-2020",
+    "lot": "500",
+    "price": "1549.70",
+    "nrml": "162721",
+    "mis": "65088.4",
+    "co_margin": "30994",
+    "bo_margin": "30994"
+  },
+  {
+    "scrip": "ACC",
+    "expiry": "Nov-2020",
+    "lot": "500",
+    "price": "1552.95",
+    "nrml": "163147",
+    "mis": "65258.8",
+    "co_margin": "31059",
+    "bo_margin": "31059"
+  },
+  {
+    "scrip": "ACC",
+    "expiry": "Dec-2020",
+    "lot": "500",
+    "price": "1563.65",
+    "nrml": "163594",
+    "mis": "65437.6",
+    "co_margin": "31273",
+    "bo_margin": "31273"
+  },
+  {
+    "scrip": "ADANIENT",
+    "expiry": "Oct-2020",
+    "lot": "4000",
+    "price": "313.45",
+    "nrml": "604964",
+    "mis": "241985.6",
+    "co_margin": "62690",
+    "bo_margin": "62690"
+  },
+  {
+    "scrip": "ADANIENT",
+    "expiry": "Nov-2020",
+    "lot": "4000",
+    "price": "314.10",
+    "nrml": "607820",
+    "mis": "243128",
+    "co_margin": "62820",
+    "bo_margin": "62820"
+  },
+  {
+    "scrip": "ADANIENT",
+    "expiry": "Dec-2020",
+    "lot": "4000",
+    "price": "316.25",
+    "nrml": "622910",
+    "mis": "249164",
+    "co_margin": "63250",
+    "bo_margin": "63250"
+  },
+  {
+    "scrip": "ADANIPORTS",
+    "expiry": "Oct-2020",
+    "lot": "2500",
+    "price": "349.00",
+    "nrml": "306836",
+    "mis": "122734.4",
+    "co_margin": "34900",
+    "bo_margin": "34900"
+  },
+  {
+    "scrip": "ADANIPORTS",
+    "expiry": "Nov-2020",
+    "lot": "2500",
+    "price": "349.70",
+    "nrml": "307862",
+    "mis": "123144.8",
+    "co_margin": "34970",
+    "bo_margin": "34970"
+  },
+  {
+    "scrip": "ADANIPORTS",
+    "expiry": "Dec-2020",
+    "lot": "2500",
+    "price": "352.15",
+    "nrml": "309325",
+    "mis": "123730",
+    "co_margin": "35215",
+    "bo_margin": "35215"
+  },
+  {
+    "scrip": "AMARAJABAT",
+    "expiry": "Oct-2020",
+    "lot": "1000",
+    "price": "729.65",
+    "nrml": "178440",
+    "mis": "71376",
+    "co_margin": "36482.5",
+    "bo_margin": "36482.5"
+  },
+  {
+    "scrip": "AMARAJABAT",
+    "expiry": "Nov-2020",
+    "lot": "1000",
+    "price": "731.15",
+    "nrml": "178781",
+    "mis": "71512.4",
+    "co_margin": "36557.5",
+    "bo_margin": "36557.5"
+  },
+  {
+    "scrip": "AMARAJABAT",
+    "expiry": "Dec-2020",
+    "lot": "1000",
+    "price": "736.20",
+    "nrml": "179640",
+    "mis": "71856",
+    "co_margin": "36810",
+    "bo_margin": "36810"
+  },
+  {
+    "scrip": "AMBUJACEM",
+    "expiry": "Oct-2020",
+    "lot": "3000",
+    "price": "246.65",
+    "nrml": "185250",
+    "mis": "74100",
+    "co_margin": "29598",
+    "bo_margin": "29598"
+  },
+  {
+    "scrip": "AMBUJACEM",
+    "expiry": "Nov-2020",
+    "lot": "3000",
+    "price": "247.15",
+    "nrml": "185725",
+    "mis": "74290",
+    "co_margin": "29658",
+    "bo_margin": "29658"
+  },
+  {
+    "scrip": "AMBUJACEM",
+    "expiry": "Dec-2020",
+    "lot": "3000",
+    "price": "248.85",
+    "nrml": "185938",
+    "mis": "74375.2",
+    "co_margin": "29862",
+    "bo_margin": "29862"
+  },
+  {
+    "scrip": "APOLLOHOSP",
+    "expiry": "Oct-2020",
+    "lot": "500",
+    "price": "2227.95",
+    "nrml": "310001",
+    "mis": "124000.4",
+    "co_margin": "44559",
+    "bo_margin": "44559"
+  },
+  {
+    "scrip": "APOLLOHOSP",
+    "expiry": "Nov-2020",
+    "lot": "500",
+    "price": "2232.65",
+    "nrml": "310562",
+    "mis": "124224.8",
+    "co_margin": "44653",
+    "bo_margin": "44653"
+  },
+  {
+    "scrip": "APOLLOHOSP",
+    "expiry": "Dec-2020",
+    "lot": "500",
+    "price": "2248.00",
+    "nrml": "312067",
+    "mis": "124826.8",
+    "co_margin": "44960",
+    "bo_margin": "44960"
+  },
+  {
+    "scrip": "APOLLOTYRE",
+    "expiry": "Oct-2020",
+    "lot": "5000",
+    "price": "128.65",
+    "nrml": "178030",
+    "mis": "71212",
+    "co_margin": "32162.5",
+    "bo_margin": "32162.5"
+  },
+  {
+    "scrip": "APOLLOTYRE",
+    "expiry": "Nov-2020",
+    "lot": "5000",
+    "price": "128.95",
+    "nrml": "178573",
+    "mis": "71429.2",
+    "co_margin": "32237.5",
+    "bo_margin": "32237.5"
+  },
+  {
+    "scrip": "APOLLOTYRE",
+    "expiry": "Dec-2020",
+    "lot": "5000",
+    "price": "129.80",
+    "nrml": "178887",
+    "mis": "71554.8",
+    "co_margin": "32450",
+    "bo_margin": "32450"
+  },
+  {
+    "scrip": "ASHOKLEY",
+    "expiry": "Oct-2020",
+    "lot": "9000",
+    "price": "73.20",
+    "nrml": "253073",
+    "mis": "101229.2",
+    "co_margin": "26352",
+    "bo_margin": "26352"
+  },
+  {
+    "scrip": "ASHOKLEY",
+    "expiry": "Nov-2020",
+    "lot": "9000",
+    "price": "73.35",
+    "nrml": "253797",
+    "mis": "101518.8",
+    "co_margin": "26406",
+    "bo_margin": "26406"
+  },
+  {
+    "scrip": "ASHOKLEY",
+    "expiry": "Dec-2020",
+    "lot": "9000",
+    "price": "73.35",
+    "nrml": "253969",
+    "mis": "101587.6",
+    "co_margin": "26406",
+    "bo_margin": "26406"
+  },
+  {
+    "scrip": "ASIANPAINT",
+    "expiry": "Oct-2020",
+    "lot": "300",
+    "price": "2071.60",
+    "nrml": "130879",
+    "mis": "52351.6",
+    "co_margin": "18644.4",
+    "bo_margin": "18644.4"
+  },
+  {
+    "scrip": "ASIANPAINT",
+    "expiry": "Nov-2020",
+    "lot": "300",
+    "price": "2075.95",
+    "nrml": "131255",
+    "mis": "52502",
+    "co_margin": "18683.55",
+    "bo_margin": "18683.55"
+  },
+  {
+    "scrip": "ASIANPAINT",
+    "expiry": "Dec-2020",
+    "lot": "300",
+    "price": "2090.00",
+    "nrml": "131721",
+    "mis": "52688.4",
+    "co_margin": "18810",
+    "bo_margin": "18810"
+  },
+  {
+    "scrip": "AUROPHARMA",
+    "expiry": "Oct-2020",
+    "lot": "1300",
+    "price": "810.50",
+    "nrml": "384686",
+    "mis": "153874.4",
+    "co_margin": "52682.5",
+    "bo_margin": "52682.5"
+  },
+  {
+    "scrip": "AUROPHARMA",
+    "expiry": "Nov-2020",
+    "lot": "1300",
+    "price": "812.20",
+    "nrml": "385905",
+    "mis": "154362",
+    "co_margin": "52793",
+    "bo_margin": "52793"
+  },
+  {
+    "scrip": "AUROPHARMA",
+    "expiry": "Dec-2020",
+    "lot": "1300",
+    "price": "817.80",
+    "nrml": "386283",
+    "mis": "154513.2",
+    "co_margin": "53157",
+    "bo_margin": "53157"
+  },
+  {
+    "scrip": "AXISBANK",
+    "expiry": "Oct-2020",
+    "lot": "1200",
+    "price": "471.35",
+    "nrml": "194023",
+    "mis": "77609.2",
+    "co_margin": "16968.6",
+    "bo_margin": "16968.6"
+  },
+  {
+    "scrip": "AXISBANK",
+    "expiry": "Nov-2020",
+    "lot": "1200",
+    "price": "472.35",
+    "nrml": "194593",
+    "mis": "77837.2",
+    "co_margin": "17004.6",
+    "bo_margin": "17004.6"
+  },
+  {
+    "scrip": "AXISBANK",
+    "expiry": "Dec-2020",
+    "lot": "1200",
+    "price": "475.30",
+    "nrml": "195308",
+    "mis": "78123.2",
+    "co_margin": "17110.8",
+    "bo_margin": "17110.8"
+  },
+  {
+    "scrip": "BAJAJ-AUTO",
+    "expiry": "Oct-2020",
+    "lot": "250",
+    "price": "3054.50",
+    "nrml": "170890",
+    "mis": "68356",
+    "co_margin": "30545",
+    "bo_margin": "30545"
+  },
+  {
+    "scrip": "BAJAJ-AUTO",
+    "expiry": "Nov-2020",
+    "lot": "250",
+    "price": "3060.90",
+    "nrml": "171519",
+    "mis": "68607.6",
+    "co_margin": "30609",
+    "bo_margin": "30609"
+  },
+  {
+    "scrip": "BAJAJ-AUTO",
+    "expiry": "Dec-2020",
+    "lot": "250",
+    "price": "3082.00",
+    "nrml": "172159",
+    "mis": "68863.6",
+    "co_margin": "30820",
+    "bo_margin": "30820"
+  },
+  {
+    "scrip": "BAJAJFINSV",
+    "expiry": "Oct-2020",
+    "lot": "125",
+    "price": "6100.60",
+    "nrml": "231970",
+    "mis": "92788",
+    "co_margin": "30503",
+    "bo_margin": "30503"
+  },
+  {
+    "scrip": "BAJAJFINSV",
+    "expiry": "Nov-2020",
+    "lot": "125",
+    "price": "6113.40",
+    "nrml": "232726",
+    "mis": "93090.4",
+    "co_margin": "30567",
+    "bo_margin": "30567"
+  },
+  {
+    "scrip": "BAJAJFINSV",
+    "expiry": "Dec-2020",
+    "lot": "125",
+    "price": "6155.55",
+    "nrml": "233170",
+    "mis": "93268",
+    "co_margin": "30777.75",
+    "bo_margin": "30777.75"
+  },
+  {
+    "scrip": "BAJFINANCE",
+    "expiry": "Oct-2020",
+    "lot": "250",
+    "price": "3372.40",
+    "nrml": "281571",
+    "mis": "112628.4",
+    "co_margin": "33724",
+    "bo_margin": "33724"
+  },
+  {
+    "scrip": "BAJFINANCE",
+    "expiry": "Nov-2020",
+    "lot": "250",
+    "price": "3379.45",
+    "nrml": "282306",
+    "mis": "112922.4",
+    "co_margin": "33794.5",
+    "bo_margin": "33794.5"
+  },
+  {
+    "scrip": "BAJFINANCE",
+    "expiry": "Dec-2020",
+    "lot": "250",
+    "price": "3376.20",
+    "nrml": "283249",
+    "mis": "113299.6",
+    "co_margin": "33762",
+    "bo_margin": "33762"
+  },
+  {
+    "scrip": "BALKRISIND",
+    "expiry": "Oct-2020",
+    "lot": "800",
+    "price": "1379.75",
+    "nrml": "310456",
+    "mis": "124182.4",
+    "co_margin": "55190",
+    "bo_margin": "55190"
+  },
+  {
+    "scrip": "BALKRISIND",
+    "expiry": "Nov-2020",
+    "lot": "800",
+    "price": "1382.65",
+    "nrml": "311418",
+    "mis": "124567.2",
+    "co_margin": "55306",
+    "bo_margin": "55306"
+  },
+  {
+    "scrip": "BALKRISIND",
+    "expiry": "Dec-2020",
+    "lot": "800",
+    "price": "1392.20",
+    "nrml": "314790",
+    "mis": "125916",
+    "co_margin": "55688",
+    "bo_margin": "55688"
+  },
+  {
+    "scrip": "BANDHANBNK",
+    "expiry": "Oct-2020",
+    "lot": "1800",
+    "price": "320.80",
+    "nrml": "260047",
+    "mis": "0",
+    "co_margin": "23097.6",
+    "bo_margin": "23097.6"
+  },
+  {
+    "scrip": "BANDHANBNK",
+    "expiry": "Nov-2020",
+    "lot": "1800",
+    "price": "321.55",
+    "nrml": "260830",
+    "mis": "0",
+    "co_margin": "23151.6",
+    "bo_margin": "23151.6"
+  },
+  {
+    "scrip": "BANDHANBNK",
+    "expiry": "Dec-2020",
+    "lot": "1800",
+    "price": "323.70",
+    "nrml": "261945",
+    "mis": "0",
+    "co_margin": "23306.4",
+    "bo_margin": "23306.4"
+  },
+  {
+    "scrip": "BANKBARODA",
+    "expiry": "Oct-2020",
+    "lot": "8200",
+    "price": "42.05",
+    "nrml": "145029",
+    "mis": "58011.6",
+    "co_margin": "13792.4",
+    "bo_margin": "13792.4"
+  },
+  {
+    "scrip": "BANKBARODA",
+    "expiry": "Nov-2020",
+    "lot": "8200",
+    "price": "42.15",
+    "nrml": "145511",
+    "mis": "58204.4",
+    "co_margin": "13825.2",
+    "bo_margin": "13825.2"
+  },
+  {
+    "scrip": "BANKBARODA",
+    "expiry": "Dec-2020",
+    "lot": "8200",
+    "price": "42.25",
+    "nrml": "146031",
+    "mis": "58412.4",
+    "co_margin": "13858",
+    "bo_margin": "13858"
+  },
+  {
+    "scrip": "BANKNIFTY",
+    "expiry": "Oct-2020",
+    "lot": "25",
+    "price": "23951.05",
+    "nrml": "128608",
+    "mis": "38582.4",
+    "co_margin": "5987.76",
+    "bo_margin": "5987.76"
+  },
+  {
+    "scrip": "BANKNIFTY",
+    "expiry": "Nov-2020",
+    "lot": "25",
+    "price": "23982.30",
+    "nrml": "128966",
+    "mis": "38689.8",
+    "co_margin": "5995.58",
+    "bo_margin": "5995.58"
+  },
+  {
+    "scrip": "BANKNIFTY",
+    "expiry": "Dec-2020",
+    "lot": "25",
+    "price": "23993.65",
+    "nrml": "129413",
+    "mis": "38823.9",
+    "co_margin": "5998.41",
+    "bo_margin": "5998.41"
+  },
+  {
+    "scrip": "BATAINDIA",
+    "expiry": "Oct-2020",
+    "lot": "550",
+    "price": "1364.85",
+    "nrml": "180247",
+    "mis": "72098.8",
+    "co_margin": "30026.7",
+    "bo_margin": "30026.7"
+  },
+  {
+    "scrip": "BATAINDIA",
+    "expiry": "Nov-2020",
+    "lot": "550",
+    "price": "1367.70",
+    "nrml": "180743",
+    "mis": "72297.2",
+    "co_margin": "30089.4",
+    "bo_margin": "30089.4"
+  },
+  {
+    "scrip": "BATAINDIA",
+    "expiry": "Dec-2020",
+    "lot": "550",
+    "price": "1377.15",
+    "nrml": "181151",
+    "mis": "72460.4",
+    "co_margin": "30297.3",
+    "bo_margin": "30297.3"
+  },
+  {
+    "scrip": "BEL",
+    "expiry": "Oct-2020",
+    "lot": "7600",
+    "price": "91.55",
+    "nrml": "204958",
+    "mis": "81983.2",
+    "co_margin": "34789",
+    "bo_margin": "34789"
+  },
+  {
+    "scrip": "BEL",
+    "expiry": "Nov-2020",
+    "lot": "7600",
+    "price": "91.75",
+    "nrml": "205580",
+    "mis": "82232",
+    "co_margin": "34865",
+    "bo_margin": "34865"
+  },
+  {
+    "scrip": "BEL",
+    "expiry": "Dec-2020",
+    "lot": "7600",
+    "price": "92.40",
+    "nrml": "206454",
+    "mis": "82581.6",
+    "co_margin": "35112",
+    "bo_margin": "35112"
+  },
+  {
+    "scrip": "BERGEPAINT",
+    "expiry": "Oct-2020",
+    "lot": "1100",
+    "price": "605.90",
+    "nrml": "150890",
+    "mis": "60356",
+    "co_margin": "26659.6",
+    "bo_margin": "26659.6"
+  },
+  {
+    "scrip": "BERGEPAINT",
+    "expiry": "Nov-2020",
+    "lot": "1100",
+    "price": "607.20",
+    "nrml": "151283",
+    "mis": "60513.2",
+    "co_margin": "26716.8",
+    "bo_margin": "26716.8"
+  },
+  {
+    "scrip": "BERGEPAINT",
+    "expiry": "Dec-2020",
+    "lot": "1100",
+    "price": "611.40",
+    "nrml": "150726",
+    "mis": "60290.4",
+    "co_margin": "26901.6",
+    "bo_margin": "26901.6"
+  },
+  {
+    "scrip": "BHARATFORG",
+    "expiry": "Oct-2020",
+    "lot": "1500",
+    "price": "443.55",
+    "nrml": "217871",
+    "mis": "87148.4",
+    "co_margin": "26613",
+    "bo_margin": "26613"
+  },
+  {
+    "scrip": "BHARATFORG",
+    "expiry": "Nov-2020",
+    "lot": "1500",
+    "price": "444.50",
+    "nrml": "218482",
+    "mis": "87392.8",
+    "co_margin": "26670",
+    "bo_margin": "26670"
+  },
+  {
+    "scrip": "BHARATFORG",
+    "expiry": "Dec-2020",
+    "lot": "1500",
+    "price": "447.55",
+    "nrml": "219507",
+    "mis": "87802.8",
+    "co_margin": "26853",
+    "bo_margin": "26853"
+  },
+  {
+    "scrip": "BHARTIARTL",
+    "expiry": "Oct-2020",
+    "lot": "1851",
+    "price": "413.30",
+    "nrml": "222866",
+    "mis": "89146.4",
+    "co_margin": "30600.73",
+    "bo_margin": "30600.73"
+  },
+  {
+    "scrip": "BHARTIARTL",
+    "expiry": "Nov-2020",
+    "lot": "1851",
+    "price": "414.15",
+    "nrml": "223631",
+    "mis": "89452.4",
+    "co_margin": "30663.67",
+    "bo_margin": "30663.67"
+  },
+  {
+    "scrip": "BHARTIARTL",
+    "expiry": "Dec-2020",
+    "lot": "1851",
+    "price": "418.10",
+    "nrml": "224539",
+    "mis": "89815.6",
+    "co_margin": "30956.12",
+    "bo_margin": "30956.12"
+  },
+  {
+    "scrip": "BHEL",
+    "expiry": "Oct-2020",
+    "lot": "21000",
+    "price": "27.95",
+    "nrml": "263781",
+    "mis": "105512.4",
+    "co_margin": "23478",
+    "bo_margin": "23478"
+  },
+  {
+    "scrip": "BHEL",
+    "expiry": "Nov-2020",
+    "lot": "21000",
+    "price": "28.00",
+    "nrml": "263466",
+    "mis": "105386.4",
+    "co_margin": "23520",
+    "bo_margin": "23520"
+  },
+  {
+    "scrip": "BHEL",
+    "expiry": "Dec-2020",
+    "lot": "21000",
+    "price": "28.20",
+    "nrml": "266364",
+    "mis": "106545.6",
+    "co_margin": "23688",
+    "bo_margin": "23688"
+  },
+  {
+    "scrip": "BIOCON",
+    "expiry": "Oct-2020",
+    "lot": "2300",
+    "price": "446.75",
+    "nrml": "344772",
+    "mis": "137908.8",
+    "co_margin": "41101",
+    "bo_margin": "41101"
+  },
+  {
+    "scrip": "BIOCON",
+    "expiry": "Nov-2020",
+    "lot": "2300",
+    "price": "447.70",
+    "nrml": "345788",
+    "mis": "138315.2",
+    "co_margin": "41188.4",
+    "bo_margin": "41188.4"
+  },
+  {
+    "scrip": "BIOCON",
+    "expiry": "Dec-2020",
+    "lot": "2300",
+    "price": "450.80",
+    "nrml": "347272",
+    "mis": "138908.8",
+    "co_margin": "41473.6",
+    "bo_margin": "41473.6"
+  },
+  {
+    "scrip": "BOSCHLTD",
+    "expiry": "Oct-2020",
+    "lot": "50",
+    "price": "12076.75",
+    "nrml": "157202",
+    "mis": "62880.8",
+    "co_margin": "24153.5",
+    "bo_margin": "24153.5"
+  },
+  {
+    "scrip": "BOSCHLTD",
+    "expiry": "Nov-2020",
+    "lot": "50",
+    "price": "12102.10",
+    "nrml": "157679",
+    "mis": "63071.6",
+    "co_margin": "24204.2",
+    "bo_margin": "24204.2"
+  },
+  {
+    "scrip": "BOSCHLTD",
+    "expiry": "Dec-2020",
+    "lot": "50",
+    "price": "12185.50",
+    "nrml": "159271",
+    "mis": "63708.4",
+    "co_margin": "24371",
+    "bo_margin": "24371"
+  },
+  {
+    "scrip": "BPCL",
+    "expiry": "Oct-2020",
+    "lot": "1800",
+    "price": "332.95",
+    "nrml": "268834",
+    "mis": "107533.6",
+    "co_margin": "23972.4",
+    "bo_margin": "23972.4"
+  },
+  {
+    "scrip": "BPCL",
+    "expiry": "Nov-2020",
+    "lot": "1800",
+    "price": "333.65",
+    "nrml": "269635",
+    "mis": "107854",
+    "co_margin": "24022.8",
+    "bo_margin": "24022.8"
+  },
+  {
+    "scrip": "BPCL",
+    "expiry": "Dec-2020",
+    "lot": "1800",
+    "price": "335.95",
+    "nrml": "270477",
+    "mis": "108190.8",
+    "co_margin": "24188.4",
+    "bo_margin": "24188.4"
+  },
+  {
+    "scrip": "BRITANNIA",
+    "expiry": "Oct-2020",
+    "lot": "200",
+    "price": "3790.25",
+    "nrml": "178209",
+    "mis": "71283.6",
+    "co_margin": "30322",
+    "bo_margin": "30322"
+  },
+  {
+    "scrip": "BRITANNIA",
+    "expiry": "Nov-2020",
+    "lot": "200",
+    "price": "3798.20",
+    "nrml": "178773",
+    "mis": "71509.2",
+    "co_margin": "30385.6",
+    "bo_margin": "30385.6"
+  },
+  {
+    "scrip": "BRITANNIA",
+    "expiry": "Dec-2020",
+    "lot": "200",
+    "price": "3820.00",
+    "nrml": "179404",
+    "mis": "71761.6",
+    "co_margin": "30560",
+    "bo_margin": "30560"
+  },
+  {
+    "scrip": "CADILAHC",
+    "expiry": "Oct-2020",
+    "lot": "2200",
+    "price": "430.60",
+    "nrml": "216777",
+    "mis": "86710.8",
+    "co_margin": "37892.8",
+    "bo_margin": "37892.8"
+  },
+  {
+    "scrip": "CADILAHC",
+    "expiry": "Nov-2020",
+    "lot": "2200",
+    "price": "431.50",
+    "nrml": "217528",
+    "mis": "87011.2",
+    "co_margin": "37972",
+    "bo_margin": "37972"
+  },
+  {
+    "scrip": "CADILAHC",
+    "expiry": "Dec-2020",
+    "lot": "2200",
+    "price": "434.50",
+    "nrml": "218182",
+    "mis": "87272.8",
+    "co_margin": "38236",
+    "bo_margin": "38236"
+  },
+  {
+    "scrip": "CANBK",
+    "expiry": "Oct-2020",
+    "lot": "5000",
+    "price": "88.55",
+    "nrml": "190110",
+    "mis": "76044",
+    "co_margin": "17710",
+    "bo_margin": "17710"
+  },
+  {
+    "scrip": "CANBK",
+    "expiry": "Nov-2020",
+    "lot": "5000",
+    "price": "88.75",
+    "nrml": "190250",
+    "mis": "76100",
+    "co_margin": "17750",
+    "bo_margin": "17750"
+  },
+  {
+    "scrip": "CANBK",
+    "expiry": "Dec-2020",
+    "lot": "5000",
+    "price": "89.35",
+    "nrml": "190050",
+    "mis": "76020",
+    "co_margin": "17870",
+    "bo_margin": "17870"
+  },
+  {
+    "scrip": "CHOLAFIN",
+    "expiry": "Oct-2020",
+    "lot": "2500",
+    "price": "249.60",
+    "nrml": "237281",
+    "mis": "94912.4",
+    "co_margin": "31200",
+    "bo_margin": "31200"
+  },
+  {
+    "scrip": "CHOLAFIN",
+    "expiry": "Nov-2020",
+    "lot": "2500",
+    "price": "250.10",
+    "nrml": "237861",
+    "mis": "95144.4",
+    "co_margin": "31262.5",
+    "bo_margin": "31262.5"
+  },
+  {
+    "scrip": "CHOLAFIN",
+    "expiry": "Dec-2020",
+    "lot": "2500",
+    "price": "251.85",
+    "nrml": "238630",
+    "mis": "95452",
+    "co_margin": "31481.25",
+    "bo_margin": "31481.25"
+  },
+  {
+    "scrip": "CIPLA",
+    "expiry": "Oct-2020",
+    "lot": "1300",
+    "price": "781.60",
+    "nrml": "239085",
+    "mis": "95634",
+    "co_margin": "40643.2",
+    "bo_margin": "40643.2"
+  },
+  {
+    "scrip": "CIPLA",
+    "expiry": "Nov-2020",
+    "lot": "1300",
+    "price": "783.25",
+    "nrml": "239781",
+    "mis": "95912.4",
+    "co_margin": "40729",
+    "bo_margin": "40729"
+  },
+  {
+    "scrip": "CIPLA",
+    "expiry": "Dec-2020",
+    "lot": "1300",
+    "price": "788.65",
+    "nrml": "240384",
+    "mis": "96153.6",
+    "co_margin": "41009.8",
+    "bo_margin": "41009.8"
+  },
+  {
+    "scrip": "COALINDIA",
+    "expiry": "Oct-2020",
+    "lot": "3700",
+    "price": "110.55",
+    "nrml": "98660",
+    "mis": "39464",
+    "co_margin": "16361.4",
+    "bo_margin": "16361.4"
+  },
+  {
+    "scrip": "COALINDIA",
+    "expiry": "Nov-2020",
+    "lot": "3700",
+    "price": "110.80",
+    "nrml": "98984",
+    "mis": "39593.6",
+    "co_margin": "16398.4",
+    "bo_margin": "16398.4"
+  },
+  {
+    "scrip": "COALINDIA",
+    "expiry": "Dec-2020",
+    "lot": "3700",
+    "price": "111.45",
+    "nrml": "99310",
+    "mis": "39724",
+    "co_margin": "16494.6",
+    "bo_margin": "16494.6"
+  },
+  {
+    "scrip": "COLPAL",
+    "expiry": "Oct-2020",
+    "lot": "700",
+    "price": "1447.00",
+    "nrml": "212422",
+    "mis": "84968.8",
+    "co_margin": "40516",
+    "bo_margin": "40516"
+  },
+  {
+    "scrip": "COLPAL",
+    "expiry": "Nov-2020",
+    "lot": "700",
+    "price": "1450.05",
+    "nrml": "212981",
+    "mis": "85192.4",
+    "co_margin": "40601.4",
+    "bo_margin": "40601.4"
+  },
+  {
+    "scrip": "COLPAL",
+    "expiry": "Dec-2020",
+    "lot": "700",
+    "price": "1460.05",
+    "nrml": "213685",
+    "mis": "85474",
+    "co_margin": "40881.4",
+    "bo_margin": "40881.4"
+  },
+  {
+    "scrip": "CONCOR",
+    "expiry": "Oct-2020",
+    "lot": "1563",
+    "price": "364.90",
+    "nrml": "191744",
+    "mis": "76697.6",
+    "co_margin": "34220.32",
+    "bo_margin": "34220.32"
+  },
+  {
+    "scrip": "CONCOR",
+    "expiry": "Nov-2020",
+    "lot": "1563",
+    "price": "365.65",
+    "nrml": "192360",
+    "mis": "76944",
+    "co_margin": "34290.66",
+    "bo_margin": "34290.66"
+  },
+  {
+    "scrip": "CONCOR",
+    "expiry": "Dec-2020",
+    "lot": "1563",
+    "price": "368.20",
+    "nrml": "192869",
+    "mis": "77147.6",
+    "co_margin": "34529.8",
+    "bo_margin": "34529.8"
+  },
+  {
+    "scrip": "CUMMINSIND",
+    "expiry": "Oct-2020",
+    "lot": "1200",
+    "price": "437.85",
+    "nrml": "116018",
+    "mis": "46407.2",
+    "co_margin": "26271",
+    "bo_margin": "26271"
+  },
+  {
+    "scrip": "CUMMINSIND",
+    "expiry": "Nov-2020",
+    "lot": "1200",
+    "price": "438.75",
+    "nrml": "116083",
+    "mis": "46433.2",
+    "co_margin": "26325",
+    "bo_margin": "26325"
+  },
+  {
+    "scrip": "CUMMINSIND",
+    "expiry": "Dec-2020",
+    "lot": "1200",
+    "price": "441.80",
+    "nrml": "116517",
+    "mis": "46606.8",
+    "co_margin": "26508",
+    "bo_margin": "26508"
+  },
+  {
+    "scrip": "DABUR",
+    "expiry": "Oct-2020",
+    "lot": "1250",
+    "price": "517.00",
+    "nrml": "115830",
+    "mis": "46332",
+    "co_margin": "25850",
+    "bo_margin": "25850"
+  },
+  {
+    "scrip": "DABUR",
+    "expiry": "Nov-2020",
+    "lot": "1250",
+    "price": "518.10",
+    "nrml": "116118",
+    "mis": "46447.2",
+    "co_margin": "25905",
+    "bo_margin": "25905"
+  },
+  {
+    "scrip": "DABUR",
+    "expiry": "Dec-2020",
+    "lot": "1250",
+    "price": "521.65",
+    "nrml": "116297",
+    "mis": "46518.8",
+    "co_margin": "26082.5",
+    "bo_margin": "26082.5"
+  },
+  {
+    "scrip": "DIVISLAB",
+    "expiry": "Oct-2020",
+    "lot": "400",
+    "price": "3130.75",
+    "nrml": "281344",
+    "mis": "112537.6",
+    "co_margin": "50092",
+    "bo_margin": "50092"
+  },
+  {
+    "scrip": "DIVISLAB",
+    "expiry": "Nov-2020",
+    "lot": "400",
+    "price": "3137.35",
+    "nrml": "282176",
+    "mis": "112870.4",
+    "co_margin": "50197.6",
+    "bo_margin": "50197.6"
+  },
+  {
+    "scrip": "DIVISLAB",
+    "expiry": "Dec-2020",
+    "lot": "400",
+    "price": "3158.95",
+    "nrml": "283006",
+    "mis": "113202.4",
+    "co_margin": "50543.2",
+    "bo_margin": "50543.2"
+  },
+  {
+    "scrip": "DLF",
+    "expiry": "Oct-2020",
+    "lot": "3300",
+    "price": "159.10",
+    "nrml": "175742",
+    "mis": "70296.8",
+    "co_margin": "26251.5",
+    "bo_margin": "26251.5"
+  },
+  {
+    "scrip": "DLF",
+    "expiry": "Nov-2020",
+    "lot": "3300",
+    "price": "159.45",
+    "nrml": "176336",
+    "mis": "70534.4",
+    "co_margin": "26309.25",
+    "bo_margin": "26309.25"
+  },
+  {
+    "scrip": "DLF",
+    "expiry": "Dec-2020",
+    "lot": "3300",
+    "price": "160.55",
+    "nrml": "176802",
+    "mis": "70720.8",
+    "co_margin": "26490.75",
+    "bo_margin": "26490.75"
+  },
+  {
+    "scrip": "DRREDDY",
+    "expiry": "Oct-2020",
+    "lot": "250",
+    "price": "5123.55",
+    "nrml": "268422",
+    "mis": "107368.8",
+    "co_margin": "51235.5",
+    "bo_margin": "51235.5"
+  },
+  {
+    "scrip": "DRREDDY",
+    "expiry": "Nov-2020",
+    "lot": "250",
+    "price": "5134.30",
+    "nrml": "269225",
+    "mis": "107690",
+    "co_margin": "51343",
+    "bo_margin": "51343"
+  },
+  {
+    "scrip": "DRREDDY",
+    "expiry": "Dec-2020",
+    "lot": "250",
+    "price": "5169.70",
+    "nrml": "270477",
+    "mis": "108190.8",
+    "co_margin": "51697",
+    "bo_margin": "51697"
+  },
+  {
+    "scrip": "EICHERMOT",
+    "expiry": "Oct-2020",
+    "lot": "350",
+    "price": "2254.20",
+    "nrml": "209347",
+    "mis": "83738.8",
+    "co_margin": "31558.8",
+    "bo_margin": "31558.8"
+  },
+  {
+    "scrip": "EICHERMOT",
+    "expiry": "Nov-2020",
+    "lot": "350",
+    "price": "2258.95",
+    "nrml": "209927",
+    "mis": "83970.8",
+    "co_margin": "31625.3",
+    "bo_margin": "31625.3"
+  },
+  {
+    "scrip": "EICHERMOT",
+    "expiry": "Dec-2020",
+    "lot": "350",
+    "price": "2274.50",
+    "nrml": "209995",
+    "mis": "83998",
+    "co_margin": "31843",
+    "bo_margin": "31843"
+  },
+  {
+    "scrip": "ESCORTS",
+    "expiry": "Oct-2020",
+    "lot": "1100",
+    "price": "1232.55",
+    "nrml": "576136",
+    "mis": "230454.4",
+    "co_margin": "81348.3",
+    "bo_margin": "81348.3"
+  },
+  {
+    "scrip": "ESCORTS",
+    "expiry": "Nov-2020",
+    "lot": "1100",
+    "price": "1235.15",
+    "nrml": "575396",
+    "mis": "230158.4",
+    "co_margin": "81519.9",
+    "bo_margin": "81519.9"
+  },
+  {
+    "scrip": "ESCORTS",
+    "expiry": "Dec-2020",
+    "lot": "1100",
+    "price": "1243.65",
+    "nrml": "579656",
+    "mis": "231862.4",
+    "co_margin": "82080.9",
+    "bo_margin": "82080.9"
+  },
+  {
+    "scrip": "EXIDEIND",
+    "expiry": "Oct-2020",
+    "lot": "3600",
+    "price": "160.80",
+    "nrml": "152702",
+    "mis": "61080.8",
+    "co_margin": "23155.2",
+    "bo_margin": "23155.2"
+  },
+  {
+    "scrip": "EXIDEIND",
+    "expiry": "Nov-2020",
+    "lot": "3600",
+    "price": "161.15",
+    "nrml": "153112",
+    "mis": "61244.8",
+    "co_margin": "23205.6",
+    "bo_margin": "23205.6"
+  },
+  {
+    "scrip": "EXIDEIND",
+    "expiry": "Dec-2020",
+    "lot": "3600",
+    "price": "162.25",
+    "nrml": "153925",
+    "mis": "61570",
+    "co_margin": "23364",
+    "bo_margin": "23364"
+  },
+  {
+    "scrip": "FEDERALBNK",
+    "expiry": "Oct-2020",
+    "lot": "8500",
+    "price": "52.90",
+    "nrml": "146027",
+    "mis": "58410.8",
+    "co_margin": "17986",
+    "bo_margin": "17986"
+  },
+  {
+    "scrip": "FEDERALBNK",
+    "expiry": "Nov-2020",
+    "lot": "8500",
+    "price": "53.00",
+    "nrml": "146482",
+    "mis": "58592.8",
+    "co_margin": "18020",
+    "bo_margin": "18020"
+  },
+  {
+    "scrip": "FEDERALBNK",
+    "expiry": "Dec-2020",
+    "lot": "8500",
+    "price": "53.70",
+    "nrml": "147215",
+    "mis": "58886",
+    "co_margin": "18258",
+    "bo_margin": "18258"
+  },
+  {
+    "scrip": "GAIL",
+    "expiry": "Oct-2020",
+    "lot": "6100",
+    "price": "82.65",
+    "nrml": "208334",
+    "mis": "83333.6",
+    "co_margin": "20166.6",
+    "bo_margin": "20166.6"
+  },
+  {
+    "scrip": "GAIL",
+    "expiry": "Nov-2020",
+    "lot": "6100",
+    "price": "82.85",
+    "nrml": "208969",
+    "mis": "83587.6",
+    "co_margin": "20215.4",
+    "bo_margin": "20215.4"
+  },
+  {
+    "scrip": "GAIL",
+    "expiry": "Dec-2020",
+    "lot": "6100",
+    "price": "83.40",
+    "nrml": "209658",
+    "mis": "83863.2",
+    "co_margin": "20349.6",
+    "bo_margin": "20349.6"
+  },
+  {
+    "scrip": "GLENMARK",
+    "expiry": "Oct-2020",
+    "lot": "2300",
+    "price": "486.45",
+    "nrml": "451017",
+    "mis": "180406.8",
+    "co_margin": "44753.4",
+    "bo_margin": "44753.4"
+  },
+  {
+    "scrip": "GLENMARK",
+    "expiry": "Nov-2020",
+    "lot": "2300",
+    "price": "487.50",
+    "nrml": "452507",
+    "mis": "181002.8",
+    "co_margin": "44850",
+    "bo_margin": "44850"
+  },
+  {
+    "scrip": "GLENMARK",
+    "expiry": "Dec-2020",
+    "lot": "2300",
+    "price": "490.85",
+    "nrml": "454445",
+    "mis": "181778",
+    "co_margin": "45158.2",
+    "bo_margin": "45158.2"
+  },
+  {
+    "scrip": "GMRINFRA",
+    "expiry": "Oct-2020",
+    "lot": "45000",
+    "price": "23.70",
+    "nrml": "375513",
+    "mis": "150205.2",
+    "co_margin": "53325",
+    "bo_margin": "53325"
+  },
+  {
+    "scrip": "GMRINFRA",
+    "expiry": "Nov-2020",
+    "lot": "45000",
+    "price": "23.75",
+    "nrml": "377257",
+    "mis": "150902.8",
+    "co_margin": "53437.5",
+    "bo_margin": "53437.5"
+  },
+  {
+    "scrip": "GMRINFRA",
+    "expiry": "Dec-2020",
+    "lot": "45000",
+    "price": "23.90",
+    "nrml": "378157",
+    "mis": "151262.8",
+    "co_margin": "53775",
+    "bo_margin": "53775"
+  },
+  {
+    "scrip": "GODREJCP",
+    "expiry": "Oct-2020",
+    "lot": "1000",
+    "price": "699.90",
+    "nrml": "160776",
+    "mis": "64310.4",
+    "co_margin": "27996",
+    "bo_margin": "27996"
+  },
+  {
+    "scrip": "GODREJCP",
+    "expiry": "Nov-2020",
+    "lot": "1000",
+    "price": "701.35",
+    "nrml": "161303",
+    "mis": "64521.2",
+    "co_margin": "28054",
+    "bo_margin": "28054"
+  },
+  {
+    "scrip": "GODREJCP",
+    "expiry": "Dec-2020",
+    "lot": "1000",
+    "price": "706.20",
+    "nrml": "162109",
+    "mis": "64843.6",
+    "co_margin": "28248",
+    "bo_margin": "28248"
+  },
+  {
+    "scrip": "GODREJPROP",
+    "expiry": "Oct-2020",
+    "lot": "650",
+    "price": "873.75",
+    "nrml": "171295",
+    "mis": "0",
+    "co_margin": "28396.88",
+    "bo_margin": "28396.88"
+  },
+  {
+    "scrip": "GODREJPROP",
+    "expiry": "Nov-2020",
+    "lot": "650",
+    "price": "875.90",
+    "nrml": "171795",
+    "mis": "0",
+    "co_margin": "28466.75",
+    "bo_margin": "28466.75"
+  },
+  {
+    "scrip": "GODREJPROP",
+    "expiry": "Dec-2020",
+    "lot": "650",
+    "price": "881.60",
+    "nrml": "173014",
+    "mis": "0",
+    "co_margin": "28652",
+    "bo_margin": "28652"
+  },
+  {
+    "scrip": "GRASIM",
+    "expiry": "Oct-2020",
+    "lot": "950",
+    "price": "763.70",
+    "nrml": "300953",
+    "mis": "120381.2",
+    "co_margin": "29020.6",
+    "bo_margin": "29020.6"
+  },
+  {
+    "scrip": "GRASIM",
+    "expiry": "Nov-2020",
+    "lot": "950",
+    "price": "765.30",
+    "nrml": "302660",
+    "mis": "121064",
+    "co_margin": "29081.4",
+    "bo_margin": "29081.4"
+  },
+  {
+    "scrip": "GRASIM",
+    "expiry": "Dec-2020",
+    "lot": "950",
+    "price": "770.55",
+    "nrml": "302742",
+    "mis": "121096.8",
+    "co_margin": "29280.9",
+    "bo_margin": "29280.9"
+  },
+  {
+    "scrip": "HAVELLS",
+    "expiry": "Oct-2020",
+    "lot": "1000",
+    "price": "697.55",
+    "nrml": "159220",
+    "mis": "63688",
+    "co_margin": "27902",
+    "bo_margin": "27902"
+  },
+  {
+    "scrip": "HAVELLS",
+    "expiry": "Nov-2020",
+    "lot": "1000",
+    "price": "699.00",
+    "nrml": "159581",
+    "mis": "63832.4",
+    "co_margin": "27960",
+    "bo_margin": "27960"
+  },
+  {
+    "scrip": "HAVELLS",
+    "expiry": "Dec-2020",
+    "lot": "1000",
+    "price": "703.80",
+    "nrml": "160321",
+    "mis": "64128.4",
+    "co_margin": "28152",
+    "bo_margin": "28152"
+  },
+  {
+    "scrip": "HCLTECH",
+    "expiry": "Oct-2020",
+    "lot": "1400",
+    "price": "890.55",
+    "nrml": "301672",
+    "mis": "120668.8",
+    "co_margin": "49870.8",
+    "bo_margin": "49870.8"
+  },
+  {
+    "scrip": "HCLTECH",
+    "expiry": "Nov-2020",
+    "lot": "1400",
+    "price": "892.40",
+    "nrml": "302520",
+    "mis": "121008",
+    "co_margin": "49974.4",
+    "bo_margin": "49974.4"
+  },
+  {
+    "scrip": "HCLTECH",
+    "expiry": "Dec-2020",
+    "lot": "1400",
+    "price": "893.00",
+    "nrml": "303604",
+    "mis": "121441.6",
+    "co_margin": "50008",
+    "bo_margin": "50008"
+  },
+  {
+    "scrip": "HDFC",
+    "expiry": "Oct-2020",
+    "lot": "300",
+    "price": "1980.10",
+    "nrml": "152168",
+    "mis": "60867.2",
+    "co_margin": "17820.9",
+    "bo_margin": "17820.9"
+  },
+  {
+    "scrip": "HDFC",
+    "expiry": "Nov-2020",
+    "lot": "300",
+    "price": "1984.25",
+    "nrml": "152594",
+    "mis": "61037.6",
+    "co_margin": "17858.25",
+    "bo_margin": "17858.25"
+  },
+  {
+    "scrip": "HDFC",
+    "expiry": "Dec-2020",
+    "lot": "300",
+    "price": "1998.65",
+    "nrml": "153266",
+    "mis": "61306.4",
+    "co_margin": "17987.85",
+    "bo_margin": "17987.85"
+  },
+  {
+    "scrip": "HDFCBANK",
+    "expiry": "Oct-2020",
+    "lot": "550",
+    "price": "1211.60",
+    "nrml": "143516",
+    "mis": "57406.4",
+    "co_margin": "19991.4",
+    "bo_margin": "19991.4"
+  },
+  {
+    "scrip": "HDFCBANK",
+    "expiry": "Nov-2020",
+    "lot": "550",
+    "price": "1214.15",
+    "nrml": "143846",
+    "mis": "57538.4",
+    "co_margin": "20033.48",
+    "bo_margin": "20033.48"
+  },
+  {
+    "scrip": "HDFCBANK",
+    "expiry": "Dec-2020",
+    "lot": "550",
+    "price": "1210.95",
+    "nrml": "144268",
+    "mis": "57707.2",
+    "co_margin": "19980.68",
+    "bo_margin": "19980.68"
+  },
+  {
+    "scrip": "HDFCLIFE",
+    "expiry": "Oct-2020",
+    "lot": "1100",
+    "price": "572.40",
+    "nrml": "173549",
+    "mis": "0",
+    "co_margin": "25185.6",
+    "bo_margin": "25185.6"
+  },
+  {
+    "scrip": "HDFCLIFE",
+    "expiry": "Nov-2020",
+    "lot": "1100",
+    "price": "573.80",
+    "nrml": "174058",
+    "mis": "0",
+    "co_margin": "25247.2",
+    "bo_margin": "25247.2"
+  },
+  {
+    "scrip": "HDFCLIFE",
+    "expiry": "Dec-2020",
+    "lot": "1100",
+    "price": "577.55",
+    "nrml": "174330",
+    "mis": "0",
+    "co_margin": "25412.2",
+    "bo_margin": "25412.2"
+  },
+  {
+    "scrip": "HEROMOTOCO",
+    "expiry": "Oct-2020",
+    "lot": "300",
+    "price": "3311.20",
+    "nrml": "253029",
+    "mis": "101211.6",
+    "co_margin": "39734.4",
+    "bo_margin": "39734.4"
+  },
+  {
+    "scrip": "HEROMOTOCO",
+    "expiry": "Nov-2020",
+    "lot": "300",
+    "price": "3318.15",
+    "nrml": "253785",
+    "mis": "101514",
+    "co_margin": "39817.8",
+    "bo_margin": "39817.8"
+  },
+  {
+    "scrip": "HEROMOTOCO",
+    "expiry": "Dec-2020",
+    "lot": "300",
+    "price": "3341.00",
+    "nrml": "254448",
+    "mis": "101779.2",
+    "co_margin": "40092",
+    "bo_margin": "40092"
+  },
+  {
+    "scrip": "HINDALCO",
+    "expiry": "Oct-2020",
+    "lot": "4300",
+    "price": "174.20",
+    "nrml": "237887",
+    "mis": "95154.8",
+    "co_margin": "29962.4",
+    "bo_margin": "29962.4"
+  },
+  {
+    "scrip": "HINDALCO",
+    "expiry": "Nov-2020",
+    "lot": "4300",
+    "price": "174.60",
+    "nrml": "238623",
+    "mis": "95449.2",
+    "co_margin": "30031.2",
+    "bo_margin": "30031.2"
+  },
+  {
+    "scrip": "HINDALCO",
+    "expiry": "Dec-2020",
+    "lot": "4300",
+    "price": "176.30",
+    "nrml": "239570",
+    "mis": "95828",
+    "co_margin": "30323.6",
+    "bo_margin": "30323.6"
+  },
+  {
+    "scrip": "HINDPETRO",
+    "expiry": "Oct-2020",
+    "lot": "2700",
+    "price": "168.60",
+    "nrml": "159835",
+    "mis": "63934",
+    "co_margin": "18208.8",
+    "bo_margin": "18208.8"
+  },
+  {
+    "scrip": "HINDPETRO",
+    "expiry": "Nov-2020",
+    "lot": "2700",
+    "price": "168.95",
+    "nrml": "160315",
+    "mis": "64126",
+    "co_margin": "18246.6",
+    "bo_margin": "18246.6"
+  },
+  {
+    "scrip": "HINDPETRO",
+    "expiry": "Dec-2020",
+    "lot": "2700",
+    "price": "169.40",
+    "nrml": "160893",
+    "mis": "64357.2",
+    "co_margin": "18295.2",
+    "bo_margin": "18295.2"
+  },
+  {
+    "scrip": "HINDUNILVR",
+    "expiry": "Oct-2020",
+    "lot": "300",
+    "price": "2158.40",
+    "nrml": "129388",
+    "mis": "51755.2",
+    "co_margin": "19425.6",
+    "bo_margin": "19425.6"
+  },
+  {
+    "scrip": "HINDUNILVR",
+    "expiry": "Nov-2020",
+    "lot": "300",
+    "price": "2162.95",
+    "nrml": "129797",
+    "mis": "51918.8",
+    "co_margin": "19466.55",
+    "bo_margin": "19466.55"
+  },
+  {
+    "scrip": "HINDUNILVR",
+    "expiry": "Dec-2020",
+    "lot": "300",
+    "price": "2177.85",
+    "nrml": "130211",
+    "mis": "52084.4",
+    "co_margin": "19600.65",
+    "bo_margin": "19600.65"
+  },
+  {
+    "scrip": "IBULHSGFIN",
+    "expiry": "Oct-2020",
+    "lot": "3100",
+    "price": "155.30",
+    "nrml": "280333",
+    "mis": "112133.2",
+    "co_margin": "19257.2",
+    "bo_margin": "19257.2"
+  },
+  {
+    "scrip": "IBULHSGFIN",
+    "expiry": "Nov-2020",
+    "lot": "3100",
+    "price": "155.65",
+    "nrml": "281259",
+    "mis": "112503.6",
+    "co_margin": "19300.6",
+    "bo_margin": "19300.6"
+  },
+  {
+    "scrip": "IBULHSGFIN",
+    "expiry": "Dec-2020",
+    "lot": "3100",
+    "price": "156.55",
+    "nrml": "281867",
+    "mis": "112746.8",
+    "co_margin": "19412.2",
+    "bo_margin": "19412.2"
+  },
+  {
+    "scrip": "ICICIBANK",
+    "expiry": "Oct-2020",
+    "lot": "1375",
+    "price": "406.85",
+    "nrml": "164130",
+    "mis": "65652",
+    "co_margin": "16782.56",
+    "bo_margin": "16782.56"
+  },
+  {
+    "scrip": "ICICIBANK",
+    "expiry": "Nov-2020",
+    "lot": "1375",
+    "price": "407.70",
+    "nrml": "164619",
+    "mis": "65847.6",
+    "co_margin": "16817.63",
+    "bo_margin": "16817.63"
+  },
+  {
+    "scrip": "ICICIBANK",
+    "expiry": "Dec-2020",
+    "lot": "1375",
+    "price": "409.80",
+    "nrml": "165231",
+    "mis": "66092.4",
+    "co_margin": "16904.25",
+    "bo_margin": "16904.25"
+  },
+  {
+    "scrip": "ICICIPRULI",
+    "expiry": "Oct-2020",
+    "lot": "1500",
+    "price": "425.20",
+    "nrml": "215113",
+    "mis": "86045.2",
+    "co_margin": "25512",
+    "bo_margin": "25512"
+  },
+  {
+    "scrip": "ICICIPRULI",
+    "expiry": "Nov-2020",
+    "lot": "1500",
+    "price": "426.10",
+    "nrml": "215706",
+    "mis": "86282.4",
+    "co_margin": "25566",
+    "bo_margin": "25566"
+  },
+  {
+    "scrip": "ICICIPRULI",
+    "expiry": "Dec-2020",
+    "lot": "1500",
+    "price": "429.05",
+    "nrml": "216899",
+    "mis": "86759.6",
+    "co_margin": "25743",
+    "bo_margin": "25743"
+  },
+  {
+    "scrip": "IDEA",
+    "expiry": "Oct-2020",
+    "lot": "140000",
+    "price": "8.40",
+    "nrml": "866880",
+    "mis": "346752",
+    "co_margin": "294000",
+    "bo_margin": "294000"
+  },
+  {
+    "scrip": "IDEA",
+    "expiry": "Nov-2020",
+    "lot": "140000",
+    "price": "8.40",
+    "nrml": "868210",
+    "mis": "347284",
+    "co_margin": "294000",
+    "bo_margin": "294000"
+  },
+  {
+    "scrip": "IDEA",
+    "expiry": "Dec-2020",
+    "lot": "140000",
+    "price": "8.50",
+    "nrml": "880565",
+    "mis": "352226",
+    "co_margin": "297500",
+    "bo_margin": "297500"
+  },
+  {
+    "scrip": "IDFCFIRSTB",
+    "expiry": "Oct-2020",
+    "lot": "19000",
+    "price": "31.25",
+    "nrml": "281394",
+    "mis": "112557.6",
+    "co_margin": "23750",
+    "bo_margin": "23750"
+  },
+  {
+    "scrip": "IDFCFIRSTB",
+    "expiry": "Nov-2020",
+    "lot": "19000",
+    "price": "31.30",
+    "nrml": "282055",
+    "mis": "112822",
+    "co_margin": "23788",
+    "bo_margin": "23788"
+  },
+  {
+    "scrip": "IDFCFIRSTB",
+    "expiry": "Dec-2020",
+    "lot": "19000",
+    "price": "30.95",
+    "nrml": "282938",
+    "mis": "113175.2",
+    "co_margin": "23522",
+    "bo_margin": "23522"
+  },
+  {
+    "scrip": "IGL",
+    "expiry": "Oct-2020",
+    "lot": "1375",
+    "price": "373.15",
+    "nrml": "121498",
+    "mis": "48599.2",
+    "co_margin": "20523.25",
+    "bo_margin": "20523.25"
+  },
+  {
+    "scrip": "IGL",
+    "expiry": "Nov-2020",
+    "lot": "1375",
+    "price": "373.95",
+    "nrml": "121880",
+    "mis": "48752",
+    "co_margin": "20567.25",
+    "bo_margin": "20567.25"
+  },
+  {
+    "scrip": "IGL",
+    "expiry": "Dec-2020",
+    "lot": "1375",
+    "price": "376.50",
+    "nrml": "122320",
+    "mis": "48928",
+    "co_margin": "20707.5",
+    "bo_margin": "20707.5"
+  },
+  {
+    "scrip": "INDIGO",
+    "expiry": "Oct-2020",
+    "lot": "500",
+    "price": "1342.75",
+    "nrml": "192027",
+    "mis": "76810.8",
+    "co_margin": "40282.5",
+    "bo_margin": "40282.5"
+  },
+  {
+    "scrip": "INDIGO",
+    "expiry": "Nov-2020",
+    "lot": "500",
+    "price": "1345.55",
+    "nrml": "192553",
+    "mis": "77021.2",
+    "co_margin": "40366.5",
+    "bo_margin": "40366.5"
+  },
+  {
+    "scrip": "INDIGO",
+    "expiry": "Dec-2020",
+    "lot": "500",
+    "price": "1354.85",
+    "nrml": "193155",
+    "mis": "77262",
+    "co_margin": "40645.5",
+    "bo_margin": "40645.5"
+  },
+  {
+    "scrip": "INDUSINDBK",
+    "expiry": "Oct-2020",
+    "lot": "800",
+    "price": "622.70",
+    "nrml": "253365",
+    "mis": "101346",
+    "co_margin": "19926.4",
+    "bo_margin": "19926.4"
+  },
+  {
+    "scrip": "INDUSINDBK",
+    "expiry": "Nov-2020",
+    "lot": "800",
+    "price": "624.05",
+    "nrml": "254134",
+    "mis": "101653.6",
+    "co_margin": "19969.6",
+    "bo_margin": "19969.6"
+  },
+  {
+    "scrip": "INDUSINDBK",
+    "expiry": "Dec-2020",
+    "lot": "800",
+    "price": "632.00",
+    "nrml": "255216",
+    "mis": "102086.4",
+    "co_margin": "20224",
+    "bo_margin": "20224"
+  },
+  {
+    "scrip": "INFRATEL",
+    "expiry": "Oct-2020",
+    "lot": "2800",
+    "price": "189.55",
+    "nrml": "186099",
+    "mis": "74439.6",
+    "co_margin": "21229.6",
+    "bo_margin": "21229.6"
+  },
+  {
+    "scrip": "INFRATEL",
+    "expiry": "Nov-2020",
+    "lot": "2800",
+    "price": "189.95",
+    "nrml": "186515",
+    "mis": "74606",
+    "co_margin": "21274.4",
+    "bo_margin": "21274.4"
+  },
+  {
+    "scrip": "INFRATEL",
+    "expiry": "Dec-2020",
+    "lot": "2800",
+    "price": "191.30",
+    "nrml": "187053",
+    "mis": "74821.2",
+    "co_margin": "21425.6",
+    "bo_margin": "21425.6"
+  },
+  {
+    "scrip": "INFY",
+    "expiry": "Oct-2020",
+    "lot": "1200",
+    "price": "1137.15",
+    "nrml": "328209",
+    "mis": "131283.6",
+    "co_margin": "54583.2",
+    "bo_margin": "54583.2"
+  },
+  {
+    "scrip": "INFY",
+    "expiry": "Nov-2020",
+    "lot": "1200",
+    "price": "1139.50",
+    "nrml": "329184",
+    "mis": "131673.6",
+    "co_margin": "54696",
+    "bo_margin": "54696"
+  },
+  {
+    "scrip": "INFY",
+    "expiry": "Dec-2020",
+    "lot": "1200",
+    "price": "1135.95",
+    "nrml": "330276",
+    "mis": "132110.4",
+    "co_margin": "54525.6",
+    "bo_margin": "54525.6"
+  },
+  {
+    "scrip": "IOC",
+    "expiry": "Oct-2020",
+    "lot": "5700",
+    "price": "74.65",
+    "nrml": "96650",
+    "mis": "38660",
+    "co_margin": "17020.2",
+    "bo_margin": "17020.2"
+  },
+  {
+    "scrip": "IOC",
+    "expiry": "Nov-2020",
+    "lot": "5700",
+    "price": "74.80",
+    "nrml": "96918",
+    "mis": "38767.2",
+    "co_margin": "17054.4",
+    "bo_margin": "17054.4"
+  },
+  {
+    "scrip": "IOC",
+    "expiry": "Dec-2020",
+    "lot": "5700",
+    "price": "75.20",
+    "nrml": "97233",
+    "mis": "38893.2",
+    "co_margin": "17145.6",
+    "bo_margin": "17145.6"
+  },
+  {
+    "scrip": "ITC",
+    "expiry": "Oct-2020",
+    "lot": "3200",
+    "price": "167.80",
+    "nrml": "118972",
+    "mis": "47588.8",
+    "co_margin": "16108.8",
+    "bo_margin": "16108.8"
+  },
+  {
+    "scrip": "ITC",
+    "expiry": "Nov-2020",
+    "lot": "3200",
+    "price": "168.15",
+    "nrml": "119338",
+    "mis": "47735.2",
+    "co_margin": "16142.4",
+    "bo_margin": "16142.4"
+  },
+  {
+    "scrip": "ITC",
+    "expiry": "Dec-2020",
+    "lot": "3200",
+    "price": "169.85",
+    "nrml": "119812",
+    "mis": "47924.8",
+    "co_margin": "16305.6",
+    "bo_margin": "16305.6"
+  },
+  {
+    "scrip": "JINDALSTEL",
+    "expiry": "Oct-2020",
+    "lot": "5000",
+    "price": "190.15",
+    "nrml": "529925",
+    "mis": "211970",
+    "co_margin": "38030",
+    "bo_margin": "38030"
+  },
+  {
+    "scrip": "JINDALSTEL",
+    "expiry": "Nov-2020",
+    "lot": "5000",
+    "price": "190.55",
+    "nrml": "533287",
+    "mis": "213314.8",
+    "co_margin": "38110",
+    "bo_margin": "38110"
+  },
+  {
+    "scrip": "JINDALSTEL",
+    "expiry": "Dec-2020",
+    "lot": "5000",
+    "price": "191.90",
+    "nrml": "536206",
+    "mis": "214482.4",
+    "co_margin": "38380",
+    "bo_margin": "38380"
+  },
+  {
+    "scrip": "JSWSTEEL",
+    "expiry": "Oct-2020",
+    "lot": "2700",
+    "price": "290.70",
+    "nrml": "229359",
+    "mis": "91743.6",
+    "co_margin": "31395.6",
+    "bo_margin": "31395.6"
+  },
+  {
+    "scrip": "JSWSTEEL",
+    "expiry": "Nov-2020",
+    "lot": "2700",
+    "price": "291.30",
+    "nrml": "230070",
+    "mis": "92028",
+    "co_margin": "31460.4",
+    "bo_margin": "31460.4"
+  },
+  {
+    "scrip": "JSWSTEEL",
+    "expiry": "Dec-2020",
+    "lot": "2700",
+    "price": "293.30",
+    "nrml": "230566",
+    "mis": "92226.4",
+    "co_margin": "31676.4",
+    "bo_margin": "31676.4"
+  },
+  {
+    "scrip": "JUBLFOOD",
+    "expiry": "Oct-2020",
+    "lot": "500",
+    "price": "2315.30",
+    "nrml": "479544",
+    "mis": "191817.6",
+    "co_margin": "46306",
+    "bo_margin": "46306"
+  },
+  {
+    "scrip": "JUBLFOOD",
+    "expiry": "Nov-2020",
+    "lot": "500",
+    "price": "2320.20",
+    "nrml": "480866",
+    "mis": "192346.4",
+    "co_margin": "46404",
+    "bo_margin": "46404"
+  },
+  {
+    "scrip": "JUBLFOOD",
+    "expiry": "Dec-2020",
+    "lot": "500",
+    "price": "2336.15",
+    "nrml": "482930",
+    "mis": "193172",
+    "co_margin": "46723",
+    "bo_margin": "46723"
+  },
+  {
+    "scrip": "KOTAKBANK",
+    "expiry": "Oct-2020",
+    "lot": "400",
+    "price": "1353.50",
+    "nrml": "153343",
+    "mis": "61337.2",
+    "co_margin": "21656",
+    "bo_margin": "21656"
+  },
+  {
+    "scrip": "KOTAKBANK",
+    "expiry": "Nov-2020",
+    "lot": "400",
+    "price": "1356.35",
+    "nrml": "153708",
+    "mis": "61483.2",
+    "co_margin": "21701.6",
+    "bo_margin": "21701.6"
+  },
+  {
+    "scrip": "KOTAKBANK",
+    "expiry": "Dec-2020",
+    "lot": "400",
+    "price": "1350.70",
+    "nrml": "154128",
+    "mis": "61651.2",
+    "co_margin": "21611.2",
+    "bo_margin": "21611.2"
+  },
+  {
+    "scrip": "L&TFH",
+    "expiry": "Oct-2020",
+    "lot": "6800",
+    "price": "62.80",
+    "nrml": "144477",
+    "mis": "57790.8",
+    "co_margin": "21352",
+    "bo_margin": "21352"
+  },
+  {
+    "scrip": "L&TFH",
+    "expiry": "Nov-2020",
+    "lot": "6800",
+    "price": "62.95",
+    "nrml": "144933",
+    "mis": "57973.2",
+    "co_margin": "21403",
+    "bo_margin": "21403"
+  },
+  {
+    "scrip": "L&TFH",
+    "expiry": "Dec-2020",
+    "lot": "6800",
+    "price": "63.35",
+    "nrml": "145088",
+    "mis": "58035.2",
+    "co_margin": "21539",
+    "bo_margin": "21539"
+  },
+  {
+    "scrip": "LICHSGFIN",
+    "expiry": "Oct-2020",
+    "lot": "2000",
+    "price": "286.50",
+    "nrml": "179885",
+    "mis": "71954",
+    "co_margin": "22920",
+    "bo_margin": "22920"
+  },
+  {
+    "scrip": "LICHSGFIN",
+    "expiry": "Nov-2020",
+    "lot": "2000",
+    "price": "287.10",
+    "nrml": "180400",
+    "mis": "72160",
+    "co_margin": "22968",
+    "bo_margin": "22968"
+  },
+  {
+    "scrip": "LICHSGFIN",
+    "expiry": "Dec-2020",
+    "lot": "2000",
+    "price": "289.25",
+    "nrml": "181140",
+    "mis": "72456",
+    "co_margin": "23140",
+    "bo_margin": "23140"
+  },
+  {
+    "scrip": "LT",
+    "expiry": "Oct-2020",
+    "lot": "550",
+    "price": "915.30",
+    "nrml": "112641",
+    "mis": "45056.4",
+    "co_margin": "20136.6",
+    "bo_margin": "20136.6"
+  },
+  {
+    "scrip": "LT",
+    "expiry": "Nov-2020",
+    "lot": "550",
+    "price": "917.25",
+    "nrml": "112958",
+    "mis": "45183.2",
+    "co_margin": "20179.5",
+    "bo_margin": "20179.5"
+  },
+  {
+    "scrip": "LT",
+    "expiry": "Dec-2020",
+    "lot": "550",
+    "price": "924.55",
+    "nrml": "113393",
+    "mis": "45357.2",
+    "co_margin": "20340.1",
+    "bo_margin": "20340.1"
+  },
+  {
+    "scrip": "LUPIN",
+    "expiry": "Oct-2020",
+    "lot": "850",
+    "price": "1036.30",
+    "nrml": "216090",
+    "mis": "86436",
+    "co_margin": "35234.2",
+    "bo_margin": "35234.2"
+  },
+  {
+    "scrip": "LUPIN",
+    "expiry": "Nov-2020",
+    "lot": "850",
+    "price": "1038.50",
+    "nrml": "216738",
+    "mis": "86695.2",
+    "co_margin": "35309",
+    "bo_margin": "35309"
+  },
+  {
+    "scrip": "LUPIN",
+    "expiry": "Dec-2020",
+    "lot": "850",
+    "price": "1045.65",
+    "nrml": "217395",
+    "mis": "86958",
+    "co_margin": "35552.1",
+    "bo_margin": "35552.1"
+  },
+  {
+    "scrip": "M&M",
+    "expiry": "Oct-2020",
+    "lot": "1400",
+    "price": "623.90",
+    "nrml": "265711",
+    "mis": "106284.4",
+    "co_margin": "34938.4",
+    "bo_margin": "34938.4"
+  },
+  {
+    "scrip": "M&M",
+    "expiry": "Nov-2020",
+    "lot": "1400",
+    "price": "625.25",
+    "nrml": "266639",
+    "mis": "106655.6",
+    "co_margin": "35014",
+    "bo_margin": "35014"
+  },
+  {
+    "scrip": "M&M",
+    "expiry": "Dec-2020",
+    "lot": "1400",
+    "price": "629.40",
+    "nrml": "267580",
+    "mis": "107032",
+    "co_margin": "35246.4",
+    "bo_margin": "35246.4"
+  },
+  {
+    "scrip": "M&MFIN",
+    "expiry": "Oct-2020",
+    "lot": "3444",
+    "price": "129.55",
+    "nrml": "167184",
+    "mis": "66873.6",
+    "co_margin": "17846.81",
+    "bo_margin": "17846.81"
+  },
+  {
+    "scrip": "M&MFIN",
+    "expiry": "Nov-2020",
+    "lot": "3444",
+    "price": "129.85",
+    "nrml": "167649",
+    "mis": "67059.6",
+    "co_margin": "17888.14",
+    "bo_margin": "17888.14"
+  },
+  {
+    "scrip": "M&MFIN",
+    "expiry": "Dec-2020",
+    "lot": "3444",
+    "price": "131.25",
+    "nrml": "168386",
+    "mis": "67354.4",
+    "co_margin": "18081",
+    "bo_margin": "18081"
+  },
+  {
+    "scrip": "MANAPPURAM",
+    "expiry": "Oct-2020",
+    "lot": "6000",
+    "price": "166.50",
+    "nrml": "355635",
+    "mis": "142254",
+    "co_margin": "59940",
+    "bo_margin": "59940"
+  },
+  {
+    "scrip": "MANAPPURAM",
+    "expiry": "Nov-2020",
+    "lot": "6000",
+    "price": "166.85",
+    "nrml": "356668",
+    "mis": "142667.2",
+    "co_margin": "60066",
+    "bo_margin": "60066"
+  },
+  {
+    "scrip": "MANAPPURAM",
+    "expiry": "Dec-2020",
+    "lot": "6000",
+    "price": "168.00",
+    "nrml": "358068",
+    "mis": "143227.2",
+    "co_margin": "60480",
+    "bo_margin": "60480"
+  },
+  {
+    "scrip": "MARICO",
+    "expiry": "Oct-2020",
+    "lot": "2000",
+    "price": "361.65",
+    "nrml": "130064",
+    "mis": "52025.6",
+    "co_margin": "36165",
+    "bo_margin": "36165"
+  },
+  {
+    "scrip": "MARICO",
+    "expiry": "Nov-2020",
+    "lot": "2000",
+    "price": "362.40",
+    "nrml": "130345",
+    "mis": "52138",
+    "co_margin": "36240",
+    "bo_margin": "36240"
+  },
+  {
+    "scrip": "MARICO",
+    "expiry": "Dec-2020",
+    "lot": "2000",
+    "price": "364.90",
+    "nrml": "131397",
+    "mis": "52558.8",
+    "co_margin": "36490",
+    "bo_margin": "36490"
+  },
+  {
+    "scrip": "MARUTI",
+    "expiry": "Oct-2020",
+    "lot": "100",
+    "price": "7003.35",
+    "nrml": "185865",
+    "mis": "74346",
+    "co_margin": "28013.4",
+    "bo_margin": "28013.4"
+  },
+  {
+    "scrip": "MARUTI",
+    "expiry": "Nov-2020",
+    "lot": "100",
+    "price": "7018.05",
+    "nrml": "186486",
+    "mis": "74594.4",
+    "co_margin": "28072.2",
+    "bo_margin": "28072.2"
+  },
+  {
+    "scrip": "MARUTI",
+    "expiry": "Dec-2020",
+    "lot": "100",
+    "price": "7066.45",
+    "nrml": "186973",
+    "mis": "74789.2",
+    "co_margin": "28265.8",
+    "bo_margin": "28265.8"
+  },
+  {
+    "scrip": "MCDOWELL-N",
+    "expiry": "Oct-2020",
+    "lot": "1250",
+    "price": "524.10",
+    "nrml": "156991",
+    "mis": "62796.4",
+    "co_margin": "39307.5",
+    "bo_margin": "39307.5"
+  },
+  {
+    "scrip": "MCDOWELL-N",
+    "expiry": "Nov-2020",
+    "lot": "1250",
+    "price": "525.20",
+    "nrml": "157500",
+    "mis": "63000",
+    "co_margin": "39390",
+    "bo_margin": "39390"
+  },
+  {
+    "scrip": "MCDOWELL-N",
+    "expiry": "Dec-2020",
+    "lot": "1250",
+    "price": "528.85",
+    "nrml": "157956",
+    "mis": "63182.4",
+    "co_margin": "39663.75",
+    "bo_margin": "39663.75"
+  },
+  {
+    "scrip": "MFSL",
+    "expiry": "Oct-2020",
+    "lot": "1300",
+    "price": "595.95",
+    "nrml": "280956",
+    "mis": "112382.4",
+    "co_margin": "38736.75",
+    "bo_margin": "38736.75"
+  },
+  {
+    "scrip": "MFSL",
+    "expiry": "Nov-2020",
+    "lot": "1300",
+    "price": "597.20",
+    "nrml": "281817",
+    "mis": "112726.8",
+    "co_margin": "38818",
+    "bo_margin": "38818"
+  },
+  {
+    "scrip": "MFSL",
+    "expiry": "Dec-2020",
+    "lot": "1300",
+    "price": "601.35",
+    "nrml": "283055",
+    "mis": "113222",
+    "co_margin": "39087.75",
+    "bo_margin": "39087.75"
+  },
+  {
+    "scrip": "MGL",
+    "expiry": "Oct-2020",
+    "lot": "600",
+    "price": "792.80",
+    "nrml": "116544",
+    "mis": "46617.6",
+    "co_margin": "23784",
+    "bo_margin": "23784"
+  },
+  {
+    "scrip": "MGL",
+    "expiry": "Nov-2020",
+    "lot": "600",
+    "price": "794.45",
+    "nrml": "116873",
+    "mis": "46749.2",
+    "co_margin": "23833.5",
+    "bo_margin": "23833.5"
+  },
+  {
+    "scrip": "MGL",
+    "expiry": "Dec-2020",
+    "lot": "600",
+    "price": "799.95",
+    "nrml": "117227",
+    "mis": "46890.8",
+    "co_margin": "23998.5",
+    "bo_margin": "23998.5"
+  },
+  {
+    "scrip": "MINDTREE",
+    "expiry": "Oct-2020",
+    "lot": "800",
+    "price": "1552.20",
+    "nrml": "464136",
+    "mis": "185654.4",
+    "co_margin": "62088",
+    "bo_margin": "62088"
+  },
+  {
+    "scrip": "MINDTREE",
+    "expiry": "Nov-2020",
+    "lot": "800",
+    "price": "1555.45",
+    "nrml": "465312",
+    "mis": "186124.8",
+    "co_margin": "62218",
+    "bo_margin": "62218"
+  },
+  {
+    "scrip": "MINDTREE",
+    "expiry": "Dec-2020",
+    "lot": "800",
+    "price": "1566.15",
+    "nrml": "462587",
+    "mis": "185034.8",
+    "co_margin": "62646",
+    "bo_margin": "62646"
+  },
+  {
+    "scrip": "MOTHERSUMI",
+    "expiry": "Oct-2020",
+    "lot": "7000",
+    "price": "110.55",
+    "nrml": "295830",
+    "mis": "118332",
+    "co_margin": "38692.5",
+    "bo_margin": "38692.5"
+  },
+  {
+    "scrip": "MOTHERSUMI",
+    "expiry": "Nov-2020",
+    "lot": "7000",
+    "price": "110.80",
+    "nrml": "296756",
+    "mis": "118702.4",
+    "co_margin": "38780",
+    "bo_margin": "38780"
+  },
+  {
+    "scrip": "MOTHERSUMI",
+    "expiry": "Dec-2020",
+    "lot": "7000",
+    "price": "111.55",
+    "nrml": "297956",
+    "mis": "119182.4",
+    "co_margin": "39042.5",
+    "bo_margin": "39042.5"
+  },
+  {
+    "scrip": "MRF",
+    "expiry": "Oct-2020",
+    "lot": "10",
+    "price": "58911.30",
+    "nrml": "117002",
+    "mis": "46800.8",
+    "co_margin": "23564.52",
+    "bo_margin": "23564.52"
+  },
+  {
+    "scrip": "MRF",
+    "expiry": "Nov-2020",
+    "lot": "10",
+    "price": "59034.90",
+    "nrml": "117254",
+    "mis": "46901.6",
+    "co_margin": "23613.96",
+    "bo_margin": "23613.96"
+  },
+  {
+    "scrip": "MRF",
+    "expiry": "Dec-2020",
+    "lot": "10",
+    "price": "59441.85",
+    "nrml": "117824",
+    "mis": "47129.6",
+    "co_margin": "23776.74",
+    "bo_margin": "23776.74"
+  },
+  {
+    "scrip": "MUTHOOTFIN",
+    "expiry": "Oct-2020",
+    "lot": "750",
+    "price": "1156.15",
+    "nrml": "263669",
+    "mis": "105467.6",
+    "co_margin": "52026.75",
+    "bo_margin": "52026.75"
+  },
+  {
+    "scrip": "MUTHOOTFIN",
+    "expiry": "Nov-2020",
+    "lot": "750",
+    "price": "1158.55",
+    "nrml": "264447",
+    "mis": "105778.8",
+    "co_margin": "52134.75",
+    "bo_margin": "52134.75"
+  },
+  {
+    "scrip": "MUTHOOTFIN",
+    "expiry": "Dec-2020",
+    "lot": "750",
+    "price": "1166.55",
+    "nrml": "264981",
+    "mis": "105992.4",
+    "co_margin": "52494.75",
+    "bo_margin": "52494.75"
+  },
+  {
+    "scrip": "NATIONALUM",
+    "expiry": "Oct-2020",
+    "lot": "17000",
+    "price": "29.80",
+    "nrml": "177900",
+    "mis": "71160",
+    "co_margin": "30396",
+    "bo_margin": "30396"
+  },
+  {
+    "scrip": "NATIONALUM",
+    "expiry": "Nov-2020",
+    "lot": "17000",
+    "price": "29.85",
+    "nrml": "178865",
+    "mis": "71546",
+    "co_margin": "30447",
+    "bo_margin": "30447"
+  },
+  {
+    "scrip": "NATIONALUM",
+    "expiry": "Dec-2020",
+    "lot": "17000",
+    "price": "30.05",
+    "nrml": "180089",
+    "mis": "72035.6",
+    "co_margin": "30651",
+    "bo_margin": "30651"
+  },
+  {
+    "scrip": "NAUKRI",
+    "expiry": "Oct-2020",
+    "lot": "250",
+    "price": "3741.20",
+    "nrml": "253349",
+    "mis": "0",
+    "co_margin": "37412",
+    "bo_margin": "37412"
+  },
+  {
+    "scrip": "NAUKRI",
+    "expiry": "Nov-2020",
+    "lot": "250",
+    "price": "3750.35",
+    "nrml": "254076",
+    "mis": "0",
+    "co_margin": "37503.5",
+    "bo_margin": "37503.5"
+  },
+  {
+    "scrip": "NAUKRI",
+    "expiry": "Dec-2020",
+    "lot": "250",
+    "price": "3774.90",
+    "nrml": "253923",
+    "mis": "0",
+    "co_margin": "37749",
+    "bo_margin": "37749"
+  },
+  {
+    "scrip": "NESTLEIND",
+    "expiry": "Oct-2020",
+    "lot": "50",
+    "price": "15674.80",
+    "nrml": "163568",
+    "mis": "65427.2",
+    "co_margin": "31349.6",
+    "bo_margin": "31349.6"
+  },
+  {
+    "scrip": "NESTLEIND",
+    "expiry": "Nov-2020",
+    "lot": "50",
+    "price": "15707.70",
+    "nrml": "164068",
+    "mis": "65627.2",
+    "co_margin": "31415.4",
+    "bo_margin": "31415.4"
+  },
+  {
+    "scrip": "NESTLEIND",
+    "expiry": "Dec-2020",
+    "lot": "50",
+    "price": "15816.00",
+    "nrml": "164673",
+    "mis": "65869.2",
+    "co_margin": "31632",
+    "bo_margin": "31632"
+  },
+  {
+    "scrip": "NIFTY",
+    "expiry": "Oct-2020",
+    "lot": "75",
+    "price": "11982.25",
+    "nrml": "146628",
+    "mis": "43988.4",
+    "co_margin": "8986.69",
+    "bo_margin": "8986.69"
+  },
+  {
+    "scrip": "NIFTY",
+    "expiry": "Nov-2020",
+    "lot": "75",
+    "price": "12005.30",
+    "nrml": "147047",
+    "mis": "44114.1",
+    "co_margin": "9003.98",
+    "bo_margin": "9003.98"
+  },
+  {
+    "scrip": "NIFTY",
+    "expiry": "Dec-2020",
+    "lot": "75",
+    "price": "12013.55",
+    "nrml": "147540",
+    "mis": "44262",
+    "co_margin": "9010.16",
+    "bo_margin": "9010.16"
+  },
+  {
+    "scrip": "NMDC",
+    "expiry": "Oct-2020",
+    "lot": "6700",
+    "price": "79.95",
+    "nrml": "170262",
+    "mis": "68104.8",
+    "co_margin": "21426.6",
+    "bo_margin": "21426.6"
+  },
+  {
+    "scrip": "NMDC",
+    "expiry": "Nov-2020",
+    "lot": "6700",
+    "price": "80.15",
+    "nrml": "170687",
+    "mis": "68274.8",
+    "co_margin": "21480.2",
+    "bo_margin": "21480.2"
+  },
+  {
+    "scrip": "NMDC",
+    "expiry": "Dec-2020",
+    "lot": "6700",
+    "price": "80.70",
+    "nrml": "171442",
+    "mis": "68576.8",
+    "co_margin": "21627.6",
+    "bo_margin": "21627.6"
+  },
+  {
+    "scrip": "NTPC",
+    "expiry": "Oct-2020",
+    "lot": "5700",
+    "price": "79.10",
+    "nrml": "112733",
+    "mis": "45093.2",
+    "co_margin": "18034.8",
+    "bo_margin": "18034.8"
+  },
+  {
+    "scrip": "NTPC",
+    "expiry": "Nov-2020",
+    "lot": "5700",
+    "price": "79.30",
+    "nrml": "113068",
+    "mis": "45227.2",
+    "co_margin": "18080.4",
+    "bo_margin": "18080.4"
+  },
+  {
+    "scrip": "NTPC",
+    "expiry": "Dec-2020",
+    "lot": "5700",
+    "price": "80.15",
+    "nrml": "113469",
+    "mis": "45387.6",
+    "co_margin": "18274.2",
+    "bo_margin": "18274.2"
+  },
+  {
+    "scrip": "ONGC",
+    "expiry": "Oct-2020",
+    "lot": "7700",
+    "price": "67.00",
+    "nrml": "271159",
+    "mis": "108463.6",
+    "co_margin": "20636",
+    "bo_margin": "20636"
+  },
+  {
+    "scrip": "ONGC",
+    "expiry": "Nov-2020",
+    "lot": "7700",
+    "price": "67.15",
+    "nrml": "271956",
+    "mis": "108782.4",
+    "co_margin": "20682.2",
+    "bo_margin": "20682.2"
+  },
+  {
+    "scrip": "ONGC",
+    "expiry": "Dec-2020",
+    "lot": "7700",
+    "price": "67.60",
+    "nrml": "272961",
+    "mis": "109184.4",
+    "co_margin": "20820.8",
+    "bo_margin": "20820.8"
+  },
+  {
+    "scrip": "PAGEIND",
+    "expiry": "Oct-2020",
+    "lot": "30",
+    "price": "20679.80",
+    "nrml": "154450",
+    "mis": "61780",
+    "co_margin": "31019.7",
+    "bo_margin": "31019.7"
+  },
+  {
+    "scrip": "PAGEIND",
+    "expiry": "Nov-2020",
+    "lot": "30",
+    "price": "20723.20",
+    "nrml": "155029",
+    "mis": "62011.6",
+    "co_margin": "31084.8",
+    "bo_margin": "31084.8"
+  },
+  {
+    "scrip": "PAGEIND",
+    "expiry": "Dec-2020",
+    "lot": "30",
+    "price": "20866.05",
+    "nrml": "155574",
+    "mis": "62229.6",
+    "co_margin": "31299.08",
+    "bo_margin": "31299.08"
+  },
+  {
+    "scrip": "PEL",
+    "expiry": "Oct-2020",
+    "lot": "550",
+    "price": "1299.85",
+    "nrml": "348635",
+    "mis": "139454",
+    "co_margin": "35745.88",
+    "bo_margin": "35745.88"
+  },
+  {
+    "scrip": "PEL",
+    "expiry": "Nov-2020",
+    "lot": "550",
+    "price": "1302.60",
+    "nrml": "349646",
+    "mis": "139858.4",
+    "co_margin": "35821.5",
+    "bo_margin": "35821.5"
+  },
+  {
+    "scrip": "PEL",
+    "expiry": "Dec-2020",
+    "lot": "550",
+    "price": "1311.55",
+    "nrml": "350319",
+    "mis": "140127.6",
+    "co_margin": "36067.63",
+    "bo_margin": "36067.63"
+  },
+  {
+    "scrip": "PETRONET",
+    "expiry": "Oct-2020",
+    "lot": "3000",
+    "price": "210.20",
+    "nrml": "176213",
+    "mis": "70485.2",
+    "co_margin": "25224",
+    "bo_margin": "25224"
+  },
+  {
+    "scrip": "PETRONET",
+    "expiry": "Nov-2020",
+    "lot": "3000",
+    "price": "210.65",
+    "nrml": "176400",
+    "mis": "70560",
+    "co_margin": "25278",
+    "bo_margin": "25278"
+  },
+  {
+    "scrip": "PETRONET",
+    "expiry": "Dec-2020",
+    "lot": "3000",
+    "price": "212.10",
+    "nrml": "178041",
+    "mis": "71216.4",
+    "co_margin": "25452",
+    "bo_margin": "25452"
+  },
+  {
+    "scrip": "PFC",
+    "expiry": "Oct-2020",
+    "lot": "6200",
+    "price": "86.20",
+    "nrml": "147344",
+    "mis": "58937.6",
+    "co_margin": "21377.6",
+    "bo_margin": "21377.6"
+  },
+  {
+    "scrip": "PFC",
+    "expiry": "Nov-2020",
+    "lot": "6200",
+    "price": "86.40",
+    "nrml": "147792",
+    "mis": "59116.8",
+    "co_margin": "21427.2",
+    "bo_margin": "21427.2"
+  },
+  {
+    "scrip": "PFC",
+    "expiry": "Dec-2020",
+    "lot": "6200",
+    "price": "87.00",
+    "nrml": "148017",
+    "mis": "59206.8",
+    "co_margin": "21576",
+    "bo_margin": "21576"
+  },
+  {
+    "scrip": "PIDILITIND",
+    "expiry": "Oct-2020",
+    "lot": "500",
+    "price": "1486.85",
+    "nrml": "158747",
+    "mis": "63498.8",
+    "co_margin": "29737",
+    "bo_margin": "29737"
+  },
+  {
+    "scrip": "PIDILITIND",
+    "expiry": "Nov-2020",
+    "lot": "500",
+    "price": "1490.00",
+    "nrml": "159270",
+    "mis": "63708",
+    "co_margin": "29800",
+    "bo_margin": "29800"
+  },
+  {
+    "scrip": "PIDILITIND",
+    "expiry": "Dec-2020",
+    "lot": "500",
+    "price": "1500.25",
+    "nrml": "159567",
+    "mis": "63826.8",
+    "co_margin": "30005",
+    "bo_margin": "30005"
+  },
+  {
+    "scrip": "PNB",
+    "expiry": "Oct-2020",
+    "lot": "14000",
+    "price": "28.15",
+    "nrml": "168507",
+    "mis": "67402.8",
+    "co_margin": "15764",
+    "bo_margin": "15764"
+  },
+  {
+    "scrip": "PNB",
+    "expiry": "Nov-2020",
+    "lot": "14000",
+    "price": "28.20",
+    "nrml": "169001",
+    "mis": "67600.4",
+    "co_margin": "15792",
+    "bo_margin": "15792"
+  },
+  {
+    "scrip": "PNB",
+    "expiry": "Dec-2020",
+    "lot": "14000",
+    "price": "28.40",
+    "nrml": "168759",
+    "mis": "67503.6",
+    "co_margin": "15904",
+    "bo_margin": "15904"
+  },
+  {
+    "scrip": "POWERGRID",
+    "expiry": "Oct-2020",
+    "lot": "4000",
+    "price": "157.05",
+    "nrml": "129565",
+    "mis": "51826",
+    "co_margin": "25128",
+    "bo_margin": "25128"
+  },
+  {
+    "scrip": "POWERGRID",
+    "expiry": "Nov-2020",
+    "lot": "4000",
+    "price": "157.40",
+    "nrml": "129955",
+    "mis": "51982",
+    "co_margin": "25184",
+    "bo_margin": "25184"
+  },
+  {
+    "scrip": "POWERGRID",
+    "expiry": "Dec-2020",
+    "lot": "4000",
+    "price": "158.50",
+    "nrml": "130404",
+    "mis": "52161.6",
+    "co_margin": "25360",
+    "bo_margin": "25360"
+  },
+  {
+    "scrip": "PVR",
+    "expiry": "Oct-2020",
+    "lot": "407",
+    "price": "1245.75",
+    "nrml": "219980",
+    "mis": "87992",
+    "co_margin": "25351.01",
+    "bo_margin": "25351.01"
+  },
+  {
+    "scrip": "PVR",
+    "expiry": "Nov-2020",
+    "lot": "407",
+    "price": "1248.35",
+    "nrml": "219458",
+    "mis": "87783.2",
+    "co_margin": "25403.92",
+    "bo_margin": "25403.92"
+  },
+  {
+    "scrip": "PVR",
+    "expiry": "Dec-2020",
+    "lot": "407",
+    "price": "1215.05",
+    "nrml": "219503",
+    "mis": "87801.2",
+    "co_margin": "24726.27",
+    "bo_margin": "24726.27"
+  },
+  {
+    "scrip": "RAMCOCEM",
+    "expiry": "Oct-2020",
+    "lot": "850",
+    "price": "769.60",
+    "nrml": "147619",
+    "mis": "59047.6",
+    "co_margin": "39249.6",
+    "bo_margin": "39249.6"
+  },
+  {
+    "scrip": "RAMCOCEM",
+    "expiry": "Nov-2020",
+    "lot": "850",
+    "price": "771.20",
+    "nrml": "147934",
+    "mis": "59173.6",
+    "co_margin": "39331.2",
+    "bo_margin": "39331.2"
+  },
+  {
+    "scrip": "RAMCOCEM",
+    "expiry": "Dec-2020",
+    "lot": "850",
+    "price": "776.50",
+    "nrml": "147683",
+    "mis": "59073.2",
+    "co_margin": "39601.5",
+    "bo_margin": "39601.5"
+  },
+  {
+    "scrip": "RBLBANK",
+    "expiry": "Oct-2020",
+    "lot": "2600",
+    "price": "172.90",
+    "nrml": "184059",
+    "mis": "73623.6",
+    "co_margin": "22477",
+    "bo_margin": "22477"
+  },
+  {
+    "scrip": "RBLBANK",
+    "expiry": "Nov-2020",
+    "lot": "2600",
+    "price": "173.30",
+    "nrml": "184529",
+    "mis": "73811.6",
+    "co_margin": "22529",
+    "bo_margin": "22529"
+  },
+  {
+    "scrip": "RBLBANK",
+    "expiry": "Dec-2020",
+    "lot": "2600",
+    "price": "172.00",
+    "nrml": "185094",
+    "mis": "74037.6",
+    "co_margin": "22360",
+    "bo_margin": "22360"
+  },
+  {
+    "scrip": "RECLTD",
+    "expiry": "Oct-2020",
+    "lot": "6000",
+    "price": "95.45",
+    "nrml": "149355",
+    "mis": "59742",
+    "co_margin": "22908",
+    "bo_margin": "22908"
+  },
+  {
+    "scrip": "RECLTD",
+    "expiry": "Nov-2020",
+    "lot": "6000",
+    "price": "95.65",
+    "nrml": "149838",
+    "mis": "59935.2",
+    "co_margin": "22956",
+    "bo_margin": "22956"
+  },
+  {
+    "scrip": "RECLTD",
+    "expiry": "Dec-2020",
+    "lot": "6000",
+    "price": "96.30",
+    "nrml": "150024",
+    "mis": "60009.6",
+    "co_margin": "23112",
+    "bo_margin": "23112"
+  },
+  {
+    "scrip": "RELIANCE",
+    "expiry": "Oct-2020",
+    "lot": "505",
+    "price": "2287.75",
+    "nrml": "293718",
+    "mis": "117487.2",
+    "co_margin": "46212.55",
+    "bo_margin": "46212.55"
+  },
+  {
+    "scrip": "RELIANCE",
+    "expiry": "Nov-2020",
+    "lot": "505",
+    "price": "2292.55",
+    "nrml": "294621",
+    "mis": "117848.4",
+    "co_margin": "46309.51",
+    "bo_margin": "46309.51"
+  },
+  {
+    "scrip": "RELIANCE",
+    "expiry": "Dec-2020",
+    "lot": "505",
+    "price": "2305.20",
+    "nrml": "295736",
+    "mis": "118294.4",
+    "co_margin": "46565.04",
+    "bo_margin": "46565.04"
+  },
+  {
+    "scrip": "SAIL",
+    "expiry": "Oct-2020",
+    "lot": "19000",
+    "price": "32.95",
+    "nrml": "282150",
+    "mis": "112860",
+    "co_margin": "25042",
+    "bo_margin": "25042"
+  },
+  {
+    "scrip": "SAIL",
+    "expiry": "Nov-2020",
+    "lot": "19000",
+    "price": "33.00",
+    "nrml": "285646",
+    "mis": "114258.4",
+    "co_margin": "25080",
+    "bo_margin": "25080"
+  },
+  {
+    "scrip": "SAIL",
+    "expiry": "Dec-2020",
+    "lot": "19000",
+    "price": "33.25",
+    "nrml": "285874",
+    "mis": "114349.6",
+    "co_margin": "25270",
+    "bo_margin": "25270"
+  },
+  {
+    "scrip": "SBILIFE",
+    "expiry": "Oct-2020",
+    "lot": "750",
+    "price": "810.70",
+    "nrml": "152265",
+    "mis": "0",
+    "co_margin": "24321",
+    "bo_margin": "24321"
+  },
+  {
+    "scrip": "SBILIFE",
+    "expiry": "Nov-2020",
+    "lot": "750",
+    "price": "812.70",
+    "nrml": "152747",
+    "mis": "0",
+    "co_margin": "24381",
+    "bo_margin": "24381"
+  },
+  {
+    "scrip": "SBILIFE",
+    "expiry": "Dec-2020",
+    "lot": "750",
+    "price": "818.25",
+    "nrml": "153254",
+    "mis": "0",
+    "co_margin": "24547.5",
+    "bo_margin": "24547.5"
+  },
+  {
+    "scrip": "SBIN",
+    "expiry": "Oct-2020",
+    "lot": "3000",
+    "price": "200.05",
+    "nrml": "207014",
+    "mis": "82805.6",
+    "co_margin": "18004.5",
+    "bo_margin": "18004.5"
+  },
+  {
+    "scrip": "SBIN",
+    "expiry": "Nov-2020",
+    "lot": "3000",
+    "price": "200.50",
+    "nrml": "207657",
+    "mis": "83062.8",
+    "co_margin": "18045",
+    "bo_margin": "18045"
+  },
+  {
+    "scrip": "SBIN",
+    "expiry": "Dec-2020",
+    "lot": "3000",
+    "price": "202.10",
+    "nrml": "208416",
+    "mis": "83366.4",
+    "co_margin": "18189",
+    "bo_margin": "18189"
+  },
+  {
+    "scrip": "SHREECEM",
+    "expiry": "Oct-2020",
+    "lot": "50",
+    "price": "21138.25",
+    "nrml": "242561",
+    "mis": "97024.4",
+    "co_margin": "52845.63",
+    "bo_margin": "52845.63"
+  },
+  {
+    "scrip": "SHREECEM",
+    "expiry": "Nov-2020",
+    "lot": "50",
+    "price": "21182.60",
+    "nrml": "243600",
+    "mis": "97440",
+    "co_margin": "52956.5",
+    "bo_margin": "52956.5"
+  },
+  {
+    "scrip": "SHREECEM",
+    "expiry": "Dec-2020",
+    "lot": "50",
+    "price": "21328.65",
+    "nrml": "239566",
+    "mis": "95826.4",
+    "co_margin": "53321.63",
+    "bo_margin": "53321.63"
+  },
+  {
+    "scrip": "SIEMENS",
+    "expiry": "Oct-2020",
+    "lot": "550",
+    "price": "1234.95",
+    "nrml": "145569",
+    "mis": "58227.6",
+    "co_margin": "27168.9",
+    "bo_margin": "27168.9"
+  },
+  {
+    "scrip": "SIEMENS",
+    "expiry": "Nov-2020",
+    "lot": "550",
+    "price": "1237.55",
+    "nrml": "146021",
+    "mis": "58408.4",
+    "co_margin": "27226.1",
+    "bo_margin": "27226.1"
+  },
+  {
+    "scrip": "SIEMENS",
+    "expiry": "Dec-2020",
+    "lot": "550",
+    "price": "1246.05",
+    "nrml": "146375",
+    "mis": "58550",
+    "co_margin": "27413.1",
+    "bo_margin": "27413.1"
+  },
+  {
+    "scrip": "SRF",
+    "expiry": "Oct-2020",
+    "lot": "250",
+    "price": "4372.25",
+    "nrml": "294796",
+    "mis": "117918.4",
+    "co_margin": "54653.13",
+    "bo_margin": "54653.13"
+  },
+  {
+    "scrip": "SRF",
+    "expiry": "Nov-2020",
+    "lot": "250",
+    "price": "4381.45",
+    "nrml": "295670",
+    "mis": "118268",
+    "co_margin": "54768.13",
+    "bo_margin": "54768.13"
+  },
+  {
+    "scrip": "SRF",
+    "expiry": "Dec-2020",
+    "lot": "250",
+    "price": "4411.65",
+    "nrml": "293589",
+    "mis": "117435.6",
+    "co_margin": "55145.63",
+    "bo_margin": "55145.63"
+  },
+  {
+    "scrip": "SRTRANSFIN",
+    "expiry": "Oct-2020",
+    "lot": "667",
+    "price": "665.35",
+    "nrml": "166510",
+    "mis": "66604",
+    "co_margin": "17751.54",
+    "bo_margin": "17751.54"
+  },
+  {
+    "scrip": "SRTRANSFIN",
+    "expiry": "Nov-2020",
+    "lot": "667",
+    "price": "666.70",
+    "nrml": "166938",
+    "mis": "66775.2",
+    "co_margin": "17787.56",
+    "bo_margin": "17787.56"
+  },
+  {
+    "scrip": "SRTRANSFIN",
+    "expiry": "Dec-2020",
+    "lot": "667",
+    "price": "668.65",
+    "nrml": "167510",
+    "mis": "67004",
+    "co_margin": "17839.58",
+    "bo_margin": "17839.58"
+  },
+  {
+    "scrip": "SUNPHARMA",
+    "expiry": "Oct-2020",
+    "lot": "1400",
+    "price": "502.25",
+    "nrml": "169256",
+    "mis": "67702.4",
+    "co_margin": "28126",
+    "bo_margin": "28126"
+  },
+  {
+    "scrip": "SUNPHARMA",
+    "expiry": "Nov-2020",
+    "lot": "1400",
+    "price": "503.30",
+    "nrml": "169791",
+    "mis": "67916.4",
+    "co_margin": "28184.8",
+    "bo_margin": "28184.8"
+  },
+  {
+    "scrip": "SUNPHARMA",
+    "expiry": "Dec-2020",
+    "lot": "1400",
+    "price": "507.50",
+    "nrml": "170467",
+    "mis": "68186.8",
+    "co_margin": "28420",
+    "bo_margin": "28420"
+  },
+  {
+    "scrip": "SUNTV",
+    "expiry": "Oct-2020",
+    "lot": "1500",
+    "price": "439.50",
+    "nrml": "179424",
+    "mis": "71769.6",
+    "co_margin": "32962.5",
+    "bo_margin": "32962.5"
+  },
+  {
+    "scrip": "SUNTV",
+    "expiry": "Nov-2020",
+    "lot": "1500",
+    "price": "440.40",
+    "nrml": "179939",
+    "mis": "71975.6",
+    "co_margin": "33030",
+    "bo_margin": "33030"
+  },
+  {
+    "scrip": "SUNTV",
+    "expiry": "Dec-2020",
+    "lot": "1500",
+    "price": "443.45",
+    "nrml": "180270",
+    "mis": "72108",
+    "co_margin": "33258.75",
+    "bo_margin": "33258.75"
+  },
+  {
+    "scrip": "TATACHEM",
+    "expiry": "Oct-2020",
+    "lot": "2000",
+    "price": "318.10",
+    "nrml": "142047",
+    "mis": "56818.8",
+    "co_margin": "25448",
+    "bo_margin": "25448"
+  },
+  {
+    "scrip": "TATACHEM",
+    "expiry": "Nov-2020",
+    "lot": "2000",
+    "price": "318.75",
+    "nrml": "142512",
+    "mis": "57004.8",
+    "co_margin": "25500",
+    "bo_margin": "25500"
+  },
+  {
+    "scrip": "TATACHEM",
+    "expiry": "Dec-2020",
+    "lot": "2000",
+    "price": "321.00",
+    "nrml": "142990",
+    "mis": "57196",
+    "co_margin": "25680",
+    "bo_margin": "25680"
+  },
+  {
+    "scrip": "TATACONSUM",
+    "expiry": "Oct-2020",
+    "lot": "2700",
+    "price": "489.85",
+    "nrml": "359314",
+    "mis": "143725.6",
+    "co_margin": "52903.8",
+    "bo_margin": "52903.8"
+  },
+  {
+    "scrip": "TATACONSUM",
+    "expiry": "Nov-2020",
+    "lot": "2700",
+    "price": "490.90",
+    "nrml": "360406",
+    "mis": "144162.4",
+    "co_margin": "53017.2",
+    "bo_margin": "53017.2"
+  },
+  {
+    "scrip": "TATACONSUM",
+    "expiry": "Dec-2020",
+    "lot": "2700",
+    "price": "494.25",
+    "nrml": "360787",
+    "mis": "144314.8",
+    "co_margin": "53379",
+    "bo_margin": "53379"
+  },
+  {
+    "scrip": "TATAMOTORS",
+    "expiry": "Oct-2020",
+    "lot": "5700",
+    "price": "130.70",
+    "nrml": "307949",
+    "mis": "123179.6",
+    "co_margin": "29799.6",
+    "bo_margin": "29799.6"
+  },
+  {
+    "scrip": "TATAMOTORS",
+    "expiry": "Nov-2020",
+    "lot": "5700",
+    "price": "131.00",
+    "nrml": "308915",
+    "mis": "123566",
+    "co_margin": "29868",
+    "bo_margin": "29868"
+  },
+  {
+    "scrip": "TATAMOTORS",
+    "expiry": "Dec-2020",
+    "lot": "5700",
+    "price": "131.75",
+    "nrml": "310126",
+    "mis": "124050.4",
+    "co_margin": "30039",
+    "bo_margin": "30039"
+  },
+  {
+    "scrip": "TATAPOWER",
+    "expiry": "Oct-2020",
+    "lot": "13500",
+    "price": "52.95",
+    "nrml": "198247",
+    "mis": "79298.8",
+    "co_margin": "28593",
+    "bo_margin": "28593"
+  },
+  {
+    "scrip": "TATAPOWER",
+    "expiry": "Nov-2020",
+    "lot": "13500",
+    "price": "53.05",
+    "nrml": "198905",
+    "mis": "79562",
+    "co_margin": "28647",
+    "bo_margin": "28647"
+  },
+  {
+    "scrip": "TATAPOWER",
+    "expiry": "Dec-2020",
+    "lot": "13500",
+    "price": "53.45",
+    "nrml": "199604",
+    "mis": "79841.6",
+    "co_margin": "28863",
+    "bo_margin": "28863"
+  },
+  {
+    "scrip": "TATASTEEL",
+    "expiry": "Oct-2020",
+    "lot": "1700",
+    "price": "375.60",
+    "nrml": "199283",
+    "mis": "79713.2",
+    "co_margin": "19155.6",
+    "bo_margin": "19155.6"
+  },
+  {
+    "scrip": "TATASTEEL",
+    "expiry": "Nov-2020",
+    "lot": "1700",
+    "price": "376.40",
+    "nrml": "199869",
+    "mis": "79947.6",
+    "co_margin": "19196.4",
+    "bo_margin": "19196.4"
+  },
+  {
+    "scrip": "TATASTEEL",
+    "expiry": "Dec-2020",
+    "lot": "1700",
+    "price": "379.25",
+    "nrml": "200589",
+    "mis": "80235.6",
+    "co_margin": "19341.75",
+    "bo_margin": "19341.75"
+  },
+  {
+    "scrip": "TCS",
+    "expiry": "Oct-2020",
+    "lot": "300",
+    "price": "2809.95",
+    "nrml": "182770",
+    "mis": "73108",
+    "co_margin": "33719.4",
+    "bo_margin": "33719.4"
+  },
+  {
+    "scrip": "TCS",
+    "expiry": "Nov-2020",
+    "lot": "300",
+    "price": "2815.80",
+    "nrml": "183337",
+    "mis": "73334.8",
+    "co_margin": "33789.6",
+    "bo_margin": "33789.6"
+  },
+  {
+    "scrip": "TCS",
+    "expiry": "Dec-2020",
+    "lot": "300",
+    "price": "2813.80",
+    "nrml": "183801",
+    "mis": "73520.4",
+    "co_margin": "33765.6",
+    "bo_margin": "33765.6"
+  },
+  {
+    "scrip": "TECHM",
+    "expiry": "Oct-2020",
+    "lot": "1200",
+    "price": "848.95",
+    "nrml": "250802",
+    "mis": "100320.8",
+    "co_margin": "40749.6",
+    "bo_margin": "40749.6"
+  },
+  {
+    "scrip": "TECHM",
+    "expiry": "Nov-2020",
+    "lot": "1200",
+    "price": "850.75",
+    "nrml": "251647",
+    "mis": "100658.8",
+    "co_margin": "40836",
+    "bo_margin": "40836"
+  },
+  {
+    "scrip": "TECHM",
+    "expiry": "Dec-2020",
+    "lot": "1200",
+    "price": "856.60",
+    "nrml": "252411",
+    "mis": "100964.4",
+    "co_margin": "41116.8",
+    "bo_margin": "41116.8"
+  },
+  {
+    "scrip": "TITAN",
+    "expiry": "Oct-2020",
+    "lot": "750",
+    "price": "1223.60",
+    "nrml": "230617",
+    "mis": "92246.8",
+    "co_margin": "36708",
+    "bo_margin": "36708"
+  },
+  {
+    "scrip": "TITAN",
+    "expiry": "Nov-2020",
+    "lot": "750",
+    "price": "1226.15",
+    "nrml": "231228",
+    "mis": "92491.2",
+    "co_margin": "36784.5",
+    "bo_margin": "36784.5"
+  },
+  {
+    "scrip": "TITAN",
+    "expiry": "Dec-2020",
+    "lot": "750",
+    "price": "1234.60",
+    "nrml": "232333",
+    "mis": "92933.2",
+    "co_margin": "37038",
+    "bo_margin": "37038"
+  },
+  {
+    "scrip": "TORNTPHARM",
+    "expiry": "Oct-2020",
+    "lot": "500",
+    "price": "2758.75",
+    "nrml": "334160",
+    "mis": "133664",
+    "co_margin": "68968.75",
+    "bo_margin": "68968.75"
+  },
+  {
+    "scrip": "TORNTPHARM",
+    "expiry": "Nov-2020",
+    "lot": "500",
+    "price": "2764.55",
+    "nrml": "335266",
+    "mis": "134106.4",
+    "co_margin": "69113.75",
+    "bo_margin": "69113.75"
+  },
+  {
+    "scrip": "TORNTPHARM",
+    "expiry": "Dec-2020",
+    "lot": "500",
+    "price": "2783.60",
+    "nrml": "336665",
+    "mis": "134666",
+    "co_margin": "69590",
+    "bo_margin": "69590"
+  },
+  {
+    "scrip": "TORNTPOWER",
+    "expiry": "Oct-2020",
+    "lot": "3000",
+    "price": "297.65",
+    "nrml": "197472",
+    "mis": "78988.8",
+    "co_margin": "44647.5",
+    "bo_margin": "44647.5"
+  },
+  {
+    "scrip": "TORNTPOWER",
+    "expiry": "Nov-2020",
+    "lot": "3000",
+    "price": "298.25",
+    "nrml": "198213",
+    "mis": "79285.2",
+    "co_margin": "44737.5",
+    "bo_margin": "44737.5"
+  },
+  {
+    "scrip": "TORNTPOWER",
+    "expiry": "Dec-2020",
+    "lot": "3000",
+    "price": "300.30",
+    "nrml": "199711",
+    "mis": "79884.4",
+    "co_margin": "45045",
+    "bo_margin": "45045"
+  },
+  {
+    "scrip": "TVSMOTOR",
+    "expiry": "Oct-2020",
+    "lot": "1400",
+    "price": "461.60",
+    "nrml": "164095",
+    "mis": "65638",
+    "co_margin": "38774.4",
+    "bo_margin": "38774.4"
+  },
+  {
+    "scrip": "TVSMOTOR",
+    "expiry": "Nov-2020",
+    "lot": "1400",
+    "price": "462.55",
+    "nrml": "164523",
+    "mis": "65809.2",
+    "co_margin": "38854.2",
+    "bo_margin": "38854.2"
+  },
+  {
+    "scrip": "TVSMOTOR",
+    "expiry": "Dec-2020",
+    "lot": "1400",
+    "price": "465.75",
+    "nrml": "164682",
+    "mis": "65872.8",
+    "co_margin": "39123",
+    "bo_margin": "39123"
+  },
+  {
+    "scrip": "UBL",
+    "expiry": "Oct-2020",
+    "lot": "700",
+    "price": "971.20",
+    "nrml": "157462",
+    "mis": "62984.8",
+    "co_margin": "27193.6",
+    "bo_margin": "27193.6"
+  },
+  {
+    "scrip": "UBL",
+    "expiry": "Nov-2020",
+    "lot": "700",
+    "price": "973.25",
+    "nrml": "157915",
+    "mis": "63166",
+    "co_margin": "27251",
+    "bo_margin": "27251"
+  },
+  {
+    "scrip": "UBL",
+    "expiry": "Dec-2020",
+    "lot": "700",
+    "price": "979.95",
+    "nrml": "158529",
+    "mis": "63411.6",
+    "co_margin": "27438.6",
+    "bo_margin": "27438.6"
+  },
+  {
+    "scrip": "ULTRACEMCO",
+    "expiry": "Oct-2020",
+    "lot": "200",
+    "price": "4443.50",
+    "nrml": "253703",
+    "mis": "101481.2",
+    "co_margin": "35548",
+    "bo_margin": "35548"
+  },
+  {
+    "scrip": "ULTRACEMCO",
+    "expiry": "Nov-2020",
+    "lot": "200",
+    "price": "4452.85",
+    "nrml": "254482",
+    "mis": "101792.8",
+    "co_margin": "35622.8",
+    "bo_margin": "35622.8"
+  },
+  {
+    "scrip": "ULTRACEMCO",
+    "expiry": "Dec-2020",
+    "lot": "200",
+    "price": "4491.10",
+    "nrml": "255391",
+    "mis": "102156.4",
+    "co_margin": "35928.8",
+    "bo_margin": "35928.8"
+  },
+  {
+    "scrip": "UPL",
+    "expiry": "Oct-2020",
+    "lot": "1300",
+    "price": "510.95",
+    "nrml": "194474",
+    "mis": "77789.6",
+    "co_margin": "26569.4",
+    "bo_margin": "26569.4"
+  },
+  {
+    "scrip": "UPL",
+    "expiry": "Nov-2020",
+    "lot": "1300",
+    "price": "512.05",
+    "nrml": "195162",
+    "mis": "78064.8",
+    "co_margin": "26626.6",
+    "bo_margin": "26626.6"
+  },
+  {
+    "scrip": "UPL",
+    "expiry": "Dec-2020",
+    "lot": "1300",
+    "price": "515.55",
+    "nrml": "195617",
+    "mis": "78246.8",
+    "co_margin": "26808.6",
+    "bo_margin": "26808.6"
+  },
+  {
+    "scrip": "VEDL",
+    "expiry": "Oct-2020",
+    "lot": "6200",
+    "price": "98.45",
+    "nrml": "303764",
+    "mis": "121505.6",
+    "co_margin": "24415.6",
+    "bo_margin": "24415.6"
+  },
+  {
+    "scrip": "VEDL",
+    "expiry": "Nov-2020",
+    "lot": "6200",
+    "price": "98.65",
+    "nrml": "304781",
+    "mis": "121912.4",
+    "co_margin": "24465.2",
+    "bo_margin": "24465.2"
+  },
+  {
+    "scrip": "VEDL",
+    "expiry": "Dec-2020",
+    "lot": "6200",
+    "price": "98.95",
+    "nrml": "304889",
+    "mis": "121955.6",
+    "co_margin": "24539.6",
+    "bo_margin": "24539.6"
+  },
+  {
+    "scrip": "VOLTAS",
+    "expiry": "Oct-2020",
+    "lot": "1000",
+    "price": "672.40",
+    "nrml": "153393",
+    "mis": "61357.2",
+    "co_margin": "26896",
+    "bo_margin": "26896"
+  },
+  {
+    "scrip": "VOLTAS",
+    "expiry": "Nov-2020",
+    "lot": "1000",
+    "price": "673.80",
+    "nrml": "153797",
+    "mis": "61518.8",
+    "co_margin": "26952",
+    "bo_margin": "26952"
+  },
+  {
+    "scrip": "VOLTAS",
+    "expiry": "Dec-2020",
+    "lot": "1000",
+    "price": "678.45",
+    "nrml": "153990",
+    "mis": "61596",
+    "co_margin": "27138",
+    "bo_margin": "27138"
+  },
+  {
+    "scrip": "WIPRO",
+    "expiry": "Oct-2020",
+    "lot": "3200",
+    "price": "350.50",
+    "nrml": "281127",
+    "mis": "112450.8",
+    "co_margin": "44864",
+    "bo_margin": "44864"
+  },
+  {
+    "scrip": "WIPRO",
+    "expiry": "Nov-2020",
+    "lot": "3200",
+    "price": "351.25",
+    "nrml": "281908",
+    "mis": "112763.2",
+    "co_margin": "44960",
+    "bo_margin": "44960"
+  },
+  {
+    "scrip": "WIPRO",
+    "expiry": "Dec-2020",
+    "lot": "3200",
+    "price": "348.95",
+    "nrml": "282496",
+    "mis": "112998.4",
+    "co_margin": "44665.6",
+    "bo_margin": "44665.6"
+  },
+  {
+    "scrip": "ZEEL",
+    "expiry": "Oct-2020",
+    "lot": "3000",
+    "price": "186.20",
+    "nrml": "225481",
+    "mis": "90192.4",
+    "co_margin": "22344",
+    "bo_margin": "22344"
+  },
+  {
+    "scrip": "ZEEL",
+    "expiry": "Nov-2020",
+    "lot": "3000",
+    "price": "186.60",
+    "nrml": "226216",
+    "mis": "90486.4",
+    "co_margin": "22392",
+    "bo_margin": "22392"
+  },
+  {
+    "scrip": "ZEEL",
+    "expiry": "Dec-2020",
+    "lot": "3000",
+    "price": "187.90",
+    "nrml": "227003",
+    "mis": "90801.2",
+    "co_margin": "22548",
+    "bo_margin": "22548"
+  }
+]

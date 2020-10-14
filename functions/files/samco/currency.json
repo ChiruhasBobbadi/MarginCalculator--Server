@@ -1,0 +1,170 @@
+[
+  {
+    "scrip": "USDINR",
+    "expiry": "Oct-2020",
+    "lot": "1",
+    "price": "73.3350000",
+    "nrml": "2322",
+    "mis": "928.8"
+  },
+  {
+    "scrip": "USDINR",
+    "expiry": "Nov-2020",
+    "lot": "1",
+    "price": "73.4000000",
+    "nrml": "2330",
+    "mis": "932"
+  },
+  {
+    "scrip": "USDINR",
+    "expiry": "Dec-2020",
+    "lot": "1",
+    "price": "73.6000000",
+    "nrml": "2337",
+    "mis": "934.8"
+  },
+  {
+    "scrip": "JPYINR",
+    "expiry": "Oct-2020",
+    "lot": "1",
+    "price": "69.5425000",
+    "nrml": "3117",
+    "mis": "1246.8"
+  },
+  {
+    "scrip": "JPYINR",
+    "expiry": "Nov-2020",
+    "lot": "1",
+    "price": "69.6825000",
+    "nrml": "3127",
+    "mis": "1250.8"
+  },
+  {
+    "scrip": "JPYINR",
+    "expiry": "Dec-2020",
+    "lot": "1",
+    "price": "70.0850000",
+    "nrml": "3139",
+    "mis": "1255.6"
+  },
+  {
+    "scrip": "EURINR",
+    "expiry": "Oct-2020",
+    "lot": "1",
+    "price": "86.0450000",
+    "nrml": "3345",
+    "mis": "1338"
+  },
+  {
+    "scrip": "EURINR",
+    "expiry": "Nov-2020",
+    "lot": "1",
+    "price": "86.2425000",
+    "nrml": "3357",
+    "mis": "1342.8"
+  },
+  {
+    "scrip": "EURINR",
+    "expiry": "Dec-2020",
+    "lot": "1",
+    "price": "86.6975000",
+    "nrml": "3370",
+    "mis": "1348"
+  },
+  {
+    "scrip": "GBPINR",
+    "expiry": "Oct-2020",
+    "lot": "1",
+    "price": "95.1275000",
+    "nrml": "4597",
+    "mis": "1838.8"
+  },
+  {
+    "scrip": "GBPINR",
+    "expiry": "Nov-2020",
+    "lot": "1",
+    "price": "95.3125000",
+    "nrml": "4610",
+    "mis": "1844"
+  },
+  {
+    "scrip": "GBPINR",
+    "expiry": "Dec-2020",
+    "lot": "1",
+    "price": "95.6800000",
+    "nrml": "4626",
+    "mis": "1850.4"
+  },
+  {
+    "scrip": "USDJPY",
+    "expiry": "Oct-2020",
+    "lot": "1",
+    "price": "105.3500000",
+    "nrml": "2869",
+    "mis": "1147.6"
+  },
+  {
+    "scrip": "USDJPY",
+    "expiry": "Nov-2020",
+    "lot": "1",
+    "price": "105.3300000",
+    "nrml": "2869",
+    "mis": "1147.6"
+  },
+  {
+    "scrip": "USDJPY",
+    "expiry": "Dec-2020",
+    "lot": "1",
+    "price": "105.2800000",
+    "nrml": "2882",
+    "mis": "1152.8"
+  },
+  {
+    "scrip": "EURUSD",
+    "expiry": "Oct-2020",
+    "lot": "1",
+    "price": "1.1744000",
+    "nrml": "3232",
+    "mis": "1292.8"
+  },
+  {
+    "scrip": "EURUSD",
+    "expiry": "Nov-2020",
+    "lot": "1",
+    "price": "1.1749000",
+    "nrml": "3233",
+    "mis": "1293.2"
+  },
+  {
+    "scrip": "EURUSD",
+    "expiry": "Dec-2020",
+    "lot": "1",
+    "price": "1.1763000",
+    "nrml": "3207",
+    "mis": "1282.8"
+  },
+  {
+    "scrip": "GBPUSD",
+    "expiry": "Oct-2020",
+    "lot": "1",
+    "price": "1.2985000",
+    "nrml": "4810",
+    "mis": "1924"
+  },
+  {
+    "scrip": "GBPUSD",
+    "expiry": "Nov-2020",
+    "lot": "1",
+    "price": "1.2986000",
+    "nrml": "4811",
+    "mis": "1924.4"
+  },
+  {
+    "scrip": "GBPUSD",
+    "expiry": "Dec-2020",
+    "lot": "1",
+    "price": "1.2990000",
+    "nrml": "4823",
+    "mis": "1929.2"
+  }
+]

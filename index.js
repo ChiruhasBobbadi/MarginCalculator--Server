@@ -7,9 +7,12 @@ const future = require('./functions/util/zerodha/future');
 const currency = require('./functions/util/zerodha/currency');
 const astha = require('./functions/util/astha/controller');
 const mmi = require('./functions/util/mmi/scrapeMMI');
+const samco = require('./functions/util/samco/controller');
+const wisdom = require('./functions/util/wisdom_cap/controller');
 const path = require('path');
 const alice = require('./functions/util/alice/controller');
-
+const samcoRoute = require('./functions/routes/samco');
+const wisdomRoute = require('./functions/routes/wisdom_cap');
 const cron = require("node-cron");
 
 const helmet = require('helmet');
@@ -30,34 +33,30 @@ cron.schedule("10 10 * * *", () => {
 
 // futures
 cron.schedule("52 8 * * *", () => {
-    console.log(`zerodha future function is called `);
     future.call();
-     console.log(`astha future function is called `);
     astha.futures();
-    console.log(`alice future function is called `);
-    alice.futures()
-
+    alice.futures();
+    samco.futures();
 }, {
     timezone: "Asia/Kolkata"
 });
 
 //currency
 cron.schedule("10 9 * * *", () => {
-    console.log(` Currency function is called `);
     currency.call();
     astha.currency();
     alice.currency();
-
+    samco.currency();
 }, {
     timezone: "Asia/Kolkata"
 });
 
 // equity
 cron.schedule("12 9 * * *", () => {
-    console.log(`astha equity function is called `);
     astha.equity();
-    console.log(`alice equity function is called `);
     alice.equity();
+    samco.equity();
+    wisdom.equity();
 }, {
     timezone: "Asia/Kolkata"
 });
@@ -84,6 +83,8 @@ app.use(helmet());
 app.use(zerodha);
 app.use('/astha', asthaRoutes);
 app.use('/alice',aliceRoute);
+app.use('/samco', samcoRoute);
+app.use('/wisdom', wisdomRoute);
 app.use('/mmi', (req, res) => res.sendFile(path.join(__dirname, "functions", "files", "mmi", "mmi.json")));
 app.use('/', (req, res) => {
     res.send("Hello friend")
