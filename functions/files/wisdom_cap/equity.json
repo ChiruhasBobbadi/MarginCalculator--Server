@@ -37,12 +37,12 @@
   {
     "tradingsymbol": "ASHOKLEY",
     "mis_multiplier": "20",
-    "nrml_multiplier": "1X"
+    "nrml_multiplier": "1"
   },
   {
     "tradingsymbol": "ASIANPAINT",
     "mis_multiplier": "47",
-    "nrml_multiplier": "1X"
+    "nrml_multiplier": "1"
   },
   {
     "tradingsymbol": "AUROPHARMA",
@@ -151,7 +151,7 @@
   },
   {
     "tradingsymbol": "CHOLAFIN",
-    "mis_multiplier": "20X",
+    "mis_multiplier": "20",
     "nrml_multiplier": "1"
   },
   {

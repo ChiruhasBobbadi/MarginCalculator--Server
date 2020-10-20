@@ -5,7 +5,7 @@ const path = require('path');
 
 
 module.exports.equity = () => {
-// const equity = ()=>{
+    //const equity = ()=>{
     let data = [];
     let test = [];
     request('https://wisdomcapital.in/equity-margin-requirements/', (error, response, html) => {
@@ -19,8 +19,8 @@ module.exports.equity = () => {
                         // for nrml+mis
                         test.push({
                             'tradingsymbol': data[0],
-                            'mis_multiplier': data[1].replace('x', ''),
-                            'nrml_multiplier': data[3].replace('x', '')
+                            'mis_multiplier': data[1].replace('x', '').replace('X', ''),
+                            'nrml_multiplier': data[3].replace('x', '').replace('X', '')
                         });
                         data = [];
                         data.push($(el).text().trim())
@@ -32,8 +32,8 @@ module.exports.equity = () => {
 
                 test.push({
                     'tradingsymbol': data[0],
-                    'mis_multiplier': data[1].replace('x', ''),
-                    'nrml_multiplier': data[3].replace('x', '')
+                    'mis_multiplier': data[1].replace('x', '').replace('X', ''),
+                    'nrml_multiplier': data[3].replace('x', '').replace('X', '')
                 });
 
                 let new_json = JSON.stringify(test);
@@ -53,6 +53,7 @@ module.exports.equity = () => {
 
 
 };
+
 
 
 
