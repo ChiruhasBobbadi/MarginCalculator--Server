@@ -1,1307 +1,1114 @@
 [
   {
     "scrip": "BANKNIFTY",
-    "expiry": "25-Jun-20",
-    "lot": "20",
-    "price": "21697",
-    "mis": "4000",
-    "op_mis": "4000",
-    "nrml": "103042"
+    "expiry": "31-Dec-20",
+    "lot": "25",
+    "price": "29542",
+    "mis": "39328",
+    "nrml": "157312"
   },
   {
     "scrip": "NIFTY",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "75",
-    "price": "10288",
-    "mis": "5000",
-    "op_mis": "5000",
-    "nrml": "142294"
+    "price": "13192",
+    "mis": "38364",
+    "nrml": "153454"
   },
   {
     "scrip": "ACC",
-    "expiry": "25-Jun-20",
-    "lot": "400",
-    "price": "1274",
-    "mis": "9780",
-    "op_mis": "9780",
-    "nrml": "97796"
+    "expiry": "31-Dec-20",
+    "lot": "500",
+    "price": "1724",
+    "mis": "44466",
+    "nrml": "177865"
   },
   {
     "scrip": "ADANIENT",
-    "expiry": "25-Jun-20",
-    "lot": "4000",
-    "price": "152",
-    "mis": "17228",
-    "op_mis": "17228",
-    "nrml": "172280"
+    "expiry": "31-Dec-20",
+    "lot": "2000",
+    "price": "449",
+    "mis": "72164",
+    "nrml": "288656"
   },
   {
     "scrip": "ADANIPORTS",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "2500",
-    "price": "350",
-    "mis": "21223",
-    "op_mis": "21223",
-    "nrml": "212225"
-  },
-  {
-    "scrip": "ADANIPOWER",
-    "expiry": "25-Jun-20",
-    "lot": "10000",
-    "price": "38",
-    "mis": "13350",
-    "op_mis": "13350",
-    "nrml": "133500"
+    "price": "439",
+    "mis": "95675",
+    "nrml": "382701"
   },
   {
     "scrip": "AMARAJABAT",
-    "expiry": "25-Jun-20",
-    "lot": "800",
-    "price": "675",
-    "mis": "11689",
-    "op_mis": "11689",
-    "nrml": "116888"
+    "expiry": "31-Dec-20",
+    "lot": "1000",
+    "price": "908",
+    "mis": "54482",
+    "nrml": "217927"
   },
   {
     "scrip": "AMBUJACEM",
-    "expiry": "25-Jun-20",
-    "lot": "2500",
-    "price": "191",
-    "mis": "10620",
-    "op_mis": "10620",
-    "nrml": "106200"
+    "expiry": "31-Dec-20",
+    "lot": "3000",
+    "price": "263",
+    "mis": "49965",
+    "nrml": "199859"
   },
   {
     "scrip": "APOLLOHOSP",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "500",
-    "price": "1373",
-    "mis": "18039",
-    "op_mis": "18039",
-    "nrml": "180385"
+    "price": "2396",
+    "mis": "81680",
+    "nrml": "326722"
   },
   {
     "scrip": "APOLLOTYRE",
-    "expiry": "25-Jun-20",
-    "lot": "3000",
-    "price": "109",
-    "mis": "7050",
-    "op_mis": "7050",
-    "nrml": "70500"
+    "expiry": "31-Dec-20",
+    "lot": "5000",
+    "price": "188",
+    "mis": "63309",
+    "nrml": "253237"
   },
   {
     "scrip": "ASHOKLEY",
-    "expiry": "25-Jun-20",
-    "lot": "8000",
-    "price": "54",
-    "mis": "11568",
-    "op_mis": "11568",
-    "nrml": "115680"
+    "expiry": "31-Dec-20",
+    "lot": "9000",
+    "price": "96",
+    "mis": "74356",
+    "nrml": "297424"
   },
   {
     "scrip": "ASIANPAINT",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "300",
-    "price": "1621",
-    "mis": "9728",
-    "op_mis": "9728",
-    "nrml": "97275"
+    "price": "2407",
+    "mis": "37694",
+    "nrml": "150774"
   },
   {
     "scrip": "AUROPHARMA",
-    "expiry": "25-Jun-20",
-    "lot": "1000",
-    "price": "785",
-    "mis": "25659",
-    "op_mis": "25659",
-    "nrml": "256590"
+    "expiry": "31-Dec-20",
+    "lot": "650",
+    "price": "903",
+    "mis": "45951",
+    "nrml": "183805"
   },
   {
     "scrip": "AXISBANK",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "1200",
-    "price": "417",
-    "mis": "16370",
-    "op_mis": "16370",
-    "nrml": "163704"
+    "price": "606",
+    "mis": "60657",
+    "nrml": "242629"
   },
   {
     "scrip": "BAJAJ-AUTO",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "250",
-    "price": "2679",
-    "mis": "14841",
-    "op_mis": "14841",
-    "nrml": "148413"
+    "price": "3315",
+    "mis": "44882",
+    "nrml": "179526"
   },
   {
     "scrip": "BAJAJFINSV",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "125",
-    "price": "5892",
-    "mis": "17074",
-    "op_mis": "17074",
-    "nrml": "170735"
+    "price": "9174",
+    "mis": "87867",
+    "nrml": "351469"
   },
   {
     "scrip": "BAJFINANCE",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "250",
-    "price": "2699",
-    "mis": "16186",
-    "op_mis": "16186",
-    "nrml": "161855"
+    "price": "4874",
+    "mis": "101010",
+    "nrml": "404038"
   },
   {
     "scrip": "BALKRISIND",
-    "expiry": "25-Jun-20",
-    "lot": "800",
-    "price": "1216",
-    "mis": "24049",
-    "op_mis": "24049",
-    "nrml": "240488"
+    "expiry": "31-Dec-20",
+    "lot": "400",
+    "price": "1657",
+    "mis": "44274",
+    "nrml": "177095"
   },
   {
     "scrip": "BANDHANBNK",
-    "expiry": "25-Jun-20",
-    "lot": "1200",
-    "price": "292",
-    "mis": "11526",
-    "op_mis": "11526",
-    "nrml": "115260"
+    "expiry": "31-Dec-20",
+    "lot": "1800",
+    "price": "379",
+    "mis": "76482",
+    "nrml": "305929"
   },
   {
     "scrip": "BANKBARODA",
-    "expiry": "25-Jun-20",
-    "lot": "5400",
-    "price": "47",
-    "mis": "8273",
-    "op_mis": "8273",
-    "nrml": "82728"
+    "expiry": "31-Dec-20",
+    "lot": "8200",
+    "price": "59",
+    "mis": "51195",
+    "nrml": "204780"
   },
   {
     "scrip": "BATAINDIA",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "550",
-    "price": "1342",
-    "mis": "17211",
-    "op_mis": "17211",
-    "nrml": "172106"
+    "price": "1550",
+    "mis": "49266",
+    "nrml": "197064"
   },
   {
     "scrip": "BEL",
-    "expiry": "25-Jun-20",
-    "lot": "6000",
-    "price": "80",
-    "mis": "11568",
-    "op_mis": "11568",
-    "nrml": "115680"
+    "expiry": "31-Dec-20",
+    "lot": "7600",
+    "price": "116",
+    "mis": "62021",
+    "nrml": "248086"
   },
   {
     "scrip": "BERGEPAINT",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "1100",
-    "price": "501",
-    "mis": "11854",
-    "op_mis": "11854",
-    "nrml": "118536"
+    "price": "674",
+    "mis": "39562",
+    "nrml": "158246"
   },
   {
     "scrip": "BHARATFORG",
-    "expiry": "25-Jun-20",
-    "lot": "1300",
-    "price": "376",
-    "mis": "13117",
-    "op_mis": "13117",
-    "nrml": "131170"
+    "expiry": "31-Dec-20",
+    "lot": "1500",
+    "price": "543",
+    "mis": "62127",
+    "nrml": "248507"
   },
   {
     "scrip": "BHARTIARTL",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "1851",
-    "price": "572",
-    "mis": "24239",
-    "op_mis": "24239",
-    "nrml": "242388"
+    "price": "483",
+    "mis": "55564",
+    "nrml": "222257"
   },
   {
     "scrip": "BHEL",
-    "expiry": "25-Jun-20",
-    "lot": "10400",
-    "price": "32",
-    "mis": "11690",
-    "op_mis": "11690",
-    "nrml": "116896"
+    "expiry": "31-Dec-20",
+    "lot": "21000",
+    "price": "34",
+    "mis": "78344",
+    "nrml": "313377"
   },
   {
     "scrip": "BIOCON",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "2300",
-    "price": "382",
-    "mis": "28168",
-    "op_mis": "28168",
-    "nrml": "281681"
+    "price": "437",
+    "mis": "78303",
+    "nrml": "313211"
   },
   {
     "scrip": "BOSCHLTD",
-    "expiry": "25-Jun-20",
-    "lot": "40",
-    "price": "10990",
-    "mis": "8440",
-    "op_mis": "8440",
-    "nrml": "84404"
+    "expiry": "31-Dec-20",
+    "lot": "50",
+    "price": "13099",
+    "mis": "41489",
+    "nrml": "165958"
   },
   {
     "scrip": "BPCL",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "1800",
-    "price": "381",
-    "mis": "25096",
-    "op_mis": "25096",
-    "nrml": "250956"
+    "price": "397",
+    "mis": "78303",
+    "nrml": "313211"
   },
   {
     "scrip": "BRITANNIA",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "200",
-    "price": "3437",
-    "mis": "16298",
-    "op_mis": "16298",
-    "nrml": "162982"
+    "price": "3656",
+    "mis": "41513",
+    "nrml": "166051"
   },
   {
     "scrip": "CADILAHC",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "2200",
-    "price": "363",
-    "mis": "17314",
-    "op_mis": "17314",
-    "nrml": "173140"
+    "price": "466",
+    "mis": "58751",
+    "nrml": "235004"
   },
   {
     "scrip": "CANBK",
-    "expiry": "25-Jun-20",
-    "lot": "2600",
-    "price": "108",
-    "mis": "6630",
-    "op_mis": "6630",
-    "nrml": "66300"
-  },
-  {
-    "scrip": "CENTURYTEX",
-    "expiry": "25-Jun-20",
-    "lot": "600",
-    "price": "319",
-    "mis": "5446",
-    "op_mis": "5446",
-    "nrml": "54456"
+    "expiry": "31-Dec-20",
+    "lot": "5000",
+    "price": "111",
+    "mis": "42589",
+    "nrml": "170358"
   },
   {
     "scrip": "CHOLAFIN",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "2500",
-    "price": "194",
-    "mis": "13953",
-    "op_mis": "13953",
-    "nrml": "139525"
+    "price": "371",
+    "mis": "87685",
+    "nrml": "350738"
   },
   {
     "scrip": "CIPLA",
-    "expiry": "25-Jun-20",
-    "lot": "1150",
-    "price": "638",
-    "mis": "15063",
-    "op_mis": "15063",
-    "nrml": "150627"
+    "expiry": "31-Dec-20",
+    "lot": "1300",
+    "price": "765",
+    "mis": "56236",
+    "nrml": "224945"
   },
   {
     "scrip": "COALINDIA",
-    "expiry": "25-Jun-20",
-    "lot": "2700",
-    "price": "137",
-    "mis": "7919",
-    "op_mis": "7919",
-    "nrml": "79191"
+    "expiry": "31-Dec-20",
+    "lot": "3700",
+    "price": "134",
+    "mis": "29069",
+    "nrml": "116277"
+  },
+  {
+    "scrip": "COFORGE",
+    "expiry": "31-Dec-20",
+    "lot": "375",
+    "price": "2497",
+    "mis": "109600",
+    "nrml": "438402"
   },
   {
     "scrip": "COLPAL",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "700",
-    "price": "1358",
-    "mis": "20094",
-    "op_mis": "20094",
-    "nrml": "200942"
+    "price": "1543",
+    "mis": "55109",
+    "nrml": "220434"
   },
   {
     "scrip": "CONCOR",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "1563",
-    "price": "409",
-    "mis": "17799",
-    "op_mis": "17799",
-    "nrml": "177994"
+    "price": "420",
+    "mis": "55120",
+    "nrml": "220478"
   },
   {
     "scrip": "CUMMINSIND",
-    "expiry": "25-Jun-20",
-    "lot": "900",
-    "price": "376",
-    "mis": "6609",
-    "op_mis": "6609",
-    "nrml": "66087"
+    "expiry": "31-Dec-20",
+    "lot": "1200",
+    "price": "573",
+    "mis": "37459",
+    "nrml": "149838"
   },
   {
     "scrip": "DABUR",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "1250",
-    "price": "444",
-    "mis": "9306",
-    "op_mis": "9306",
-    "nrml": "93063"
+    "price": "505",
+    "mis": "27861",
+    "nrml": "111446"
   },
   {
     "scrip": "DIVISLAB",
-    "expiry": "25-Jun-20",
-    "lot": "400",
-    "price": "2307",
-    "mis": "18794",
-    "op_mis": "18794",
-    "nrml": "187940"
+    "expiry": "31-Dec-20",
+    "lot": "200",
+    "price": "3720",
+    "mis": "41088",
+    "nrml": "164352"
   },
   {
     "scrip": "DLF",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "3300",
-    "price": "162",
-    "mis": "15639",
-    "op_mis": "15639",
-    "nrml": "156387"
+    "price": "204",
+    "mis": "52482",
+    "nrml": "209927"
   },
   {
     "scrip": "DRREDDY",
-    "expiry": "25-Jun-20",
-    "lot": "250",
-    "price": "4010",
-    "mis": "17956",
-    "op_mis": "17956",
-    "nrml": "179555"
+    "expiry": "31-Dec-20",
+    "lot": "125",
+    "price": "4954",
+    "mis": "31176",
+    "nrml": "124704"
   },
   {
     "scrip": "EICHERMOT",
-    "expiry": "25-Jun-20",
-    "lot": "30",
-    "price": "17362",
-    "mis": "12944",
-    "op_mis": "12944",
-    "nrml": "129435"
-  },
-  {
-    "scrip": "EQUITAS",
-    "expiry": "25-Jun-20",
-    "lot": "4900",
-    "price": "53",
-    "mis": "8065",
-    "op_mis": "8065",
-    "nrml": "80654"
+    "expiry": "31-Dec-20",
+    "lot": "350",
+    "price": "2563",
+    "mis": "58531",
+    "nrml": "234125"
   },
   {
     "scrip": "ESCORTS",
-    "expiry": "25-Jun-20",
-    "lot": "1100",
-    "price": "996",
-    "mis": "30480",
-    "op_mis": "30480",
-    "nrml": "304799"
+    "expiry": "31-Dec-20",
+    "lot": "550",
+    "price": "1413",
+    "mis": "58056",
+    "nrml": "232224"
   },
   {
     "scrip": "EXIDEIND",
-    "expiry": "25-Jun-20",
-    "lot": "2900",
-    "price": "152",
-    "mis": "10832",
-    "op_mis": "10832",
-    "nrml": "108315"
+    "expiry": "31-Dec-20",
+    "lot": "3600",
+    "price": "185",
+    "mis": "43735",
+    "nrml": "174939"
   },
   {
     "scrip": "FEDERALBNK",
-    "expiry": "25-Jun-20",
-    "lot": "7000",
-    "price": "51",
-    "mis": "10122",
-    "op_mis": "10122",
-    "nrml": "101220"
+    "expiry": "31-Dec-20",
+    "lot": "8500",
+    "price": "66",
+    "mis": "44548",
+    "nrml": "178193"
   },
   {
     "scrip": "GAIL",
-    "expiry": "25-Jun-20",
-    "lot": "5334",
-    "price": "100",
-    "mis": "18541",
-    "op_mis": "18541",
-    "nrml": "185410"
+    "expiry": "31-Dec-20",
+    "lot": "6100",
+    "price": "118",
+    "mis": "74108",
+    "nrml": "296432"
   },
   {
     "scrip": "GLENMARK",
-    "expiry": "25-Jun-20",
-    "lot": "1400",
-    "price": "410",
-    "mis": "15435",
-    "op_mis": "15435",
-    "nrml": "154350"
+    "expiry": "31-Dec-20",
+    "lot": "1150",
+    "price": "491",
+    "mis": "56276",
+    "nrml": "225103"
   },
   {
     "scrip": "GMRINFRA",
-    "expiry": "25-Jun-20",
-    "lot": "45000",
-    "price": "22",
-    "mis": "26955",
-    "op_mis": "26955",
-    "nrml": "269550"
+    "expiry": "31-Dec-20",
+    "lot": "22500",
+    "price": "27",
+    "mis": "40855",
+    "nrml": "163418"
   },
   {
     "scrip": "GODREJCP",
-    "expiry": "25-Jun-20",
-    "lot": "800",
-    "price": "651",
-    "mis": "11023",
-    "op_mis": "11023",
-    "nrml": "110232"
+    "expiry": "31-Dec-20",
+    "lot": "1000",
+    "price": "717",
+    "mis": "40266",
+    "nrml": "161065"
   },
   {
     "scrip": "GODREJPROP",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "650",
-    "price": "891",
-    "mis": "13000",
-    "op_mis": "13000",
-    "nrml": "130000"
+    "price": "1174",
+    "mis": "59975",
+    "nrml": "239898"
   },
   {
     "scrip": "GRASIM",
-    "expiry": "25-Jun-20",
-    "lot": "750",
-    "price": "602",
-    "mis": "11372",
-    "op_mis": "11372",
-    "nrml": "113715"
+    "expiry": "31-Dec-20",
+    "lot": "950",
+    "price": "916",
+    "mis": "55404",
+    "nrml": "221616"
   },
   {
     "scrip": "HAVELLS",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "1000",
-    "price": "567",
-    "mis": "10405",
-    "op_mis": "10405",
-    "nrml": "104050"
+    "price": "838",
+    "mis": "46044",
+    "nrml": "184177"
   },
   {
     "scrip": "HCLTECH",
-    "expiry": "25-Jun-20",
-    "lot": "1400",
-    "price": "571",
-    "mis": "16873",
-    "op_mis": "16873",
-    "nrml": "168728"
+    "expiry": "31-Dec-20",
+    "lot": "700",
+    "price": "865",
+    "mis": "35502",
+    "nrml": "142009"
   },
   {
     "scrip": "HDFC",
-    "expiry": "25-Jun-20",
-    "lot": "250",
-    "price": "1837",
-    "mis": "10566",
-    "op_mis": "10566",
-    "nrml": "105660"
+    "expiry": "31-Dec-20",
+    "lot": "300",
+    "price": "2262",
+    "mis": "43885",
+    "nrml": "175538"
   },
   {
     "scrip": "HDFCBANK",
-    "expiry": "25-Jun-20",
-    "lot": "500",
-    "price": "1030",
-    "mis": "9462",
-    "op_mis": "9462",
-    "nrml": "94620"
+    "expiry": "31-Dec-20",
+    "lot": "550",
+    "price": "1381",
+    "mis": "40724",
+    "nrml": "162895"
   },
   {
     "scrip": "HDFCLIFE",
-    "expiry": "25-Jun-20",
-    "lot": "900",
-    "price": "522",
-    "mis": "13807",
-    "op_mis": "13807",
-    "nrml": "138069"
+    "expiry": "31-Dec-20",
+    "lot": "1100",
+    "price": "652",
+    "mis": "47095",
+    "nrml": "188381"
   },
   {
     "scrip": "HEROMOTOCO",
-    "expiry": "25-Jun-20",
-    "lot": "200",
-    "price": "2362",
-    "mis": "11909",
-    "op_mis": "11909",
-    "nrml": "119092"
+    "expiry": "31-Dec-20",
+    "lot": "300",
+    "price": "3142",
+    "mis": "58673",
+    "nrml": "234692"
   },
   {
     "scrip": "HINDALCO",
-    "expiry": "25-Jun-20",
-    "lot": "3500",
-    "price": "151",
-    "mis": "15390",
-    "op_mis": "15390",
-    "nrml": "153895"
+    "expiry": "31-Dec-20",
+    "lot": "4300",
+    "price": "243",
+    "mis": "80846",
+    "nrml": "323386"
   },
   {
     "scrip": "HINDPETRO",
-    "expiry": "25-Jun-20",
-    "lot": "2100",
-    "price": "224",
-    "mis": "12797",
-    "op_mis": "12797",
-    "nrml": "127974"
+    "expiry": "31-Dec-20",
+    "lot": "2700",
+    "price": "222",
+    "mis": "51778",
+    "nrml": "207112"
   },
   {
     "scrip": "HINDUNILVR",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "300",
-    "price": "2093",
-    "mis": "12258",
-    "op_mis": "12258",
-    "nrml": "122583"
+    "price": "2142",
+    "mis": "30668",
+    "nrml": "122672"
   },
   {
     "scrip": "IBULHSGFIN",
-    "expiry": "25-Jun-20",
-    "lot": "1200",
-    "price": "202",
-    "mis": "8009",
-    "op_mis": "8009",
-    "nrml": "80088"
+    "expiry": "31-Dec-20",
+    "lot": "3100",
+    "price": "195",
+    "mis": "75550",
+    "nrml": "302199"
   },
   {
     "scrip": "ICICIBANK",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "1375",
-    "price": "363",
-    "mis": "13611",
-    "op_mis": "13611",
-    "nrml": "136111"
+    "price": "485",
+    "mis": "48700",
+    "nrml": "194801"
+  },
+  {
+    "scrip": "ICICIGI",
+    "expiry": "31-Dec-20",
+    "lot": "425",
+    "price": "1492",
+    "mis": "41394",
+    "nrml": "165577"
   },
   {
     "scrip": "ICICIPRULI",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "1500",
-    "price": "390",
-    "mis": "20855",
-    "op_mis": "20855",
-    "nrml": "208545"
+    "price": "479",
+    "mis": "61733",
+    "nrml": "246932"
   },
   {
     "scrip": "IDEA",
-    "expiry": "25-Jun-20",
-    "lot": "98000",
-    "price": "9",
-    "mis": "42336",
-    "op_mis": "42336",
-    "nrml": "423360"
+    "expiry": "31-Dec-20",
+    "lot": "70000",
+    "price": "10",
+    "mis": "106264",
+    "nrml": "425055"
   },
   {
     "scrip": "IDFCFIRSTB",
-    "expiry": "25-Jun-20",
-    "lot": "12000",
-    "price": "26",
-    "mis": "11604",
-    "op_mis": "11604",
-    "nrml": "116040"
+    "expiry": "31-Dec-20",
+    "lot": "19000",
+    "price": "37",
+    "mis": "82895",
+    "nrml": "331578"
   },
   {
     "scrip": "IGL",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "1375",
-    "price": "448",
-    "mis": "14886",
-    "op_mis": "14886",
-    "nrml": "148858"
+    "price": "487",
+    "mis": "40290",
+    "nrml": "161161"
   },
   {
     "scrip": "INDIGO",
-    "expiry": "25-Jun-20",
-    "lot": "300",
-    "price": "1028",
-    "mis": "7161",
-    "op_mis": "7161",
-    "nrml": "71610"
+    "expiry": "31-Dec-20",
+    "lot": "500",
+    "price": "1655",
+    "mis": "58013",
+    "nrml": "232051"
   },
   {
     "scrip": "INDUSINDBK",
-    "expiry": "25-Jun-20",
-    "lot": "400",
-    "price": "485",
-    "mis": "7632",
-    "op_mis": "7632",
-    "nrml": "76316"
+    "expiry": "31-Dec-20",
+    "lot": "800",
+    "price": "900",
+    "mis": "93129",
+    "nrml": "372517"
   },
   {
     "scrip": "INFRATEL",
-    "expiry": "25-Jun-20",
-    "lot": "2000",
-    "price": "219",
-    "mis": "16382",
-    "op_mis": "16382",
-    "nrml": "163820"
+    "expiry": "31-Dec-20",
+    "lot": "2800",
+    "price": "237",
+    "mis": "60300",
+    "nrml": "241199"
   },
   {
     "scrip": "INFY",
-    "expiry": "25-Jun-20",
-    "lot": "1200",
-    "price": "706",
-    "mis": "18234",
-    "op_mis": "18234",
-    "nrml": "182340"
+    "expiry": "31-Dec-20",
+    "lot": "600",
+    "price": "1134",
+    "mis": "38693",
+    "nrml": "154771"
   },
   {
     "scrip": "IOC",
-    "expiry": "25-Jun-20",
-    "lot": "4000",
-    "price": "85",
-    "mis": "6668",
-    "op_mis": "6668",
-    "nrml": "66680"
+    "expiry": "31-Dec-20",
+    "lot": "5700",
+    "price": "91",
+    "mis": "27546",
+    "nrml": "110186"
   },
   {
     "scrip": "ITC",
-    "expiry": "25-Jun-20",
-    "lot": "2400",
-    "price": "184",
-    "mis": "9787",
-    "op_mis": "9787",
-    "nrml": "97872"
+    "expiry": "31-Dec-20",
+    "lot": "3200",
+    "price": "197",
+    "mis": "34419",
+    "nrml": "137678"
   },
   {
     "scrip": "JINDALSTEL",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "5000",
-    "price": "146",
-    "mis": "25145",
-    "op_mis": "25145",
-    "nrml": "251450"
+    "price": "264",
+    "mis": "126933",
+    "nrml": "507732"
   },
   {
     "scrip": "JSWSTEEL",
-    "expiry": "25-Jun-20",
-    "lot": "2300",
-    "price": "195",
-    "mis": "12471",
-    "op_mis": "12471",
-    "nrml": "124706"
+    "expiry": "31-Dec-20",
+    "lot": "2700",
+    "price": "372",
+    "mis": "70770",
+    "nrml": "283081"
   },
   {
     "scrip": "JUBLFOOD",
-    "expiry": "25-Jun-20",
-    "lot": "500",
-    "price": "1690",
-    "mis": "31961",
-    "op_mis": "31961",
-    "nrml": "319605"
-  },
-  {
-    "scrip": "JUSTDIAL",
-    "expiry": "25-Jun-20",
-    "lot": "1400",
-    "price": "362",
-    "mis": "19998",
-    "op_mis": "19998",
-    "nrml": "199976"
+    "expiry": "31-Dec-20",
+    "lot": "250",
+    "price": "2557",
+    "mis": "66895",
+    "nrml": "267580"
   },
   {
     "scrip": "KOTAKBANK",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "400",
-    "price": "1303",
-    "mis": "12600",
-    "op_mis": "12600",
-    "nrml": "126000"
+    "price": "1818",
+    "mis": "51880",
+    "nrml": "207520"
   },
   {
     "scrip": "L&TFH",
-    "expiry": "25-Jun-20",
-    "lot": "5600",
-    "price": "68",
-    "mis": "10735",
-    "op_mis": "10735",
-    "nrml": "107352"
+    "expiry": "31-Dec-20",
+    "lot": "6800",
+    "price": "89",
+    "mis": "51852",
+    "nrml": "207406"
   },
   {
     "scrip": "LICHSGFIN",
-    "expiry": "25-Jun-20",
-    "lot": "1300",
-    "price": "286",
-    "mis": "9333",
-    "op_mis": "9333",
-    "nrml": "93327"
+    "expiry": "31-Dec-20",
+    "lot": "2000",
+    "price": "356",
+    "mis": "54537",
+    "nrml": "218147"
   },
   {
     "scrip": "LT",
-    "expiry": "25-Jun-20",
-    "lot": "375",
-    "price": "900",
-    "mis": "7657",
-    "op_mis": "7657",
-    "nrml": "76568"
+    "expiry": "31-Dec-20",
+    "lot": "550",
+    "price": "1132",
+    "mis": "35091",
+    "nrml": "140365"
   },
   {
     "scrip": "LUPIN",
-    "expiry": "25-Jun-20",
-    "lot": "700",
-    "price": "917",
-    "mis": "12922",
-    "op_mis": "12922",
-    "nrml": "129220"
+    "expiry": "31-Dec-20",
+    "lot": "850",
+    "price": "921",
+    "mis": "46230",
+    "nrml": "184919"
   },
   {
     "scrip": "M&M",
-    "expiry": "25-Jun-20",
-    "lot": "1000",
-    "price": "501",
-    "mis": "11694",
-    "op_mis": "11694",
-    "nrml": "116940"
+    "expiry": "31-Dec-20",
+    "lot": "1400",
+    "price": "749",
+    "mis": "79080",
+    "nrml": "316321"
   },
   {
     "scrip": "M&MFIN",
-    "expiry": "25-Jun-20",
-    "lot": "1600",
-    "price": "175",
-    "mis": "8416",
-    "op_mis": "8416",
-    "nrml": "84160"
+    "expiry": "31-Dec-20",
+    "lot": "3444",
+    "price": "168",
+    "mis": "53009",
+    "nrml": "212037"
   },
   {
     "scrip": "MANAPPURAM",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "6000",
-    "price": "152",
-    "mis": "28008",
-    "op_mis": "28008",
-    "nrml": "280080"
+    "price": "176",
+    "mis": "89443",
+    "nrml": "357773"
   },
   {
     "scrip": "MARICO",
-    "expiry": "25-Jun-20",
-    "lot": "1300",
-    "price": "332",
-    "mis": "6989",
-    "op_mis": "6989",
-    "nrml": "69888"
+    "expiry": "31-Dec-20",
+    "lot": "2000",
+    "price": "391",
+    "mis": "34610",
+    "nrml": "138439"
   },
   {
     "scrip": "MARUTI",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "100",
-    "price": "5904",
-    "mis": "14629",
-    "op_mis": "14629",
-    "nrml": "146290"
+    "price": "7760",
+    "mis": "51215",
+    "nrml": "204861"
   },
   {
     "scrip": "MCDOWELL-N",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "1250",
-    "price": "619",
-    "mis": "17160",
-    "op_mis": "17160",
-    "nrml": "171600"
+    "price": "575",
+    "mis": "40979",
+    "nrml": "163918"
   },
   {
     "scrip": "MFSL",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "1300",
-    "price": "498",
-    "mis": "24480",
-    "op_mis": "24480",
-    "nrml": "244803"
+    "price": "639",
+    "mis": "70843",
+    "nrml": "283374"
   },
   {
     "scrip": "MGL",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "600",
-    "price": "1072",
-    "mis": "13582",
-    "op_mis": "13582",
-    "nrml": "135816"
+    "price": "1048",
+    "mis": "39090",
+    "nrml": "156360"
   },
   {
     "scrip": "MINDTREE",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "800",
-    "price": "917",
-    "mis": "22320",
-    "op_mis": "22320",
-    "nrml": "223200"
+    "price": "1448",
+    "mis": "84777",
+    "nrml": "339109"
   },
   {
     "scrip": "MOTHERSUMI",
-    "expiry": "25-Jun-20",
-    "lot": "5000",
-    "price": "98",
-    "mis": "18770",
-    "op_mis": "18770",
-    "nrml": "187700"
+    "expiry": "31-Dec-20",
+    "lot": "7000",
+    "price": "157",
+    "mis": "99335",
+    "nrml": "397338"
   },
   {
     "scrip": "MRF",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "10",
-    "price": "63050",
-    "mis": "10985",
-    "op_mis": "10985",
-    "nrml": "109846"
+    "price": "78896",
+    "mis": "40276",
+    "nrml": "161105"
   },
   {
     "scrip": "MUTHOOTFIN",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "750",
-    "price": "1181",
-    "mis": "18743",
-    "op_mis": "18743",
-    "nrml": "187425"
+    "price": "1186",
+    "mis": "66268",
+    "nrml": "265071"
   },
   {
     "scrip": "NATIONALUM",
-    "expiry": "25-Jun-20",
-    "lot": "11700",
-    "price": "31",
-    "mis": "8459",
-    "op_mis": "8459",
-    "nrml": "84591"
+    "expiry": "31-Dec-20",
+    "lot": "17000",
+    "price": "42",
+    "mis": "48072",
+    "nrml": "192287"
   },
   {
     "scrip": "NAUKRI",
-    "expiry": "25-Jun-20",
-    "lot": "200",
-    "price": "2682",
-    "mis": "14497",
-    "op_mis": "14497",
-    "nrml": "144970"
-  },
-  {
-    "scrip": "NCC",
-    "expiry": "25-Jun-20",
-    "lot": "9000",
-    "price": "31",
-    "mis": "8037",
-    "op_mis": "8037",
-    "nrml": "80370"
+    "expiry": "31-Dec-20",
+    "lot": "250",
+    "price": "4183",
+    "mis": "71873",
+    "nrml": "287494"
   },
   {
     "scrip": "NESTLEIND",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "50",
-    "price": "16128",
-    "mis": "17939",
-    "op_mis": "17939",
-    "nrml": "179387"
-  },
-  {
-    "scrip": "NIFTYIT",
-    "expiry": "25-Jun-20",
-    "lot": "50",
-    "price": "14451",
-    "mis": "11673",
-    "op_mis": "11673",
-    "nrml": "116727"
-  },
-  {
-    "scrip": "NIITTECH",
-    "expiry": "25-Jun-20",
-    "lot": "375",
-    "price": "1335",
-    "mis": "23714",
-    "op_mis": "23714",
-    "nrml": "237139"
+    "price": "17590",
+    "mis": "45051",
+    "nrml": "180205"
   },
   {
     "scrip": "NMDC",
-    "expiry": "25-Jun-20",
-    "lot": "6000",
-    "price": "83",
-    "mis": "13908",
-    "op_mis": "13908",
-    "nrml": "139080"
+    "expiry": "31-Dec-20",
+    "lot": "6700",
+    "price": "106",
+    "mis": "56799",
+    "nrml": "227195"
   },
   {
     "scrip": "NTPC",
-    "expiry": "25-Jun-20",
-    "lot": "4800",
-    "price": "93",
-    "mis": "9672",
-    "op_mis": "9672",
-    "nrml": "96720"
+    "expiry": "31-Dec-20",
+    "lot": "5700",
+    "price": "99",
+    "mis": "33836",
+    "nrml": "135343"
   },
   {
     "scrip": "ONGC",
-    "expiry": "25-Jun-20",
-    "lot": "4100",
-    "price": "86",
-    "mis": "16248",
-    "op_mis": "16248",
-    "nrml": "162483"
+    "expiry": "31-Dec-20",
+    "lot": "7700",
+    "price": "89",
+    "mis": "87260",
+    "nrml": "349042"
   },
   {
     "scrip": "PAGEIND",
-    "expiry": "25-Jun-20",
-    "lot": "25",
-    "price": "18086",
-    "mis": "12011",
-    "op_mis": "12011",
-    "nrml": "120109"
+    "expiry": "31-Dec-20",
+    "lot": "30",
+    "price": "23368",
+    "mis": "41746",
+    "nrml": "166985"
   },
   {
     "scrip": "PEL",
-    "expiry": "25-Jun-20",
-    "lot": "309",
-    "price": "1168",
-    "mis": "13791",
-    "op_mis": "13791",
-    "nrml": "137910"
+    "expiry": "31-Dec-20",
+    "lot": "550",
+    "price": "1501",
+    "mis": "101818",
+    "nrml": "407271"
   },
   {
     "scrip": "PETRONET",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "3000",
-    "price": "261",
-    "mis": "18069",
-    "op_mis": "18069",
-    "nrml": "180690"
+    "price": "258",
+    "mis": "52531",
+    "nrml": "210124"
   },
   {
     "scrip": "PFC",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "6200",
-    "price": "85",
-    "mis": "12388",
-    "op_mis": "12388",
-    "nrml": "123876"
+    "price": "115",
+    "mis": "47596",
+    "nrml": "190384"
   },
   {
     "scrip": "PIDILITIND",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "500",
-    "price": "1400",
-    "mis": "15523",
-    "op_mis": "15523",
-    "nrml": "155225"
+    "price": "1621",
+    "mis": "41927",
+    "nrml": "167708"
   },
   {
     "scrip": "PNB",
-    "expiry": "25-Jun-20",
-    "lot": "8300",
-    "price": "35",
-    "mis": "7246",
-    "op_mis": "7246",
-    "nrml": "72459"
+    "expiry": "31-Dec-20",
+    "lot": "14000",
+    "price": "36",
+    "mis": "45284",
+    "nrml": "181138"
   },
   {
     "scrip": "POWERGRID",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "4000",
-    "price": "171",
-    "mis": "10728",
-    "op_mis": "10728",
-    "nrml": "107280"
+    "price": "194",
+    "mis": "38305",
+    "nrml": "153221"
   },
   {
     "scrip": "PVR",
-    "expiry": "25-Jun-20",
-    "lot": "400",
-    "price": "1015",
-    "mis": "14464",
-    "op_mis": "14464",
-    "nrml": "144636"
+    "expiry": "31-Dec-20",
+    "lot": "407",
+    "price": "1344",
+    "mis": "59644",
+    "nrml": "238577"
   },
   {
     "scrip": "RAMCOCEM",
-    "expiry": "25-Jun-20",
-    "lot": "800",
-    "price": "642",
-    "mis": "9690",
-    "op_mis": "9690",
-    "nrml": "96904"
+    "expiry": "31-Dec-20",
+    "lot": "850",
+    "price": "888",
+    "mis": "40717",
+    "nrml": "162870"
   },
   {
     "scrip": "RBLBANK",
-    "expiry": "25-Jun-20",
-    "lot": "1500",
-    "price": "169",
-    "mis": "7589",
-    "op_mis": "7589",
-    "nrml": "75885"
+    "expiry": "31-Dec-20",
+    "lot": "2600",
+    "price": "232",
+    "mis": "59406",
+    "nrml": "237624"
   },
   {
     "scrip": "RECLTD",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "6000",
-    "price": "107",
-    "mis": "13314",
-    "op_mis": "13314",
-    "nrml": "133140"
+    "price": "127",
+    "mis": "49109",
+    "nrml": "196436"
   },
   {
     "scrip": "RELIANCE",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "505",
-    "price": "1760",
-    "mis": "18210",
-    "op_mis": "18210",
-    "nrml": "182103"
+    "price": "1977",
+    "mis": "62564",
+    "nrml": "250257"
   },
   {
     "scrip": "SAIL",
-    "expiry": "25-Jun-20",
-    "lot": "15700",
-    "price": "30",
-    "mis": "19672",
-    "op_mis": "19672",
-    "nrml": "196721"
+    "expiry": "31-Dec-20",
+    "lot": "19000",
+    "price": "55",
+    "mis": "116059",
+    "nrml": "464237"
   },
   {
     "scrip": "SBILIFE",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "750",
-    "price": "777",
-    "mis": "15084",
-    "op_mis": "15084",
-    "nrml": "150840"
+    "price": "864",
+    "mis": "39241",
+    "nrml": "156963"
   },
   {
     "scrip": "SBIN",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "3000",
-    "price": "185",
-    "mis": "15336",
-    "op_mis": "15336",
-    "nrml": "153360"
+    "price": "258",
+    "mis": "67737",
+    "nrml": "270947"
   },
   {
     "scrip": "SHREECEM",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "50",
-    "price": "21715",
-    "mis": "22487",
-    "op_mis": "22487",
-    "nrml": "224872"
+    "price": "24963",
+    "mis": "69804",
+    "nrml": "279215"
   },
   {
     "scrip": "SIEMENS",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "550",
-    "price": "1069",
-    "mis": "15087",
-    "op_mis": "15087",
-    "nrml": "150871"
+    "price": "1545",
+    "mis": "45876",
+    "nrml": "183504"
   },
   {
     "scrip": "SRF",
-    "expiry": "25-Jun-20",
-    "lot": "250",
-    "price": "3618",
-    "mis": "23471",
-    "op_mis": "23471",
-    "nrml": "234705"
+    "expiry": "31-Dec-20",
+    "lot": "125",
+    "price": "5283",
+    "mis": "42973",
+    "nrml": "171894"
   },
   {
     "scrip": "SRTRANSFIN",
-    "expiry": "25-Jun-20",
-    "lot": "600",
-    "price": "661",
-    "mis": "13659",
-    "op_mis": "13659",
-    "nrml": "136590"
+    "expiry": "31-Dec-20",
+    "lot": "667",
+    "price": "1038",
+    "mis": "64366",
+    "nrml": "257464"
   },
   {
     "scrip": "SUNPHARMA",
-    "expiry": "25-Jun-20",
-    "lot": "1250",
-    "price": "488",
-    "mis": "12994",
-    "op_mis": "12994",
-    "nrml": "129938"
+    "expiry": "31-Dec-20",
+    "lot": "1400",
+    "price": "551",
+    "mis": "46186",
+    "nrml": "184744"
   },
   {
     "scrip": "SUNTV",
-    "expiry": "25-Jun-20",
-    "lot": "1200",
-    "price": "400",
-    "mis": "12121",
-    "op_mis": "12121",
-    "nrml": "121212"
+    "expiry": "31-Dec-20",
+    "lot": "1500",
+    "price": "447",
+    "mis": "43238",
+    "nrml": "172952"
   },
   {
     "scrip": "TATACHEM",
-    "expiry": "25-Jun-20",
-    "lot": "900",
-    "price": "304",
-    "mis": "5884",
-    "op_mis": "5884",
-    "nrml": "58842"
+    "expiry": "31-Dec-20",
+    "lot": "2000",
+    "price": "454",
+    "mis": "52901",
+    "nrml": "211603"
   },
   {
     "scrip": "TATACONSUM",
-    "expiry": "25-Jun-20",
-    "lot": "2700",
-    "price": "378",
-    "mis": "27597",
-    "op_mis": "27597",
-    "nrml": "275967"
+    "expiry": "31-Dec-20",
+    "lot": "1350",
+    "price": "552",
+    "mis": "50418",
+    "nrml": "201671"
   },
   {
     "scrip": "TATAMOTORS",
-    "expiry": "25-Jun-20",
-    "lot": "4300",
-    "price": "103",
-    "mis": "12689",
-    "op_mis": "12689",
-    "nrml": "126893"
+    "expiry": "31-Dec-20",
+    "lot": "5700",
+    "price": "186",
+    "mis": "89471",
+    "nrml": "357885"
   },
   {
     "scrip": "TATAPOWER",
-    "expiry": "25-Jun-20",
-    "lot": "9000",
-    "price": "43",
-    "mis": "7776",
-    "op_mis": "7776",
-    "nrml": "77760"
+    "expiry": "31-Dec-20",
+    "lot": "13500",
+    "price": "70",
+    "mis": "62432",
+    "nrml": "249728"
   },
   {
     "scrip": "TATASTEEL",
-    "expiry": "25-Jun-20",
-    "lot": "1500",
-    "price": "320",
-    "mis": "12528",
-    "op_mis": "12528",
-    "nrml": "125280"
+    "expiry": "31-Dec-20",
+    "lot": "1700",
+    "price": "623",
+    "mis": "83868",
+    "nrml": "335473"
   },
   {
     "scrip": "TCS",
-    "expiry": "25-Jun-20",
-    "lot": "250",
-    "price": "2049",
-    "mis": "9583",
-    "op_mis": "9583",
-    "nrml": "95828"
+    "expiry": "31-Dec-20",
+    "lot": "300",
+    "price": "2727",
+    "mis": "42808",
+    "nrml": "171231"
   },
   {
     "scrip": "TECHM",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "1200",
-    "price": "538",
-    "mis": "15277",
-    "op_mis": "15277",
-    "nrml": "152772"
+    "price": "917",
+    "mis": "65285",
+    "nrml": "261139"
   },
   {
     "scrip": "TITAN",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "750",
-    "price": "977",
-    "mis": "15929",
-    "op_mis": "15929",
-    "nrml": "159293"
+    "price": "1420",
+    "mis": "64474",
+    "nrml": "257898"
   },
   {
     "scrip": "TORNTPHARM",
-    "expiry": "25-Jun-20",
-    "lot": "500",
-    "price": "2539",
-    "mis": "26172",
-    "op_mis": "26172",
-    "nrml": "261720"
+    "expiry": "31-Dec-20",
+    "lot": "250",
+    "price": "2687",
+    "mis": "38834",
+    "nrml": "155335"
   },
   {
     "scrip": "TORNTPOWER",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "3000",
-    "price": "322",
-    "mis": "18984",
-    "op_mis": "18984",
-    "nrml": "189840"
+    "price": "327",
+    "mis": "54175",
+    "nrml": "216699"
   },
   {
     "scrip": "TVSMOTOR",
-    "expiry": "25-Jun-20",
-    "lot": "1350",
-    "price": "368",
-    "mis": "11252",
-    "op_mis": "11252",
-    "nrml": "112523"
+    "expiry": "31-Dec-20",
+    "lot": "1400",
+    "price": "500",
+    "mis": "43028",
+    "nrml": "172114"
   },
   {
     "scrip": "UBL",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "700",
-    "price": "1022",
-    "mis": "14047",
-    "op_mis": "14047",
-    "nrml": "140469"
-  },
-  {
-    "scrip": "UJJIVAN",
-    "expiry": "25-Jun-20",
-    "lot": "1700",
-    "price": "213",
-    "mis": "9984",
-    "op_mis": "9984",
-    "nrml": "99841"
+    "price": "1077",
+    "mis": "42890",
+    "nrml": "171560"
   },
   {
     "scrip": "ULTRACEMCO",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "200",
-    "price": "3844",
-    "mis": "19856",
-    "op_mis": "19856",
-    "nrml": "198560"
+    "price": "4927",
+    "mis": "70777",
+    "nrml": "283108"
   },
   {
     "scrip": "UPL",
-    "expiry": "25-Jun-20",
-    "lot": "900",
-    "price": "437",
-    "mis": "11024",
-    "op_mis": "11024",
-    "nrml": "110241"
+    "expiry": "31-Dec-20",
+    "lot": "1300",
+    "price": "456",
+    "mis": "42526",
+    "nrml": "170105"
   },
   {
     "scrip": "VEDL",
-    "expiry": "25-Jun-20",
-    "lot": "3500",
-    "price": "106",
-    "mis": "10084",
-    "op_mis": "10084",
-    "nrml": "100835"
+    "expiry": "31-Dec-20",
+    "lot": "6200",
+    "price": "127",
+    "mis": "63821",
+    "nrml": "255283"
   },
   {
     "scrip": "VOLTAS",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "1000",
-    "price": "550",
-    "mis": "9953",
-    "op_mis": "9953",
-    "nrml": "99530"
+    "price": "809",
+    "mis": "45584",
+    "nrml": "182337"
   },
   {
     "scrip": "WIPRO",
-    "expiry": "25-Jun-20",
+    "expiry": "31-Dec-20",
     "lot": "3200",
-    "price": "222",
-    "mis": "13373",
-    "op_mis": "13373",
-    "nrml": "133728"
+    "price": "360",
+    "mis": "65717",
+    "nrml": "262866"
   },
   {
     "scrip": "ZEEL",
-    "expiry": "25-Jun-20",
-    "lot": "1700",
-    "price": "173",
-    "mis": "13139",
-    "op_mis": "13139",
-    "nrml": "131393"
+    "expiry": "31-Dec-20",
+    "lot": "3000",
+    "price": "205",
+    "mis": "60003",
+    "nrml": "240013"
   }
 ]

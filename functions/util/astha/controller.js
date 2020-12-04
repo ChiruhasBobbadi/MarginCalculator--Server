@@ -77,7 +77,7 @@ module.exports.commodity = () => {
 
 module.exports.equity = () => {
 
-
+//const equity = ()=>{
     let data = [];
         let test = [];
         request('https://asthatrade.com/site/margin', (error, response, html) => {
@@ -86,16 +86,14 @@ module.exports.equity = () => {
                     const $ = cheerio.load(html);
 
                     $('.ex1  .datatable tbody tr td').each((i, el) => {
-                        // if nrml+mis length==4 || length == 3
-                        if (data.length === 4) {
-                            console.log(data);
 
+                        if (data.length === 5) {
 
                             // for nrml+mis
                             test.push({
                                 'tradingsymbol': data[0],
-                                'mis_multiplier': data[2].match(/(\d+)/)[0],
-                                'nrml_multiplier': data[3].match(/(\d+)/)[0]
+                                'mis_multiplier': data[3].match(/(\d+)/)[0],
+                                'nrml_multiplier': data[4].match(/(\d+)/)[0]
                             });
                             data = [];
 
@@ -115,8 +113,8 @@ module.exports.equity = () => {
 
                     test.push({
                         'tradingsymbol': data[0],
-                        'mis_multiplier': data[2].match(/(\d+)/)[0],
-                        'nrml_multiplier': data[3].match(/(\d+)/)[0]
+                        'mis_multiplier': data[3].match(/(\d+)/)[0],
+                        'nrml_multiplier': data[4].match(/(\d+)/)[0]
                     });
 
                     let new_json = JSON.stringify(test);
@@ -140,7 +138,10 @@ module.exports.equity = () => {
 };
 
 
+
+
 module.exports.futures = () => {
+//  const futures =()=>{
     try {
         let data = [];
         let test = [];
@@ -155,7 +156,7 @@ module.exports.futures = () => {
                 $('.ex1 .datatable tbody tr td').each((i, el) => {
 
 
-                    if (data.length === 8) {
+                    if (data.length === 6) {
 
 
                         test.push({
@@ -163,9 +164,8 @@ module.exports.futures = () => {
                             'expiry': data[1],
                             'lot': data[2],
                             'price': data[3],
-                            'mis': data[5],
-                            'op_mis': data[6],
-                            'nrml': data[7].replace(/,/g,'')
+                            'mis': data[4],
+                            'nrml': data[5]
                         });
                         data = [];
 
@@ -186,9 +186,8 @@ module.exports.futures = () => {
                     'expiry': data[1],
                     'lot': data[2],
                     'price': data[3],
-                    'mis': data[5],
-                    'op_mis': data[6],
-                    'nrml': data[7].replace(/,/g,'')
+                    'mis': data[4],
+                    'nrml': data[5]
                 });
                 let new_json = JSON.stringify(test);
 
@@ -208,6 +207,8 @@ module.exports.futures = () => {
 
 
 };
+
+
 
 
 module.exports.currency = () => {
