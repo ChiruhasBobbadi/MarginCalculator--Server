@@ -25,8 +25,8 @@ cron.schedule("10 10 * * *", () => {
     commodity.call();
     console.log(`astha commodity function is called `);
     astha.commodity();
-    console.log(`ALICE commodity function is called `);
-    alice.commodity();
+    //console.log(`ALICE commodity function is called `);
+    //alice.commodity();
 }, {
     timezone: "Asia/Kolkata"
 });
@@ -35,7 +35,7 @@ cron.schedule("10 10 * * *", () => {
 cron.schedule("52 8 * * *", () => {
     future.call();
     astha.futures();
-    alice.futures();
+    //alice.futures();
     samco.futures();
 }, {
     timezone: "Asia/Kolkata"
@@ -45,7 +45,7 @@ cron.schedule("52 8 * * *", () => {
 cron.schedule("10 9 * * *", () => {
     currency.call();
     astha.currency();
-    alice.currency();
+   // alice.currency();
     samco.currency();
 }, {
     timezone: "Asia/Kolkata"
@@ -54,7 +54,7 @@ cron.schedule("10 9 * * *", () => {
 // equity
 cron.schedule("12 9 * * *", () => {
     astha.equity();
-    alice.equity();
+    //alice.equity();
     samco.equity();
     wisdom.equity();
 }, {
