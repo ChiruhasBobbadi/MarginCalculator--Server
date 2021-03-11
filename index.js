@@ -56,7 +56,7 @@ cron.schedule("12 9 * * *", () => {
     astha.equity();
     //alice.equity();
     samco.equity();
-    //wisdom.equity();
+    wisdom.equity();
 }, {
     timezone: "Asia/Kolkata"
 });
