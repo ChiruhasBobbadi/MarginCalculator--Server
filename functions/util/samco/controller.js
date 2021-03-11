@@ -76,7 +76,7 @@ module.exports.commodity = () => {
 
 
 module.exports.equity = () => {
-
+//     const equity = ()=>{
     let data = [];
     let test = [];
     request('https://www.samco.in/span/equity', (error, response, html) => {
@@ -84,7 +84,7 @@ module.exports.equity = () => {
             if (!error && response.statusCode === 200) {
                 const $ = cheerio.load(html);
 
-                $('#equity_table tbody tr td').each((i, el) => {
+                $('#calculator tbody tr td').each((i, el) => {
                     // if nrml+mis length==4 || length == 3
                     if (data.length === 5) {
                         // for nrml+mis
@@ -116,7 +116,7 @@ module.exports.equity = () => {
                     })
             }
         } catch (e) {
-            console.log("exception occured in alice equity");
+            console.log("exception occured in samco equity " +e);
         }
 
 
@@ -126,9 +126,9 @@ module.exports.equity = () => {
 };
 
 
+
 module.exports.futures = () => {
 
-// const futures = ()=>{
     try {
         let data = [];
         let test = [];
@@ -140,7 +140,7 @@ module.exports.futures = () => {
                 const $ = cheerio.load(html);
 
 
-                $('#equity_table tbody tr td').each((i, el) => {
+                $('#spanMarginCalculator tbody tr td').each((i, el) => {
 
 
                     if (data.length === 9) {
@@ -190,15 +190,15 @@ module.exports.futures = () => {
 
         });
     } catch (e) {
-        console.log("exception occured in alice futures");
+        console.log("exception occured in samco futures");
     }
 
 
 };
 
 
+
 module.exports.currency = () => {
-// const currency = ()=>{
     try {
         let data = [];
         let test = [];
@@ -206,7 +206,7 @@ module.exports.currency = () => {
 
             if (!error && response.statusCode === 200) {
                 const $ = cheerio.load(html);
-                $('#equity_table tbody tr td').each((i, el) => {
+                $('#calculator tbody tr td').each((i, el) => {
                     if (data.length === 9) {
                         test.push({
                             'scrip': data[1],
@@ -248,10 +248,10 @@ module.exports.currency = () => {
 
         });
     } catch (e) {
-        console.log("exception occured in alice currency");
+        console.log("exception occured in samco currency");
     }
 
 };
 
-// currency();
+
 

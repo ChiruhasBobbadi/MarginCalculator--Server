@@ -5,7 +5,7 @@ const path = require('path');
 
 
 module.exports.equity = () => {
-    //const equity = ()=>{
+//    const equity = ()=>{
     let data = [];
     let test = [];
     request('https://wisdomcapital.in/equity-margin-requirements/', (error, response, html) => {
@@ -15,7 +15,7 @@ module.exports.equity = () => {
 
                 $('#tablepress-21 tbody tr td').each((i, el) => {
                     // if nrml+mis length==4 || length == 3
-                    if (data.length === 6) {
+                    if (data.length === 5) {
                         // for nrml+mis
                         test.push({
                             'tradingsymbol': data[0],
@@ -53,6 +53,8 @@ module.exports.equity = () => {
 
 
 };
+
+
 
 
 

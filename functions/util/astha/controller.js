@@ -76,8 +76,7 @@ module.exports.commodity = () => {
 
 
 module.exports.equity = () => {
-
-//const equity = ()=>{
+// const equity = ()=>{
     let data = [];
         let test = [];
         request('https://asthatrade.com/site/margin', (error, response, html) => {
@@ -87,13 +86,13 @@ module.exports.equity = () => {
 
                     $('.ex1  .datatable tbody tr td').each((i, el) => {
 
-                        if (data.length === 5) {
+                        if (data.length === 4) {
 
                             // for nrml+mis
                             test.push({
                                 'tradingsymbol': data[0],
-                                'mis_multiplier': data[3].match(/(\d+)/)[0],
-                                'nrml_multiplier': data[4].match(/(\d+)/)[0]
+                                'mis_multiplier': data[2].match(/(\d+)/)[0],
+                                'nrml_multiplier': data[3].match(/(\d+)/)[0]
                             });
                             data = [];
 
@@ -113,8 +112,8 @@ module.exports.equity = () => {
 
                     test.push({
                         'tradingsymbol': data[0],
-                        'mis_multiplier': data[3].match(/(\d+)/)[0],
-                        'nrml_multiplier': data[4].match(/(\d+)/)[0]
+                        'mis_multiplier': data[2].match(/(\d+)/)[0],
+                        'nrml_multiplier': data[3].match(/(\d+)/)[0]
                     });
 
                     let new_json = JSON.stringify(test);
